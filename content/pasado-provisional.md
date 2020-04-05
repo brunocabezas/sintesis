@@ -38,7 +38,7 @@ https://www.spanishdict.com/translate/distenderse
 husserl y su definicion de tiempo inmanente y tiempo objetivo
 
 
-### Citas
+### Citas (WIP)
 - p35.1
 - p35.2
 - p37
@@ -55,7 +55,7 @@ husserl y su definicion de tiempo inmanente y tiempo objetivo
 - p52
 
 
-### Filosofos
+### Filosofos (WIP)
 San agustin
 Heidegger
 Sartre

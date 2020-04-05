@@ -33,10 +33,10 @@ clasificacion de recuerdos en trabajo de frued: psicopatiologia de la vida cotid
 - retrocedente
 
 
-### Citas
+### Citas (WIP)
 
 
-### Filosofos
+### Filosofos (WIP)
 freud
 hombre lanzandos hacia adelante
 - heidegger
