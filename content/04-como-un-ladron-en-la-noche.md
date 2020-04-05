@@ -1,4 +1,4 @@
-# Como un ladron en la noche
+# Como un ladron en la noche (WIP)
 
 heidegger estudio el tiempo y la historicidad, las bases para la memoria. 
 el ser no estaba vinculado a la eternidad, si no que era temporal en si mismo. que la realidad humana esta infectada de tiempo

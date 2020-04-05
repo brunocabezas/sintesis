@@ -1,4 +1,4 @@
-# Recuerdos en el divan
+# Recuerdos en el divan (WIP)
 
 para comprender a un individuo hay que cononcer su biografia entera. La muerte transforma la vida en un destino
 
