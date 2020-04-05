@@ -6,7 +6,7 @@ Lo anterior da paso a un analisis sobre como operan los recuerdos en nuestra mem
 - Hechos pasados corrigan impresiones en el futuro (1): recuerdos son vivdos posteriormente, pero para encubrir ambiciones, pensamientos, impresiones o aspiraciones, en el presente. Son recuerdos en lo que lo que es recordado no es lo importante, si no, un distractor asociativo.
 - El futuro resignifique el pasado (2): El futuro, le da un nuevo significado al recuerdo.
 
-Al mismo tiempo se hace referencia a los nombres sustitutivos (3) , donde un olvido es desplazado por otro.
+Al mismo tiempo se hace referencia a los nombres sustitutivos [3] , donde un olvido es desplazado por otro.
 
 Algunos recuerdos son seleccionados por sobre otros, estan mas presentes. Los recuerdos cambian con el tiempo y solo en el ultimo instante antes de la muerte vamos a poder saber el significado o que relacion tuvo con la vida del individuo. La muerte como momento de integridad.
 
