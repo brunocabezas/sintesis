@@ -1,28 +1,28 @@
 # Recuerdos en el divan
 
-Dada de la naturaleza de como los recuerdos afectan nuestra memoria, descrita por Freud en capitulos anteriores, se despredende que para cononer la memoria de un individuo hay que conocer su biografia entera. Presentando al momento de muerte como algo que le brinda destina a la vida.
+Dada de la naturaleza de como los recuerdos afectan nuestra memoria (descrita por Freud en capítulos anteriores), se desprende que para conocer la memoria de un individuo hay que conocer su biografía entera. La muerte presentada como lo que le da un destino a la vida.
 
-Eso es, porque mientras el sujeto vive, los registros de los dias pasados se van modificando en base a lo vivido, se van editando, siendo la muerte su corte final. Los recuerdos estan envueltos por un tiempo posterior que modifica su significado.
+Mientras el sujeto vive, los registros de los días pasados (memoria) se van modificando en base a lo vivido; se van editando, siendo la muerte su corte final. Los recuerdos están envueltos por un tiempo posterior que modifica su significado.
 
-Frued tenia una tesis inicial con respecto a la neurosis, los traumas sicologicos que trataba: cuando el pasado se recuperaba y se traia a la conciencia con cierta fidelidad, el hecho traumatico quedaba despojado de su componente destructivo.
+Freud tenia una tesis inicial con respecto a la neurosis, como llamaba a los traumas psicológicos que trataba. Esta era que cuando el pasado se recuperaba y se traía a la conciencia con cierta fidelidad, el hecho traumatice quedaba despojado de su componente destructivo.
 
-Pero luego con sus estudios cambio de parecer: la verdad del sujeto no estaba en la historia del recuerdo, si no en la ficcion. Lo que causa la neurosis es la ficcion sobre la cual se despliega la verdad del sujeto [AGREGAR CITA A HISTORIA DE DA VINCI]
+Pero luego, cambio de parecer: la verdad del sujeto no estaba en la historia o los hechos del recuerdo, si no en la ficción. Lo que causa la neurosis es la ficción sobre la cual se despliega la verdad del sujeto [AGREGAR_CITA_A_HISTORIA_DE_DA_VINCI]
 
-Esto significa un realce de lo simbolico por sobre lo historico, de los significados por sobre los hechos.
+Esto significa un realce de lo simbólico por sobre lo histórico, de los significados por sobre los hechos.
 
-Se habla tambien de los traumas, como una nocion sumamente ambigua, con una dimension fantasmatica infinitamente mas importante que su dimension factica.
+Los traumas, para varios filósofos de entonces, son una noción sumamente ambigua, con una dimensión fantástica infinitamente mas importante que su dimensión factica.
 
-La condicion humana se caracteriza por envolver la realidad en una red interpretativa, que sostiene al humano a cierta distancia de ella. La existencia humana, se narra en parte por una componente de ficcion, que a su vez, se organiza desde las paginas que vienen, desde la proxima a escribir. El inconsiente se organiza desde el futuro.
+La condición humana se caracteriza por envolver la realidad en una red interpretativa, que sostiene al humano a cierta distancia de ella. La existencia humana, se narra en parte por una componente de ficción que se organiza desde las paginas que vienen, desde la próxima a escribir. El inconsciente se organiza desde el futuro.
 
-Jung confirma tambien la importancia del futuro; pero plantea algo diferente, el inconsiente se divide en dos dimensiones:
-- Historica: Remite a lo historico, lo instintivo (recuerdos), la experiencia
+Jung confirma también la importancia del futuro; pero plantea algo diferente, el inconsciente se divide en dos dimensiones:
+- Histórica: Remite a lo histórico, lo instintivo (recuerdos) [CLARIFICAR], la experiencia
 - Futuro: Prefigura un futuro instintivamente en base a la experiencia. Tiene que ver con una finalidad, un sentido anticipatorio.
 
-La importancia del futuro tambien la subrayo lacan. Usando a el trauma, dice que siempre se producira en un tiempo posterior a los hechos. Extiende esto tambien a la historia del individuo humano, diciendo que esta configurada por el futuro anterior, lo que habra sido.
+La importancia del futuro también la subrayó Lacan. El trauma, dice, siempre se producirá en un tiempo posterior a los hechos. Extendiendo esta hasta la historia del individuo humano que, se plantea, esta configurada por el futuro anterior, lo que habrá sido. [CLARIFICAR]
 
 ### Destacados (WIP)
 - Freud estudia a el sueno con Leonardo
-- Lacan y el habra sido
+- Lacan y el habrá sido
 - 
 ### Citas
 - p55

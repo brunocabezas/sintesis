@@ -1,22 +1,25 @@
 # Recuerdo encubridores
 
-Recuerdos encubridores es el nombre de un trabajo de Freud, que se basa en la premisa planteada por el caso de Roberto Piglia: la discordancia entre lo que uno recuerda y lo que uno vive. 
+Recuerdos encubridores es el nombre de un trabajo de Freud, basado en la premisa planteada por el caso de Roberto Piglia: la discordancia entre lo que uno recuerda y lo que uno vive. 
 
-Lo anterior da paso a un analisis sobre como operan los recuerdos en nuestra memoria. En resumen, permiten que:
-- Hechos pasados corrigan impresiones en el futuro (1): recuerdos son vivdos posteriormente, pero para encubrir ambiciones, pensamientos, impresiones o aspiraciones, en el presente. Son recuerdos en lo que lo que es recordado no es lo importante, si no, un distractor asociativo.
+Luego Freud se interesa por los recuerdos e investiga sobre como operan los estos en nuestra memoria
+
+Se empiezan identifican maneras en que los recuerdos afectan a la memoria, siendo las mas comunes:
+- Hechos pasados corrigen impresiones en el futuro (1): recuerdos son vividos posteriormente, pero para encubrir ambiciones, pensamientos, impresiones, aspiraciones del presente. Lo que es recordado no es importante, si no un distractor asociativo.
 - El futuro resignifique el pasado (2): El futuro, le da un nuevo significado al recuerdo.
 
-Al mismo tiempo se hace referencia a los nombres sustitutivos [3] , donde un olvido es desplazado por otro.
+Se sostiene también, que algunos recuerdos son seleccionados por sobre otros, están mas presentes. Los recuerdos cambian con el pasar del tiempo y solo en el ultimo instante antes de la muerte vamos a poder saber el significado o que relación tuvo con la vida del individuo. La muerte se presenta como momento de integridad.
 
-Algunos recuerdos son seleccionados por sobre otros, estan mas presentes. Los recuerdos cambian con el tiempo y solo en el ultimo instante antes de la muerte vamos a poder saber el significado o que relacion tuvo con la vida del individuo. La muerte como momento de integridad.
+El hombre en vida en cambio, tiene incompleto un proyecto incompleto de memoria, nunca definido en su totalidad. Esta lanzado a la vida por delante, para continuamente resignificar recuerdos, buscando ser lo que aun no es, completar la falta. Falta que, a su vez, lo define. 
 
-Es por esto que en vida, el hombre tiene incompleto el proyecto de memoria y nunca definido en su totalidad. Esta lanzado a la vida por delante, para estar continuamente resignificando recuerdos y buscando ser lo que aun no es; buscando completar la falta, que a su vez, lo define. 
+[RESCRIBIR]Se subraya que casos como (1) o (2) son intentos para llegar a la aspiración, que no permite entonces sobrellevar la vida.
 
-Los intentos o retazos para llegar a esta aspiracion pueden recurrir el uso de (1) o (2) por parte de nuestro inconsciente. 
-
-La temporalidad es una caracteristica intrinsicamente humana, que nos permite tener memoria e historia. Demos paso al tiempo.
+[REMOVER?]La temporalidad es una característica intrínsecamente humana, que nos permite tener memoria e historia. Demos paso al tiempo.
 
 ### Destacados (WIP)
+
+
+Al mismo tiempo se hace referencia a los nombres sustitutivos [3], donde un olvido es desplazado por otro.
 
 Explicar el caso de emilio renzi como ejemplo (investigar recuerdos).
 Nombrar documental, (ver donde conseguirlo)
