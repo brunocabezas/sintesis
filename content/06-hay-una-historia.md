@@ -1,31 +1,31 @@
-# hay una historia? (WIP)
+# hay una historia?
 
-el barco de teseo y el caso de piglia introducen un cuestionamiento en la continuidad material de los individuos
+Un antiguo problema es el que viene a tema con los cuestionamientos que surgen de la historia del barco de Tese y el caso de Emilio Renzi: la continuidad material y el cambio. Como algo puede ser reconocible después de que cambia materialmente? De que no es lo mismo?
 
-aristoteles soluciona esto con una verdad conceptual: hay un sustrato entre esos dos extremos que se mantiene; integro desde un inicio, unica.
+Aristoteles soluciona esto con una verdad conceptual: hay un sustrato entre esos dos extremos (antes, después) que se mantiene integro desde un inicio, y hace que el individuo sea único. No debe ser necesariamente visible, pero subyace a estos extremos.
 
-bajo esta verdad se supuso como obvio que si esta sustancia comun entre dos cosas completamente distintas, a pesar de las diferencias, no habia varios individuos, solo uno\
+En la cultura medieval, también se asocia este fondo, esto que subyace, a la identidad individual. Con esta verdad, se supuso algo que puede parecer obvio: si esta sustancia es común entre estas dos cosas completamente distintas, a pesar de las diferencias, no había varios individuos, solo uno.
 
-pasaron siglos para que la identidad se asociara a la memoria, un tipo de recuerdo 
+Con el paso de los siglos, la identidad se fue asociando mas a la memoria, un tipo de recuerdo, que a lo que vemos arriba
 
-locke y el problema de la identidad narrativa. como la identidad esta atada al los cambios por el paso del tiempo y la materialidad. Esta basada en la conciencia y no esta atrapada a a la materialidad. Emilio renzi como acso de ejemplo
+John Locke planteo en 1600 el problema de la identidad narrativa, del si-mismo, planteando que la identidad es posible solo con la conciencia, siendo una mezcla de imaginación y memoria lo que va tejiendo la vida. Esto aleja a la identidad de estar atrapada en la materialidad. 
 
-Heidegger: la identidad deriva de la historicidad del ser humano
+También hubo otros intendos de definir la identidad, por ejemplo, David Hume y Deker Parfit la asociaron a a una ilusión, en base al concepto de impresión.
+
+Heidegger, en cambio dice que la identidad deriva de la memoria, apoyada por la historicidad.
 
 ### Destacados (WIP)
-verdad conceptual:  verdad que consta por el hecho de conocer los terminos que empleamos
+San agustin y el problema con el Hijo, El padre y el espiritu santo.
 
-caso emilio renzi
+Verdad Conceptual: verdad que consta por el hecho de conocer los términos que empleamos
 
-hume y la indentidad una ilusion.
+Emilio Renzi: En la novela *responracion aritificial* de Ricardo Piglia, Emilio renzi es un persoanje que se preunta por su propia historia, entonces abre un album familiar y observa un a foto, en donde ve a un anciano y a un bebe. El se reconoce instintivamente en el bebe. Esto lleva a preuntarse, como Emilio sabe que el bebe era el?, siendo que el no es materialmente el bebe que sale en la foto. 
+
+David hume:   Todo tiene su origen en la impresion que uno desarrollo, y si al momento de tener una impresion de ser alguien un adulto, veo una foto, la impresion de lo que veo debe ser de similares caracteristicas la impresion de mi identidad; pero como eso no es posible, la identidad personal no existe, es una ilusion.
 
 ### Citas (WIP)
 - p94
-- 
-
 
 ### Filosofos (WIP)
 Heidegger
-Hume
-
-
+David Hume
