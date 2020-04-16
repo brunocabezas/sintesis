@@ -26,6 +26,6 @@ David hume:   Todo tiene su origen en la impresion que uno desarrollo, y si al m
 ### Citas (WIP)
 - p94
 
-### Filosofos (WIP)
+### Personajes (WIP)
 Heidegger
 David Hume

@@ -31,7 +31,7 @@ definir Distension
 - p87
 
 
-### Filosofos (WIP)
+### Personajes (WIP)
 Jung
 Lacan
 Freud

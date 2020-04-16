@@ -56,7 +56,7 @@ En cada individuo, el quien de la existencia se singulariza en un acontecer que 
 - p74.2
 - p76
 
-### Filosofos (WIP)
+### Personajes (WIP)
 Jung
 Lacan
 Freud
