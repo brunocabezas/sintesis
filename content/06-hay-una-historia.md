@@ -1,4 +1,4 @@
-# hay una historia?
+# Hay una historia?
 
 Un antiguo problema es el que viene a tema con los cuestionamientos que surgen de la historia del barco de Tese y el caso de Emilio Renzi: la continuidad material y el cambio. Como algo puede ser reconocible después de que cambia materialmente? De que no es lo mismo?
 
@@ -10,7 +10,7 @@ Con el paso de los siglos, la identidad se fue asociando mas a la memoria, un ti
 
 John Locke planteo en 1600 el problema de la identidad narrativa, del si-mismo, planteando que la identidad es posible solo con la conciencia, siendo una mezcla de imaginación y memoria lo que va tejiendo la vida. Esto aleja a la identidad de estar atrapada en la materialidad. 
 
-También hubo otros intendos de definir la identidad, por ejemplo, David Hume y Deker Parfit la asociaron a a una ilusión, en base al concepto de impresión.
+También hubo otros intentos de definir la identidad, por ejemplo, David Hume y Derek Parfit la asociaron a a una ilusión, en base al concepto de impresión.
 
 Heidegger, en cambio dice que la identidad deriva de la memoria, apoyada por la historicidad.
 
