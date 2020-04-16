@@ -24,8 +24,12 @@ Emilio Renzi: En la novela *responracion aritificial* de Ricardo Piglia, Emilio 
 David hume:   Todo tiene su origen en la impresion que uno desarrollo, y si al momento de tener una impresion de ser alguien un adulto, veo una foto, la impresion de lo que veo debe ser de similares caracteristicas la impresion de mi identidad; pero como eso no es posible, la identidad personal no existe, es una ilusion.
 
 ### Citas (WIP)
-- p94
+- p94. Hablando de el cambio material de un caballo entre un caballo gordo y otro flaco. "Y La razón es que en ambos casos la identidad deriva no del material de que están hechos el caballo o el hombre, si no, observa Locke, de la *organización* que posee es materia cambiante y variado". Carlos Pena citando las observaciones de John Locke.
 
 ### Personajes (WIP)
-Heidegger
-David Hume
+- Martin Heidegger
+- San Agustin
+- Derek Parfit
+- David Hume
+- John Locke
+- Ricardo Piglia
