@@ -10,9 +10,9 @@ Apoyado, por los conceptos de arriba, Heidegger presenta el concepto de *"Cuidad
 - proyección: capacidad de anticiparse a si mismos, vivir volcado hacia el futuro. FUTURO
 - la caída: estar atraído por convencionalidades, usos y la gente. PRESENTE
 
-El "Cuidado" se desarrolla con el temporalidad como telón de fondo. De ahi que el ser humano se temporaliza. Esto coincide con San Agustin, que pone el foco en que el tiempo es una experiencia.
+El "Cuidado" se desarrolla con el temporalidad como telón de fondo. De ahi que el ser humano se temporaliza. Esto coincide con San Agustín, que pone el foco en que el tiempo es una experiencia.
 
-Antes que San Agustin, Aristoteles decía que el tiempo era un antes y un después, realzando el cambio. Heidegger re-interpreta esto y dice que, no obstante el cambio, habría cierta continuidad entre el antes y el después, cierta *distensión*. Ortega y Gasset también aporta en el concepto de *distensión*, que según el, define que el individuo humano no *esté* en el tiempo, si no, que *sea* su tiempo: *su* pasado, *su* presente y *su* futuro. El hombre entonces, no debiese tratar el tiempo como algo externo, un recurso o algo utilitario.
+Antes que San Agustín, Aristoteles decía que el tiempo era un antes y un después, realzando el cambio. Heidegger re-interpreta esto y dice que, no obstante el cambio, habría cierta continuidad entre el antes y el después, cierta *distensión*. Ortega y Gasset también aporta en el concepto de *distensión*, que según el, define que el individuo humano no *esté* en el tiempo, si no, que *sea* su tiempo: *su* pasado, *su* presente y *su* futuro. El hombre entonces, no debiese tratar el tiempo como algo externo, un recurso o algo utilitario.
 
 Si vemos el énfasis de Heidegger en el futuro, al cual el hombre esta volcado; sin embargo si pensar hacia adelante, buscar un horizonte que anhelar y al mismo tiempo me define es lo único que pobla nuestra conciencia, la identidad personal no podría ser precisada.
 
@@ -33,8 +33,8 @@ definir Distension
 
 ### Personajes (WIP)
 - Isaiah Berlin
-- San Agustin
+- San Agustín
 - Aristoteles
-- Jose Ortega y Gasse
+- José Ortega y Gasset
 - Martin Heidegger
 

@@ -15,7 +15,7 @@ También hubo otros intentos de definir la identidad, por ejemplo, David Hume y 
 Heidegger, en cambio dice que la identidad deriva de la memoria, apoyada por la historicidad.
 
 ### Destacados (WIP)
-San agustin y el problema con el Hijo, El padre y el espiritu santo.
+San Agustín y el problema con el Hijo, El padre y el espiritu santo.
 
 Verdad Conceptual: verdad que consta por el hecho de conocer los términos que empleamos
 
@@ -28,7 +28,7 @@ David hume:   Todo tiene su origen en la impresion que uno desarrollo, y si al m
 
 ### Personajes (WIP)
 - Martin Heidegger
-- San Agustin
+- San Agustín
 - Derek Parfit
 - David Hume
 - John Locke

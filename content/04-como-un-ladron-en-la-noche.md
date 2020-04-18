@@ -18,7 +18,7 @@ Dilthey, a comienzos de s. XIX, se había empeñado en dotar de autonomía a las
 
 Los grandes historiadores de la época, en cambio, tenían apegos empiristas y una fe idealista en ideas básicas para comprender la historia. Como que esta pueda ser recopilada en un texto, poco interpretable, con hechos o fenómenos históricos tal cual como fueron, y que estos, a su vez, portaban un significado que debía ser descifrado.
 
-Dilthey entonces se pregunta como alguien puede comprender su pasado, y plantea que el objeto histórico es la vida desplegada y el sujeto que intenta comprenderla es una vida en ejecución que intenta descifrarse a si misma. Entonces al volver la vista sobre el pasado, vuelve sobre si mismo.
+Dilthey entonces se pregunta como alguien puede comprender su pasado, y plantea que el objeto histórico es la vida desplegada y el sujeto que intenta comprenderla es una vida en ejecución que intenta descifrarse a si misma. Entonces al volver la vista sobre el pasado, vuelve sobre si  mismo.
 
 Con respecto a la conciencia, Dilthey dice que en la componente interna de la razón humana no hay una conciencia cerrada en si misma, si no, una conciencia que se objetiva con expresiones externas y compartidas; a las que se podría acceder mediante comprensión empática.
 
@@ -45,19 +45,23 @@ En cada individuo, el quien de la existencia se singulariza en un acontecer que 
 - Otro poema de parra
 
 ### Citas
-- p55
-- p68.1
-- p68.2
-- p69.1
-- p69f.2
-- p71.1
-- p71.2
-- p74.1
-- p74.2
-- p76
+Las citas sin autor especificado son del autor del libro: Carlos Pena. 
+
+- p68.1 "Y es que el ser humano que cada uno es, en opinión de Heidegger, no es un puñado de propiedades que puedan enumerarse, sino un cierto quehacer que se ha ido configurando a si mismo a partir de una red interpretativa que estaba allí" 
+- p68.2 "Y es que la vida humana es un quehacer entreverado, mezclado con las cosas en derredor y orientado por un horizonte de sentido en cuyo interior aparece para si misma"
+- p69.1 "Cuando el hombre reflexiona acerca de la cultura, esta intentando dilucidar su propia condición la que como es obvio, se ve afectada por el mismo intento de esclarecerla"
+- p69f.2 "Las ciencias del espíritu, observa, son esfuerzo reflexivo de la vida humana por esclarecerse a si mismas y en la medida que ella se desenvuelve en la historia, envuelta en el tiempo y en circunstancias que no elige, la tarea de fundar ese tipo de ciencias exige llevar adelante una critica de la razón histórica" 
+- p71.1la vida es la noción que abarca la experiencia y la reapropiación de la experiencia mediante la comprensión. Si esto se olvida, hay alguno del espíritu humano que se escapa"
+- p71.2 "La unidad de la razón humana en la cooperación de las ciencias, su carácter de validez general, y, basado en el, el progreso del espíritu humano encaminado al control de la naturaleza y la sociedad: Esta fue la generalización alcanzada en el siglo XVIII. Pero esta racionalización del universo también significa un empobrecimiento del espíritu humano". Wilhem Dilthey.
+- p74.1 "pero Pablo les dice que no importa *cuando* vendrá el salvador, lo que importa es el *como* de la espera"
+- p74.2 "Quienes viven de esa forma, en medio de esa espera atenta y hasta cierto punto perturbada, pero al mismo tiempo involucrados en el mundo, so los hijos de la luz; quienes, en cambio, viven creyendo estar en medio de la paz y la seguridad son hijos de la oscuridad"
+- p76 "Ello, no obstante, este futuro determina al hombre en su presente; siendo por eso mismo futuro verdadero, no algo que se producirá alguna vez en alguna parte, , sino lo que viene hacia el hombre y lo situá ante la decisión". Rudolf Bultmann
 
 ### Personajes (WIP)
-Jung
-Lacan
-Freud
-
+- Sigmud Freud
+- Wilhem Dilthey
+- Rudolf Bultmann
+- Jose Ortega y Gasset
+- Martin Heidegger
+- Jean-Paul Sartre
+  
