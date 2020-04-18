@@ -2,7 +2,7 @@
 
 Llegado a este punto, cabe la pena preguntarse cual es la estructura originaria que permite que la vida humana se construya sobre la base de lo que vendrá.
 
-Algunos estudios de Heidegger tienen que ver con de que esta hecha esta estructura originaria de la memoria, relacionándola con la historicidad. Heidegger argumentaba que el *"ser"* no era una presencia constante (vinculado asi, a la eternidad), si no que era temporal en si mismo. que la realidad humana esta infectada de tiempo
+Algunos estudios de Heidegger tienen que ver con de que esta hecha esta estructura originaria de la memoria, relacionándola con la historicidad. Heidegger argumentaba que el *"ser"* no era una presencia constante (vinculado asi, a la eternidad), si no que era temporal en sí mismo. que la realidad humana esta infectada de tiempo
 
 <!-- Heidegger y sus investigación con respecto al tiempo -->
 Estudiando la condición humana tal cual aparece en una experiencia cotidiana, Heidegger ve al ser humano volcado en la realidad, en las cosas, lanzado delante suyo, pre-ocupado. No es que el ser humano esta abandonado solo con su conciencia, hay una realidad que lo rodea. El *"ser"* es un *ser-en-el-mundo*.
@@ -47,7 +47,7 @@ En cada individuo, el quien de la existencia se singulariza en un acontecer que 
 ### Citas
 Las citas sin autor especificado son del autor del libro: Carlos Pena. 
 
-- p68.1 "Y es que el ser humano que cada uno es, en opinión de Heidegger, no es un puñado de propiedades que puedan enumerarse, sino un cierto quehacer que se ha ido configurando a si mismo a partir de una red interpretativa que estaba allí" 
+- p68.1 "Y es que el ser humano que cada uno es, en opinión de Heidegger, no es un puñado de propiedades que puedan enumerarse, sino un cierto quehacer que se ha ido configurando a sí mismo a partir de una red interpretativa que estaba allí" 
 - p68.2 "Y es que la vida humana es un quehacer entreverado, mezclado con las cosas en derredor y orientado por un horizonte de sentido en cuyo interior aparece para si misma"
 - p69.1 "Cuando el hombre reflexiona acerca de la cultura, esta intentando dilucidar su propia condición la que como es obvio, se ve afectada por el mismo intento de esclarecerla"
 - p69f.2 "Las ciencias del espíritu, observa, son esfuerzo reflexivo de la vida humana por esclarecerse a si mismas y en la medida que ella se desenvuelve en la historia, envuelta en el tiempo y en circunstancias que no elige, la tarea de fundar ese tipo de ciencias exige llevar adelante una critica de la razón histórica" 

@@ -7,7 +7,7 @@ Una condición un tanto dramática, porque cada uno vive en medio de una circuns
 
 Apoyado, por los conceptos de arriba, Heidegger presenta el concepto de *"Cuidado"* como una característica constitutiva del ser humano. Caracterizando el *estar-en-el-mundo* como un conjunto de:
 - facticidad: estar lanzado a un mundo no elegido. PASADO
-- proyección: capacidad de anticiparse a si mismos, vivir volcado hacia el futuro. FUTURO
+- proyección: capacidad de anticiparse a sí mismos, vivir volcado hacia el futuro. FUTURO
 - la caída: estar atraído por convencionalidades, usos y la gente. PRESENTE
 
 El "Cuidado" se desarrolla con el temporalidad como telón de fondo. De ahi que el ser humano se temporaliza. Esto coincide con San Agustín, que pone el foco en que el tiempo es una experiencia.
@@ -23,7 +23,7 @@ definir Distension
 
 ### Citas
 - p80.1 "Nuestra existencia no esta prefijada ni resuelta" 
-- p80.2 "A cambio de eso, el ser humano tiene la condición única en todo lo que existe, de trazar posibilidades para si, de vivir, por decirlo de alguna forma, un paso por delante de si mismo".
+- p80.2 "A cambio de eso, el ser humano tiene la condición única en todo lo que existe, de trazar posibilidades para si, de vivir, por decirlo de alguna forma, un paso por delante de sí mismo".
 - p81 "Vivir consiste, por eso, en arrastrar una culpa, una deuda que no se puede pagar".
 - p81-82 "Nuestro ser el de cada cual, no es una cosa dada y fija, sino que en cada instante somo en potencia innumerables seres, divergentes, que apenas tiene que ver entre si. De estos seres posibles que somos elegimos en cada instante uno para serlo en realidad, abandonando los demás". Isaiah Berlin.
 - p86.1 "Mi futuro, pues, me hace descubrir mi pasado para realizarse. El pasado es ahora real porque lo revivo, y, cuando encuentro en mi pasado los medios para realizar mi futuro es cuando descubro mi presente. Y todo esto acontece en un instante; en cada instante la vida se dilata en las tres dimensiones del tiempo real interior. El futuro me rebota hacia el pasado, este hacia el presente, de aquí voy otra vez al futuro que me arroja al pasado, y este es otro presente, en un eterno girar"
