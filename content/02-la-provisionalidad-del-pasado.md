@@ -10,10 +10,11 @@ La temporalidad es esencial para la memoria, vale la pena entonces describir uno
 San Agustín encuentra la solución en la capacidad de _distenderse_: preocuparse, distraerse y/o sentirse ansioso. Es por esto, que podemos atender (en el presente), esperar (pensando en el futuro) y recordar (con el pasado), y que experimentamos la temporalidad.
 
 Heidegger, usando de base el texto de San Agustín, empieza a trabajar con el concepto de tiempo. Define que el tiempo no es atribuible a las cosas, como los relojes, o a lo que pasa delante/afuera de uno. El lo atribuye al ser humano mismo. Es el como se involucra el ser humano con lo que lo rodea.
-<!-- 
+
+<!--
 Por otro lado, lo que es percibido generalmente de _Las Confesiones de San Agustín_ es la idea del sujeto moderno, cuya individualidad descansa en la certeza de conciencia, que es dueña de si y concibe garantías de identidad y refugio. -->
 
-Esta idea del hombre moderno, que se [percibe del las *Confesiones* de San Agustin](#las-confesiones-de-san-agust%c3%adn), no se condice con lo que Freud plantea en términos de como funcionan los recuerdos. Si la conciencia fuera así, los recuerdos serían capaces de darnos a conocer lo que efectivamente ocurrió y como. Pero, como plantea Freud, los recuerdos suelen ser modificados para olvidar otros o por percepciones futuras y viceversa.
+Esta idea del hombre moderno, que se [percibe del las _Confesiones_ de San Agustin](#las-confesiones-de-san-agust%c3%adn), no se condice con lo que Freud plantea en términos de como funcionan los recuerdos. Si la conciencia fuera así, los recuerdos serían capaces de darnos a conocer lo que efectivamente ocurrió y como. Pero, como plantea Freud, los recuerdos suelen ser modificados para olvidar otros o por percepciones futuras y viceversa.
 
 En este sentido, Heidegger asocia al ser humano un desasosiego, inquietud permanente o ansiedad buscando reposo, que produce que el hombre este lanzado a la realidad, involucrado con ella. Esto impediría alojar una conciencia acumuladora de hechos, con un repertorio de criterios y principios alcanzado desde que alcanzó la madurez.
 
@@ -43,11 +44,12 @@ https://www.spanishdict.com/translate/distenderse -->
 
 #### Heidegger y el _Dasein_
 
-Heidegger utiliza este nuevo concepto de *Dasein* (o ser-ahí, ser-en-el-mundo) para cubrir un análisis sobre la existencia y comportamiento humando, con el fin de entender el ser. El *Dasein*, tiene como características principales :
--  El hombre arrojado a la existencia, con malestar o angustia permanente
--  El hombre involucrado con las cosas*
--  Proyecto de vida definido por la muerte, que añade temporalidad
- 
+Heidegger utiliza este nuevo concepto de _Dasein_ (o ser-ahí, ser-en-el-mundo) para cubrir un análisis sobre la existencia y comportamiento humando, con el fin de entender el ser. El _Dasein_, tiene como características principales :
+
+- El hombre arrojado a la existencia, con malestar o angustia permanente
+- El hombre involucrado con las cosas ***
+- Proyecto de vida definido por la muerte, que añade temporalidad
+
 Dicho de otro modo: rompiendo con la filosofía moderna y el concepto de Descartes del ser como un ente pensante aislado del mundo, él propone la interacción entre el ser y el mundo como eje vertebrador de su esencia.
 
 Lo importante del ser no es el pensar, sino el existir.
@@ -102,7 +104,7 @@ Las citas sin autor especificado son del autor del libro: Carlos Pena.
 
 <!-- p43.1 -->
 
-> #### [8] "Asi, cada uno es su propia posibilidad y el futuro es lo que reúne, en un mismo punto, el pasado, el presente y el porvenir, reordenándolos y, de esa manera, transformándolos".
+> #### [8] "Así, cada uno es su propia posibilidad y el futuro es lo que reúne, en un mismo punto, el pasado, el presente y el porvenir, reordenándolos y, de esa manera, transformándolos".
 
 <!-- p43.2 -->
 

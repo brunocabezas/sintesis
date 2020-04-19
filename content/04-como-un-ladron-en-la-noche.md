@@ -26,7 +26,7 @@ Unas correspondencias con un amigo (el Conde de Yorck), también aportan al tema
 
 Preguntas obvias vinieron, como que es la historicidad? o que estructura constitutiva del ser humano la permite?
 
-Heidegger llego a algo parecido, pero por el lado de la religión. Analizando las cartas de Pablo a los tesalonienses, respuestas a sus preguntas, se desprende que no importa cuando vendrá *El Salvador*, sino el como de la espera. Se subraya el foco existencial, en vez del basado en el conocimiento. Pablo cree en vivir sobriamente y atento, sin eludir el mundo. Remitiendo a la espera como modo de existencia, un como de la vida factica. 
+Heidegger llego a algo parecido, pero por el lado de la religión. Analizando las cartas de Pablo a los tesalonienses, respuestas a sus preguntas, se desprende que no importa cuando vendrá *El Salvador*, sino el como de la espera. Se subraya el foco existencial, en vez del basado en el conocimiento. Pablo cree en vivir sobriamente y atento, sin eludir el mundo. Remitiendo a la espera como modo de existencia, un como de la vida fáctica. 
 
 La espera de lo que vendrá es la forma de vida cristiana, una vida que se organiza en torno a ese futuro que se acerca. En el reino de dios, el futuro determina al hombre en su presente; siendo por eso mismo un futuro verdadero, no algo que se producirá eventualmente, si no, algo que viene hacia el hombre y lo sitúa ante la decisión. 
 
