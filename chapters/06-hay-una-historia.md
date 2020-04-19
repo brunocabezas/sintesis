@@ -1,6 +1,7 @@
 # Hay una historia?
 
-Un antiguo problema es el que viene a tema con los cuestionamientos que surgen de la historia del barco de Tese y el [caso de Emilio Renzi](#emilio-renzi-en-%22respiracion-artificial%22): la continuidad material y el cambio. Como algo puede ser reconocible después de que cambia materialmente? De que no es lo mismo a simple vista?
+<!-- de la historia del barco de Tese y  -->
+Un antiguo problema es el que viene a tema con los cuestionamientos que surgen del [caso de Emilio Renzi](#emilio-renzi-en-%22respiracion-artificial%22): la continuidad material y el cambio. Como algo puede ser reconocible después de que cambia materialmente? De que no es lo mismo a simple vista?
 
 Aristoteles propone una [_verdad conceptual_](#verdad-conceptual): hay un sustrato entre esos dos extremos (antes, después) que se mantiene integro desde un inicio, y hace que el individuo sea único. No debe ser necesariamente visible, pero subyace a estos extremos.
 
@@ -24,7 +25,7 @@ La idea era refutada por los _Arrianistas_, quienes creían que Jesús (el Hijo)
 
 San Agustín acude a a la idea de _sustancia_ (o sustrato) y sugiere que los conceptos _ingenito_ y _engendrado_ se emplean en este aso para aludir a una relación y no en un sentido _sustancial_. Menciona que _ingenito_ simplemente dice _no-hijo_. Es una negación de una relación.
 
-La idea de sustancia se mantenía a salvo.
+La idea de sustancia dentro de la identidad personal, se mantenía a salvo.
 
 #### Verdad conceptual
 
@@ -40,7 +41,7 @@ El ejemplo sirve para comenzar a plantear la problemática del cambio material e
 
 #### David Hume y la identidad personal
 
-En el contexto de analizar el origen de la identidad personal, David Hume tuvo un enfoque distinto al de John Locke: la identidad personal es una ilusión, un supuesto que cuando se lo mira con calma muestra dosasu fragilidad.
+En el contexto de analizar el origen de la identidad personal, David Hume tuvo un enfoque distinto al de John Locke: la identidad personal es una ilusión, un supuesto que cuando se lo mira con calma muestra toda su fragilidad.
 
 El [caso de Emilio Renzi](#emilio-renzi-en-%22respiracion-artificial%22) reconociéndose en la foto en los brazos un hombre que el recuerda es s up adre, no seria mas que una ilusión.
 
@@ -48,11 +49,12 @@ Hume llega a esta conclusión, basado en la _impresión_. Concepto que, para el,
 
 <!-- barco de Teseo -->
 
-## Citas (WIP)
+## Citas
+Las citas sin autor especificado son del autor del libro: Carlos Pena.
 
 <!-- p94 -->
 
-> #### "Y La razón es que en ambos casos la identidad deriva no del material de que están hechos el caballo o el hombre, si no, observa Locke, de la _organización_ que posee es materia cambiante y variado".
+> #### [1] "Y La razón es que en ambos casos la identidad deriva no del material de que están hechos el caballo o el hombre, si no, observa Locke, de la _organización_ que posee es materia cambiante y variado".
 >
 > El autor citando las observaciones de John Locke acerca del cambio material de un caballo entre un caballo gordo y otro flaco.
 

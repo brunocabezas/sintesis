@@ -13,7 +13,7 @@ Los recuerdos cambian con el pasar del tiempo y solo en el último instante ante
 
 El hombre en vida en cambio, tiene un proyecto de memoria incompleto, nunca definido en su totalidad. Esta lanzado a la vida por delante, para continuamente resignificar recuerdos, buscando ser lo que aun no es, completar la falta, que a su vez, lo define.
 
-[RESCRIBIR]Se subraya que casos como (1) o (2) son intentos para llegar a la aspiración, que no permite entonces sobrellevar la vida.
+En este contexto, casos en que los recuerdos operan sobre nuestra memoria ((1) o (2)), son intentos para llegar a cierta aspiración, que nos permite entonces sobrellevar la vida.
 
 <!--
 [REMOVER?]La temporalidad es una característica intrínsecamente humana, que nos permite tener memoria e historia. Demos paso al tiempo. -->
@@ -60,7 +60,7 @@ caso del hombre de los lobos (2) -->
 
 ## Citas
 
-Las citas sin autor especificado son del autor del libro: Carlos Pena.
+Las citas sin autor especificado son del autor del libro: Carlos Peña.
 
 <!-- p25 -->
 

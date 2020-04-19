@@ -32,7 +32,7 @@ La existencia entonces adquirirá su significado a la luz del proyecto que el su
 
 <!-- Dar paso a la historia -->
 
-## Otros
+## Destacados
 
 <!-- poema del tiempo de nicanor parra -->
 
@@ -62,7 +62,7 @@ Lo que es percibido generalmente de _Las Confesiones de San Agustín_ es la idea
 
 ## Citas
 
-Las citas sin autor especificado son del autor del libro: Carlos Pena.
+Las citas sin autor especificado son del autor del libro: Carlos Peña.
 
 <!-- [1] p35.1 -->
 

@@ -40,7 +40,7 @@ En el fondo, estos análisis alejan al tiempo de como es tratado usualmente: alg
 
 En cada individuo, el quien de la existencia se singulariza en un acontecer que transcurre entre el nacimiento y la muerte. Siendo esta estructura primordial para la memoria humana.
 
-## Destacados (WIP)
+## Destacados
 
 #### Heidegger abandonando la filosofía
 Heidegger, en una conferencia de Julio de 1924, expresa que sus palabras, solo tenían en común con la filosofía el hecho de no se teología".
@@ -54,7 +54,7 @@ El titulo del capitulo se da con el análisis de la religión que hacer Martin H
 
 ## Citas
 
-Las citas sin autor especificado son del autor del libro: Carlos Pena.
+Las citas sin autor especificado son del autor del libro: Carlos Peña.
 
 <!-- p68.1 -->
 

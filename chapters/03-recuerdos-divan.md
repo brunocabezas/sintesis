@@ -19,25 +19,21 @@ Jung confirma también la importancia del futuro; pero plantea algo diferente, e
 - Histórica: Remite a lo histórico, lo instintivo (recuerdos) [CLARIFICAR], la experiencia
 - Futuro: Prefigura un futuro instintivamente en base a la experiencia. Tiene que ver con una finalidad, un sentido anticipatorio.
 
-La importancia del futuro también la subrayó Lacan. El trauma, dice, siempre se producirá en un tiempo posterior a los hechos. Extendiendo esta hasta la historia del individuo humano que, se plantea, esta configurada por el futuro anterior, lo que habrá sido. [CLARIFICAR]
+La importancia del futuro también la subrayó Lacan. El trauma, dice, siempre se producirá en un tiempo posterior a los hechos. Extendiendo esto hasta la historia del individuo humano que, se plantea, esta configurada por el futuro anterior, lo que [_"habrá-sido"_](#lacan-y-el-habr%c3%a1-sido).
 
 ## Destacados
 
 #### Freud y el sueño de Leonardo
 
-Freud ha analizado extensamente a Leonardo Da Vinci, en distintos ambitos. En *"Un recuerdo infantil de Leonardo Da Vinci"*, el analisis gira en torno un recuerdo de la niñez de Leonardo, donde es visitado por un milano que golpea con su cola, repetidamente, la boca del niño.
+Freud ha analizado extensamente a Leonardo Da Vinci en distintos ámbitos. En _"Un recuerdo infantil de Leonardo Da Vinci"_, el texto gira en torno un recuerdo de la niñez de Leonardo, donde es visitado por un milano (ave rapaz) que golpea con su cola, repetidamente, la boca del niño.
 
-Freud dice que en el recuerdo de Leonardo esta hecho de ficcion. Que el ave debio haber sido un *cuervo*, no un *milano*. Freud empalma esto con su teoria de la fantasia, dice que Leonardo se confundio de ave rapaz y que el *cuervo* hace mas sentido, por que tiene lazos simbólicos relacionado a la matenidad (en antiguo egipto) y a la  
+Freud dice que en el recuerdo de Leonardo esta hecho de ficción. Que el ave debió haber sido un _cuervo_, no un _milano_. Dice que Leonardo se confundió de ave rapaz y que el _cuervo_ hace mas sentido, por que tiene lazos simbólicos relacionado a la maternidad (en antiguo egipto) y empalma esto con su teoria de la fantasía
+[\[5\]](#citas) y la ficción en los recuerdos.
 
-que el buitre es simbolicamente 
-
+<!--
 Hay multiples fundamentos, que hacen sentido con el estudio mas amplio de Freud sobre Leonardo El problema es que en el recuerdo de Leonardo nunca hubo un buitre, si no un milano, que es otra ave rapaz.
 
-la novela del neurotico
-
-[\[5\]](#citas)
-
-
+la novela del neurotico -->
 
 #### Lacan y el habrá sido
 
@@ -45,16 +41,19 @@ Analizando los eventos traumáticos o perturbadores, Jacques Lacan sugiere que a
 
 Los eventos traumáticos entonces, ocurren en un momento, pero se manifiestan en otros, futuros. Lacan llama a esta característica temporal, algo que _habrá-sido_. Que sugiere que lo que tiene más peso no es el pasado, si no un _"futuro anterior"_ o _"futuro perfecto"_.[\[8\]](#citas)
 
-Para ahondar en este concepto de *"habrá-sido"*, podemos ver esta cita [\[9\]](#citas), donde Lacan dice que el tiempo de la memoria y el presente se relacionan al *habrá-sido*: los recuerdos (de la memoria) nunca podrá ser recordados con precisión, puesto que están inconclusos y abiertos al presente.
+Para ahondar en este concepto de _"habrá-sido"_, podemos ver esta cita [\[9\]](#citas), donde Lacan dice que el tiempo de la memoria y el presente se relacionan al _habrá-sido_: los recuerdos (de la memoria) nunca podrá ser recordados con precisión, puesto que están inconclusos y abiertos al presente.
 
 Esta incompletitud, es opuesta a lo que imaginaba el filosofo alemán Hegel: un presente pleno en el que todo esta finalmente realizado. Con todo el pasado fijado.
 
+<!--
 #### Freud y su neurótica
 
 El avance de la teoría de la neurótica de Freud, termina en la base del psicoanálisis.
-\[2\] - \[6\]
+\[2\] - \[6\] -->
 
 ## Citas
+
+Las citas sin autor especificado son del autor del libro: Carlos Peña.
 
 <!-- p55 -->
 
@@ -101,8 +100,8 @@ El avance de la teoría de la neurótica de Freud, termina en la base del psicoa
 <!-- p62 -->
 
 > #### [9] "Lo que se realiza en mi historia no es el pretérito definido de lo que fue, puesto que ya no es, ni siquiera el perfecto de lo que ha sido (..) si no el futuro anterior de lo que yo habré sido para lo que estoy llegando a ser".
-> 
->  Jacques Lacan
+>
+> Jacques Lacan
 
 ## Personajes (WIP)
 
