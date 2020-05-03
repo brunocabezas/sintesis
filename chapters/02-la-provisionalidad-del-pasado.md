@@ -79,65 +79,65 @@ Las citas sin autor especificado son del autor del libro: Carlos Peña.
 
 <!-- [3] p37 -->
 
-> #### [3] *"Por supuesto que no podemos decir que es largo, porque aun no existe para poder ser largo. Lo que decimos es que será largo. Entonces, cuando lo será? Por si también entonces seguirá siendo futuro, no será largo, por que todavía no existe para ser largo. Y si no ha de ser largo en el momento en que, saliendo del futuro, que todavía no tiene existencia, pasa a tener existencia haciéndose presente para poder ser largo, el tiempo **presente** por las razones apuntadas, proclama que no puede ser largo"*.
+> #### [2] *"Por supuesto que no podemos decir que es largo, porque aun no existe para poder ser largo. Lo que decimos es que será largo. Entonces, cuando lo será? Por si también entonces seguirá siendo futuro, no será largo, por que todavía no existe para ser largo. Y si no ha de ser largo en el momento en que, saliendo del futuro, que todavía no tiene existencia, pasa a tener existencia haciéndose presente para poder ser largo, el tiempo **presente** por las razones apuntadas, proclama que no puede ser largo"*.
 >
 > San Agustín razonando acerca de adosar palabras adjetivos como *largo* al tiempo, en _"Confesiones"_.
 
 <!-- p37 -->
 
-> #### [4] *"Cuando me dispongo a cantar una canción que conozco, antes de comenzarla, mi expectación se extiende hacia la canción en su totalidad. Pero una vez comenzada, todo lo que de la canción voy consignando al pasado a medida que la voy cantando, otro tanto se va extendiendo mi memoria y la vitalidad de esta acción mia va distendiéndose: hacia la memoria, por lo que he cantado, y hacia la expectación por lo que voy a cantar. Pero mi atención sigue estando en el presente, y por ella el futuro pasa a convertirse en pasado"*.
+> #### [3] *"Cuando me dispongo a cantar una canción que conozco, antes de comenzarla, mi expectación se extiende hacia la canción en su totalidad. Pero una vez comenzada, todo lo que de la canción voy consignando al pasado a medida que la voy cantando, otro tanto se va extendiendo mi memoria y la vitalidad de esta acción mia va distendiéndose: hacia la memoria, por lo que he cantado, y hacia la expectación por lo que voy a cantar. Pero mi atención sigue estando en el presente, y por ella el futuro pasa a convertirse en pasado"*.
 >
 > San Agustín en _"Confesiones"_.
 
 <!-- p38 -->
 
-> #### [5] *"No es entonces, observará Heidegger en sus comentarios, que el tiempo le ocurra a las cosas delante de mi cuando se mueven o transitan o a los astros cuando orbitan o al reloj cuando marca las horas: el tiempo es el cómo de involucrarme yo mismo con las cosas y la forma en que estoy siendo en el mundo es la que me permite experimentar el tiempo"*.
+> #### [4] *"No es entonces, observará Heidegger en sus comentarios, que el tiempo le ocurra a las cosas delante de mi cuando se mueven o transitan o a los astros cuando orbitan o al reloj cuando marca las horas: el tiempo es el cómo de involucrarme yo mismo con las cosas y la forma en que estoy siendo en el mundo es la que me permite experimentar el tiempo"*.
 
 <!-- p41 -->
 
-> #### [6] *"Si el ser humano esta inevitablemente involucrado con las cosas, entreverado con ellas, de ahí se sigue que lo que ocurrió en el pasado sigue, en algún sentido, ocurriendo en el presente, puesto que la conciencia en vez de recoger simplemente lo que acaeció, se dejo modelar por esos hecho que, a su vez, al estar acogidos por una conciencia abierta al futuro, también se modificaron"*.
+> #### [5] *"Si el ser humano esta inevitablemente involucrado con las cosas, entreverado con ellas, de ahí se sigue qu6e lo que ocurrió en el pasado sigue, en algún sentido, ocurriendo en el presente, puesto que la conciencia en vez de recoger simplemente lo que acaeció, se dejo modelar por esos hecho que, a su vez, al estar acogidos por una conciencia abierta al futuro, también se modificaron"*.
 
 <!-- p42 -->
 
-> #### [7] *"La conciencia siempre juzga lo que ocurrió a a luz del futuro que imagina sel el acerca"*.
+> #### [6] *"La conciencia siempre juzga lo que ocurrió a a luz del futuro que imagina sel el acerca"*.
 >
 > El autor citando los principios que señala Jean-Paul Sartre.
 
 <!-- p43.1 -->
 
-> #### [8] *"Así, cada uno es su propia posibilidad y el futuro es lo que reúne, en un mismo punto, el pasado, el presente y el porvenir, reordenándolos y, de esa manera, transformándolos"*.
+> #### [7] *"Así, cada uno es su propia posibilidad y el futuro es lo que reúne, en un mismo punto, el pasado, el presente y el porvenir, reordenándolos y, de esa manera, transformándolos"*.
 
 <!-- p43.2 -->
 
-> #### [9] *"El ser humano estaría, sugirió, puesto ante la tarea inevitable de comprenderse a sí mismo modelándose en esa comprensión, pero no como si el estuviera previamente constituido, como si fuera un enigma o un puzzle esperando ser resuelto, si no que ese esfuerzo de comprenderse seria el ser humano en sí mismo"*.
+> #### [8] *"El ser humano estaría, sugirió, puesto ante la tarea inevitable de comprenderse a sí mismo modelándose en esa comprensión, pero no como si el estuviera previamente constituido, como si fuera un enigma o un puzzle esperando ser resuelto, si no que ese esfuerzo de comprenderse seria el ser humano en sí mismo"*.
 >
 > El autor citando la obra de Heidegger.
 
 <!-- p45 -->
 
-> #### [10] *"El hecho de que la existencia humana es el entre el nacimiento y la muerte, dos hechos que nos son negados como experiencia"*.
+> #### [9] *"El hecho de que la existencia humana es el entre el nacimiento y la muerte, dos hechos que nos son negados como experiencia"*.
 
 <!-- p46 -->
 
-> #### [11] *"Al modo de la fabula, el esta condenado a modelarse, sin que nunca pueda, por decirlo asi, descansar en el mismo. Pero esta no es una carga o tarea que, entre otras, posea el ser humano de la que pueda desprenderse, sino que el es esa carga"*.
+> #### [10] *"Al modo de la fabula, el esta condenado a modelarse, sin que nunca pueda, por decirlo asi, descansar en el mismo. Pero esta no es una carga o tarea que, entre otras, posea el ser humano de la que pueda desprenderse, sino que el es esa carga"*.
 
 <!-- p48.1  -->
 
-> #### [12] *"Es posible, --literal y formalmente posible-- un humano vivir que no sea un esperar? No es la función primaria y mas esencial de la vida la expectativa y su mas visceral órgano la esperanza?"*.
+> #### [11] *"Es posible, --literal y formalmente posible-- un humano vivir que no sea un esperar? No es la función primaria y mas esencial de la vida la expectativa y su mas visceral órgano la esperanza?"*.
 >
 > Jose Ortega y Gasset.
 
 <!-- p48.2 -->
 
-> #### [13] *"Y es que el pasado de cada cual obtiene su significado de la proyección hacia el futuro"*.
+> #### [12] *"Y es que el pasado de cada cual obtiene su significado de la proyección hacia el futuro"*.
 
 <!-- p49 -->
 
-> #### [14] *"El pasado sería así permanentemente revocable, estaría siempre amenazado por un significado que viniendo desde el futuro podría dibujar su contenido de nuevo"*.
+> #### [13] *"El pasado sería así permanentemente revocable, estaría siempre amenazado por un significado que viniendo desde el futuro podría dibujar su contenido de nuevo"*.
 
 <!-- p52 -->
 
-> #### [15] *"Con razón, Sartre observó que no importan tanto lo que han hecho del hombre, lo que importa es lo que el hace con lo que han hecho de él"*.
+> #### [14] *"Con razón, Sartre observó que no importan tanto lo que han hecho del hombre, lo que importa es lo que el hace con lo que han hecho de él"*.
 
 ## Personajes (WIP)
 
