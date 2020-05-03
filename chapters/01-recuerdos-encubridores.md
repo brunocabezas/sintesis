@@ -1,19 +1,19 @@
 # Recuerdo encubridores
 
-Recuerdos encubridores es el nombre de un trabajo de Sigmud Freud de 1899 [\[2\]](#2-el-pasado-retornar%C3%ADa-no-para-ser-revivido-sino-que-para-que-un-acontecimiento-posterior-permaneciera-enterrado), basado en la premisa planteada por el [caso de Emilio Renzi](#los-diarios-de-emilio-renzi-ricardo-piglia) y sus diarios: la discordancia entre lo que uno recuerda y lo que uno vive.
+Recuerdos encubridores es el nombre de un trabajo de Sigmud Freud de 1899 [\[2\]](#2-el-pasado-retornar%C3%ADa-no-para-ser-revivido-sino-que-para-que-un-acontecimiento-posterior-permaneciera-enterrado), basado en la premisa planteada por el [caso de Emilio Renzi](#los-diarios-de-emilio-renzi-ricardo-piglia) y sus diarios: la discordancia entre lo que uno recuerda y lo que uno vive. [\[1\]]((#01-recuerdos-encubridores.md#1-lo-que-juzg%C3%B3-importante-mientras-lo-vivi%C3%B3-no-es-lo-que-juzgar%C3%A1-importante-a-la-hora-del-recuerdo)
 
 Luego, Freud se interesa por los recuerdos e investiga como operan en nuestra memoria. Identifica muchas formas en las que afectan a la memoria, siendo las más comunes:
 
-- Hechos pasados corrigen impresiones en el futuro (1): recuerdos son vividos posteriormente, pero para encubrir ambiciones, pensamientos, impresiones, aspiraciones del presente. Lo que es recordado no es importante, si no un distractor asociativo.
-- El futuro resignifique el pasado (2): El futuro, le da un nuevo significado al recuerdo.
+- Hechos pasados corrigen impresiones en el futuro **(a)**: recuerdos son vividos posteriormente, pero para encubrir ambiciones, pensamientos, impresiones, aspiraciones del presente. Lo que es recordado no es importante, si no un distractor asociativo.
+- El futuro resignifique el pasado **(b)**: El futuro, le da un nuevo significado al recuerdo.
 
 Se sostiene también que algunos recuerdos son seleccionados por sobre otros, con cierto criterio, están más presentes
 
-Los recuerdos cambian con el pasar del tiempo y solo en el último instante antes de la muerte vamos a poder saber el significado o que relación tuvo con la vida del individuo. La muerte se presenta como momento de integridad.
+Los recuerdos cambian con el pasar del tiempo y solo en el último instante antes de la muerte vamos a poder saber el significado o que relación tuvo con la vida del individuo. La muerte se presenta como momento de integridad. [\[4\]](#4-entonces-es-el-momento-antes-de-la-muerte-el-segundo-antes-de-que-la-conciencia-se-apague-el-que-establece-el-recuerdo-y-el-olvido-el-que-fija-el-rostro-definitivo-del-pasado)
 
-El hombre en vida en cambio, tiene un proyecto de memoria incompleto, nunca definido en su totalidad. Está lanzado a la vida por delante, para continuamente resignificar recuerdos, buscando ser lo que aun no es, completar la falta, que a su vez, lo define.
+El hombre en vida en cambio, tiene un proyecto de memoria incompleto, nunca definido en su totalidad. Está lanzado a la vida por delante [\[5\]](#5-la-característica-más-peculiar-de-lo-humano-consistiría-en-que-su-ser-siempre-está-delante-suyo-como-si-nunca-estuviera-completo-sino-que-involucrado-en-las-cosas-siempre-estaría-lanzado-por-delante-de-sí-mismo) [\[7\]](#7-y-es-que-siendo-la-vida-humana-un-quehacer-orientado-hacia-delante-siendo-su-estructura-más-intima-temporal-ella-nunca-puede-fijar-el-significado-de-lo-que-le-ocurre-porque-siempre-esta-por-delante-suyo-una-totalidad-a-la-que-aspira-y-que-le-falta-y-cuyos-retazos-podrían-alguna-vez-reclamar-el-empleo-de-un-recuerdo-encubridor-o-un-olvido-sustitutivo-como-una-novela-cuyas-paginas-posteriores-obligaran-una-y-otra-vez-a-releer-las-anteriores-de-manera-que-estas-nunca-tendrían-un-sentido-fijo), para continuamente resignificar recuerdos, buscando ser lo que aun no es, completar la falta, que a su vez, lo define.
 
-En este contexto, casos en que los recuerdos operan sobre nuestra memoria ((1) o (2)), son intentos para lograr aspiraciones que apuntan la totalidad, y nos permiten sobrellevar la vida.
+En este contexto, casos en que los recuerdos operan sobre nuestra memoria (**(a)** o **(b)**), son intentos para lograr aspiraciones que apuntan la totalidad, y nos permiten sobrellevar la vida.
 
 <!--
 [REMOVER?]La temporalidad es una característica intrínsecamente humana, que nos permite tener memoria e historia. Demos paso al tiempo. -->
@@ -28,7 +28,7 @@ Después de casi cincuenta años Ricardo Piglia se sentó a revisar los cuaderno
 
 En el documental, Piglia dice "hay episodios narrados en los cuadernos, de los que me he olvidado por completo", existen en el diario pero no en sus recuerdos. A su vez, hay recuerdos que tiene, pero no están en los diarios.
 
-Se reconoce discordancia entre lo que uno recuerda y lo que uno vive. [\[1\]]()
+Se reconoce discordancia entre lo que uno recuerda y lo que uno vive. [\[1\]](#01-recuerdos-encubridores.md#1-lo-que-juzg%C3%B3-importante-mientras-lo-vivi%C3%B3-no-es-lo-que-juzgar%C3%A1-importante-a-la-hora-del-recuerdo)
 
 #### Freud y los campos amarillos
 
@@ -102,7 +102,7 @@ Las citas sin autor especificado son del autor del libro: Carlos Peña.
 
 > #### [8] _"En otras palabras, es la temporalidad, el transcurrir que nos constituye lo que impide encarcelar el pasado. El impide que seamos rehenes de lo que alguna ves ocurrió. Y de esa forma hace posible la historia y la memoria"_
 
-## Personajes (WIP)
+## Personajes
 
 - Ricardo Piglia, Escritor.
 - Sigmud Freud, Psicoanalista.
@@ -112,7 +112,7 @@ Las citas sin autor especificado son del autor del libro: Carlos Peña.
 
 ## Índice
 
-- **01-recuerdos-encubridores**
+- 01-recuerdos-encubridores
 - [02-la-provisionalidad-del-pasado](./02-la-provisionalidad-del-pasado.md)
 - [03-recuerdos-en-el-divan](./03-recuerdos-en-el-divan.md)
 - [04-experimentar-el-tiempo](./05-experimentar-el-tiempo.md)
