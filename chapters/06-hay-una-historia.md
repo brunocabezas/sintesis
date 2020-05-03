@@ -17,13 +17,13 @@ Heidegger, en cambio dice que la identidad deriva de la memoria, apoyada por la 
 
 ## Destacados
 
-#### el Hijo, El padre y el espiritu santo.
+#### El Hijo, El padre y el Espíritu Santo.
 
 San Agustín, en _"De Trinitate"_, analiza la siguiente pregunta: Como puede afirmarse que el Padre, el Hijo y El Espíritu Santo son tres entidades que equivalen a un único dios?
 
-La idea era refutada por los _Arrianistas_, quienes creían que Jesús (el Hijo) era una creación de Dios (el Padre). El Padre era _ingenito_, a diferencia del Hijo que si era engendrado por alguien. Para los _Arrianistas_ ellos debían ser dos personas y no una.
+La idea era refutada por los _Arrianistas_, quienes creían que Jesús (el Hijo) era una creación de Dios (el Padre). El Padre era _ingénito_, a diferencia del Hijo que si era engendrado por alguien. Para los _Arrianistas_ ellos debían ser dos personas y no una.
 
-San Agustín acude a a la idea de _sustancia_ (o sustrato) y sugiere que los conceptos _ingenito_ y _engendrado_ se emplean en este aso para aludir a una relación y no en un sentido _sustancial_. Menciona que _ingenito_ simplemente dice _no-hijo_. Es una negación de una relación.
+San Agustín acude a a la idea de _sustancia_ (o sustrato) y sugiere que los edén conceptos _ingénito_ y _engendrado_ se emplean en este aso para aludir a una relación y no en un sentido _sustancial_. Menciona que _ingénito_ simplemente dice _no-hijo_. Es una negación de una relación.
 
 La idea de sustancia dentro de la identidad personal, se mantenía a salvo.
 
