@@ -153,5 +153,6 @@ Las citas sin autor especificado son del autor del libro: Carlos Peña.
 - [01-recuerdos-encubridores](./01-recuerdos-encubridores.md)
 - 02-la-provisionalidad-del-pasado
 - [03-recuerdos-en-el-divan](./03-recuerdos-en-el-divan.md)
-- [04-experimentar-el-tiempo](./05-experimentar-el-tiempo.md)
+- [04-como-un-ladron-en-la-noche](./04-como-un-ladron-en-la-noche.md)
+- [05-experimentar-el-tiempo](./05-experimentar-el-tiempo.md)
 - [06-hay-una-historia](./06-hay-una-historia.md)
