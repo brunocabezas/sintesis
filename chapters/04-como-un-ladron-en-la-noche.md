@@ -96,11 +96,11 @@ Las citas sin autor especificado son del autor del libro: Carlos Peña.
 >
 > Rudolf Bultmann
 
-### Personajes (WIP)
+### Personajes
 
 - Sigmud Freud, Psicoanalista.
-- Wilhem Dilthey
-- Rudolf Bultmann
+- Wilhem Dilthey, Historiador.
+- Rudolf Bultmann, Teólogo.
 - Jose Ortega y Gasset, Filósofo.
 - Martin Heidegger, Filósofo. 
 - Jean-Paul Sartre, Filósofo.

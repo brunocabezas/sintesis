@@ -102,7 +102,7 @@ Las citas sin autor especificado son del autor del libro: Carlos Peña.
 >
 > Jacques Lacan
 
-## Personajes (WIP)
+## Personajes
 
 - Carl Jung, Psiquiatra y psicólogo.
 - Jacques Lacan, Psiquiatra y psicoanalista.

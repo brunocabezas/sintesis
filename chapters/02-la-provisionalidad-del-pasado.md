@@ -139,14 +139,13 @@ Las citas sin autor especificado son del autor del libro: Carlos Peña.
 
 > #### [14] *"Con razón, Sartre observó que no importan tanto lo que han hecho del hombre, lo que importa es lo que el hace con lo que han hecho de él"*.
 
-## Personajes (WIP)
+## Personajes
 
 - San Agustín, santo y padre de la iglesia católica.
 - Martin Heidegger, Filósofo.
 - Jean-Paul Sartre, Filósofo.
 - Sigmud Freud, Psicoanalista.
 - Jose Ortega y Gasset, Filósofo.
-
 
 ## Índice
 
