@@ -27,8 +27,8 @@ San Agustín acude a la idea de _sustancia_ (o sustrato) y sugiere que los conce
 
 La idea de sustancia dentro de la identidad personal, se mantenía a salvo.
 
-#### Verdad conceptual
-
+#### Verdad conceptual 
+<!-- TODO ver si es entendible -->
 Aristóteles propone que una verdad conceptual es una que consta por el hecho de conocer los términos que empleamos. Dicho de otra manera, es un enunciado que es verdadero por el mero significado de sus términos.
 
 Un buen ejemplo es la [elaboración de David Hume](#david-hume-y-la-identidad-personal) en torno a la _impresión_. En donde, en base a supuestos, elabora una seguidilla de postulados.

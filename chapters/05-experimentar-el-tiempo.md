@@ -43,7 +43,7 @@ Las citas sin autor especificado son del autor del libro: Carlos Peña.
 
 <!-- p81.2 -->
 
-> #### [4] *"Nuestro ser el de cada cual, no es una cosa dada y fija, sino que en cada instante somo en potencia innumerables seres, divergentes, que apenas tiene que ver entre si. De estos seres posibles que somos elegimos en cada instante uno para serlo en realidad, abandonando los demás"*.
+> #### [4] *"Nuestro ser el de cada cual, no es una cosa dada y fija, sino que en cada instante somo en potencia innumerables seres, divergentes, que apenas tiene que ver entre sí. De estos seres posibles que somos elegimos en cada instante uno para serlo en realidad, abandonando los demás"*.
 >
 > Isaiah Berlin.
 
@@ -53,7 +53,7 @@ Las citas sin autor especificado son del autor del libro: Carlos Peña.
 
 <!-- p86.2 -->
 
-> #### [6] *"Es verdad que cuando vive en su cotidianidad el tiempo aparece como una sustancia, algo objetivo en medio de lo cual su quehacer se desenvuelve. Pero esa es una experiencia, en términos de Heidegger, inauténtica puesto que allí el individuo humano trata el tiempo como un util, un recurso a su disposición con el que se relaciona utilitariamente, olvidando que el es tiempo, es un transcurrir que se distiende"*.
+> #### [6] *"Es verdad que cuando vive en su cotidianidad el tiempo aparece como una sustancia, algo objetivo en medio de lo cual su quehacer se desenvuelve. Pero esa es una experiencia, en términos de Heidegger, inauténtica puesto que allí el individuo humano trata el tiempo como un útil, un recurso a su disposición con el que se relaciona utilitariamente, olvidando que él es tiempo, es un transcurrir que se distiende"*.
 > 
 >  El autor hablando del hombre. 
 

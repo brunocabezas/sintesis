@@ -1,6 +1,6 @@
 # Como un ladrón en la noche
 
-Llegado a este punto, cabe la pena preguntarse cual es la estructura originaria que permite que la vida humana se construya sobre la base de lo que vendrá.
+Llegado a este punto, cabe la pena preguntarse ¿Cuál es la estructura originaria que permite que la vida humana se construya sobre la base de lo que vendrá?.
 
 Algunos estudios de Heidegger averiguan de qué esta hecha esta estructura originaria de la memoria, relacionándola con la historicidad. Heidegger argumentaba que el _"ser"_ no era una presencia constante en el tiempo (vinculado generalmente a la eternidad), si no que él es tiempo. Que la realidad humana esta infectada de tiempo.
 
@@ -10,7 +10,7 @@ Estudiando la condición humana tal cual aparece en una experiencia cotidiana, H
 
 El mundo, circunstancia o situación, otorga sentido a lo que nos rodea. La vida humana es entonces un quehacer entreverado, mezclado con las cosas alrededor. No es que la conciencia se separe de la realidad, si no que está inmersa en ella. No hay conciencia en términos de un fenómeno estrictamente interno, por que está dotada de un horizonte de sentido que viene definido desde afuera.
 
-Heidegger le dice mundo, Ortega y Gasset circunstancia y Sartre situación. Nombres usados para el mismo concepto.
+Heidegger le dice *mundo*, Ortega y Gasset *circunstancia* y Sartre *situación*. Todos nombres usados para el mismo concepto.
 
 Heidegger a su vez, plantea que la vida no se encuentra en la historia, si no que la vida _es_ historia. Apoyado por sus estudios sobre Wilhem Dilthey, un historiador alemán.
 
@@ -32,7 +32,7 @@ Heidegger llegó a algo parecido, pero por el lado de la religión. Analizando l
 
 La espera de lo que vendrá es la forma de vida cristiana, una vida que se organiza en torno a ese futuro que se acerca. En el reino de dios, el futuro determina al hombre en su presente; siendo por eso mismo un futuro verdadero, no algo que se producirá eventualmente, algo que viene hacia el hombre y lo sitúa ante la decisión.
 
-Se habla de futuro presente en el sentido de que el individuo humano debe reaccionar frente a él ahora mismo y no estar a su espera. Como si fuera importante ahora y no s[olo cuando algo de [el acontece. 
+Se habla de futuro presente en el sentido de que el individuo humano debe reaccionar frente a él ahora mismo y no estar a su espera. Como si fuera importante ahora y no sólo cuando algo de él acontece. 
 
 Se ve la espera como algo que aporta al presente, esperar en y para el presente. Lo venidero (o futuro) de la espera es lo que todavía no es presente. Por algo la espera tiene un desarrollo que permea el presente.
 
@@ -45,7 +45,9 @@ En cada individuo, el quien de la existencia se singulariza en un acontecer que 
 #### Heidegger abandonando la filosofía
 Heidegger, en una conferencia de Julio de 1924, expresa que sus palabras, solo tenían en común con la filosofía el hecho de no ser teología.
 
-Heidegger creía que la única forma de dilucidar algunos de los problemas tradicionales de la filosofía consistía en abandonarla. \[p65\]
+Heidegger creía que la única forma de dilucidar algunos de los problemas tradicionales de la filosofía consistía en abandonarla.
+
+ <!-- \[p65\] -->
 
 #### Como un ladrón en la noche
 El titulo del capitulo se da con el análisis de la religión que hacer Martin Heidegger. Ahí, Pablo comparte su visión de la espera en torno a la venida del salvador, donde se debe evitar que "El Señor" llegue *"como un ladrón en la noche"*. 

@@ -14,10 +14,10 @@ Los traumas, para varios filósofos de entonces, son una noción sumamente ambig
 
 La condición humana se caracteriza por envolver la realidad en una red interpretativa, que sostiene al humano a cierta distancia de ella. Esta se narra en parte por un componente de ficción que se organiza desde las páginas que vienen, desde la próxima a escribir. El inconsciente se organiza desde el futuro.
 
-Carl Jung confirma también la importancia del futuro; pero plantea algo diferente, el inconsciente se divide en dos dimensiones:
+Carl Jung confirma también la importancia del futuro; pero plantea algo diferente, el inconsciente tiene dos dimensiones [\[7\]]:
 
-- Histórica: Remite a lo histórico, lo instintivo (recuerdos) [CLARIFICAR], la experiencia
-- Futuro: Prefigura un futuro instintivamente en base a la experiencia. Tiene que ver con una finalidad, un sentido anticipatorio.
+- Histórica: Remite a lo histórico, lo instintivo (recuerdos).
+- Futuro: Prefigura un futuro instintivamente en base a la experiencia (dimensión histórica). Tiene que ver con una finalidad, un sentido anticipatorio.
 
 La importancia del futuro también la subrayó Lacan. El trauma, dice, siempre se producirá en un tiempo posterior a los hechos. Extendiendo esto hasta la historia del individuo humano que, se plantea, esta configurada por el futuro anterior, lo que [_"habrá-sido"_](#lacan-y-el-habr%c3%a1-sido). (explicar aun mas esto)
 
@@ -30,9 +30,9 @@ Freud ha analizado extensamente a Leonardo Da Vinci en distintos ámbitos. En _"
 Freud dice que el recuerdo de Leonardo esta hecho de ficción. El ave debió haber sido un _cuervo_, no un _milano_. Dice que Leonardo se confundió de ave rapaz y que el _cuervo_ hace más sentido, por que tiene lazos simbólicos relacionado a la maternidad (en antiguo egipto) y empalma esto con su teoria de la fantasía [\[5\]](#5-la-fantasía-freudiana-o-si-se-prefiere-el-fantasma-no-encubre-la-realidad-sino-que-la-constituye-soporta-el-sentido-realidad-del-sujeto-que-cuando-se-despoja-de-la-fantasía-queda-a-al-intemperie-desorientado-asomado-al-horror-porque-este-es-finalmente-lo-que-queda-como-resto-cuando-la-fantasía-se-disuelve) y la ficción en los recuerdos.
 
 <!--
-Hay multiples fundamentos, que hacen sentido con el estudio mas amplio de Freud sobre Leonardo El problema es que en el recuerdo de Leonardo nunca hubo un buitre, si no un milano, que es otra ave rapaz.
+Hay múltiples fundamentos, que hacen sentido con el estudio más amplio de Freud sobre Leonardo El problema es que en el recuerdo de Leonardo nunca hubo un buitre, si no un milano, que es otra ave rapaz.
 
-la novela del neurotico -->
+la novela del neurótico -->
 
 #### Lacan y el habrá sido
 
@@ -87,6 +87,8 @@ Las citas sin autor especificado son del autor del libro: Carlos Peña.
 <!-- p60.1 -->
 
 > #### [7] *"Por esta razón a menudo es muy difícil decidir si una determinada manifestación autónoma de lo inconsciente ha de entenderse sobre todo como efecto (y, por tanto, en sentido histórico) o como finalidad (y, por tanto, en sentido anticipatorio)"*.
+>  
+> Carl Jung, en *"Conciencia, Inconsciente e Individuación"*, hablando del inconsciente y sus dimensiones.
 
 <!-- p60.2 -->
 
@@ -107,6 +109,7 @@ Las citas sin autor especificado son del autor del libro: Carlos Peña.
 - Carl Jung, Psiquiatra y psicólogo.
 - Jacques Lacan, Psiquiatra y psicoanalista.
 - Sigmud Freud, Psicoanalista.
+- Georg Wilhelm Friedrich Hegel, Filosofo idealista.
 - Leonardo Da Vinci, polímata florentino del renacimiento.
 
 

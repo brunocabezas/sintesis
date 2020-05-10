@@ -79,7 +79,7 @@ Las citas sin autor especificado son del autor del libro: Carlos Peña.
 
 <!-- [3] p37 -->
 
-> #### [2] *"Por supuesto que no podemos decir que es largo, porque aun no existe para poder ser largo. Lo que decimos es que será largo. Entonces, cuando lo será? Por si también entonces seguirá siendo futuro, no será largo, por que todavía no existe para ser largo. Y si no ha de ser largo en el momento en que, saliendo del futuro, que todavía no tiene existencia, pasa a tener existencia haciéndose presente para poder ser largo, el tiempo **presente** por las razones apuntadas, proclama que no puede ser largo"*.
+> #### [2] *"Por supuesto que no podemos decir que es largo, porque aun no existe para poder ser largo. Lo que decimos es que será largo. Entonces, ¿Cuándo lo será? Por si también entonces seguirá siendo futuro, no será largo, por que todavía no existe para ser largo. Y si no ha de ser largo en el momento en que, saliendo del futuro, que todavía no tiene existencia, pasa a tener existencia haciéndose presente para poder ser largo, el tiempo **presente** por las razones apuntadas, proclama que no puede ser largo"*.
 >
 > San Agustín razonando acerca de adosar palabras adjetivos como *largo* al tiempo, en _"Confesiones"_.
 
@@ -95,11 +95,11 @@ Las citas sin autor especificado son del autor del libro: Carlos Peña.
 
 <!-- p41 -->
 
-> #### [5] *"Si el ser humano esta inevitablemente involucrado con las cosas, entreverado con ellas, de ahí se sigue qu6e lo que ocurrió en el pasado sigue, en algún sentido, ocurriendo en el presente, puesto que la conciencia en vez de recoger simplemente lo que acaeció, se dejo modelar por esos hecho que, a su vez, al estar acogidos por una conciencia abierta al futuro, también se modificaron"*.
+> #### [5] *"Si el ser humano esta inevitablemente involucrado con las cosas, entreverado con ellas, de ahí se sigue que lo que ocurrió en el pasado sigue, en algún sentido, ocurriendo en el presente, puesto que la conciencia en vez de recoger simplemente lo que sucedió, se dejó modelar por esos hecho que, a su vez, al estar acogidos por una conciencia abierta al futuro, también se modificaron"*.
 
 <!-- p42 -->
 
-> #### [6] *"La conciencia siempre juzga lo que ocurrió a a luz del futuro que imagina sel el acerca"*.
+> #### [6] *"La conciencia siempre juzga lo que ocurrió a luz del futuro que imagina, se acerca"*.
 >
 > El autor citando los principios que señala Jean-Paul Sartre.
 
@@ -109,7 +109,7 @@ Las citas sin autor especificado son del autor del libro: Carlos Peña.
 
 <!-- p43.2 -->
 
-> #### [8] *"El ser humano estaría, sugirió, puesto ante la tarea inevitable de comprenderse a sí mismo modelándose en esa comprensión, pero no como si el estuviera previamente constituido, como si fuera un enigma o un puzzle esperando ser resuelto, si no que ese esfuerzo de comprenderse seria el ser humano en sí mismo"*.
+> #### [8] *"El ser humano estaría, sugirió, puesto ante la tarea inevitable de comprenderse a sí mismo modelándose en esa comprensión, pero no como si el estuviera previamente constituido, como si fuera un enigma o un puzzle esperando ser resuelto, si no que ese esfuerzo de comprenderse sería el ser humano en sí mismo"*.
 >
 > El autor citando la obra de Heidegger.
 
@@ -119,11 +119,11 @@ Las citas sin autor especificado son del autor del libro: Carlos Peña.
 
 <!-- p46 -->
 
-> #### [10] *"Al modo de la fabula, el esta condenado a modelarse, sin que nunca pueda, por decirlo asi, descansar en el mismo. Pero esta no es una carga o tarea que, entre otras, posea el ser humano de la que pueda desprenderse, sino que el es esa carga"*.
+> #### [10] *"Al modo de la fábula, él esta condenado a modelarse, sin que nunca pueda, por decirlo así, descansar en el mismo. Pero esta no es una carga o tarea que, entre otras, posea el ser humano de la que pueda desprenderse, sino que él es esa carga"*.
 
 <!-- p48.1  -->
 
-> #### [11] *"Es posible, --literal y formalmente posible-- un humano vivir que no sea un esperar? No es la función primaria y mas esencial de la vida la expectativa y su mas visceral órgano la esperanza?"*.
+> #### [11] *"¿Es posible, --literal y formalmente posible-- un humano vivir que no sea un esperar? ¿No es la función primaria y más esencial de la vida la expectativa y su más visceral órgano la esperanza?"*.
 >
 > Jose Ortega y Gasset.
 
