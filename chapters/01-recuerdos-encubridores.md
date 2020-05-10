@@ -1,19 +1,19 @@
 # Recuerdo encubridores
 
-Recuerdos encubridores es el nombre de un trabajo de Sigmud Freud de 1899 \[2\], basado en la premisa planteada por el [caso de Emilio Renzi](#los-diarios-de-emilio-renzi-ricardo-piglia) y sus diarios: la discordancia entre lo que uno recuerda y lo que uno vive.
+Recuerdos encubridores es el nombre de un trabajo de Sigmud Freud de 1899 [\[2\]](#2-el-pasado-retornar%C3%ADa-no-para-ser-revivido-sino-que-para-que-un-acontecimiento-posterior-permaneciera-enterrado), basado en la premisa planteada por el [caso de Emilio Renzi](#los-diarios-de-emilio-renzi-ricardo-piglia) y sus diarios: la discordancia entre lo que uno recuerda y lo que uno vive [\[1\]]((#01-recuerdos-encubridores.md#1-lo-que-juzg%C3%B3-importante-mientras-lo-vivi%C3%B3-no-es-lo-que-juzgar%C3%A1-importante-a-la-hora-del-recuerdo). El término es usado para representar a recuerdos con [ciertas caracteristicas](#freud-y-los-campos-amarillos)[2].
 
-Luego, Freud se interesa por los recuerdos e investiga sobre como operan los estos en nuestra memoria. Identifica muchas maneras en que los recuerdos afectan a la memoria, siendo las mas comunes:
+Luego, Freud se interesa por los recuerdos e investiga como operan en nuestra memoria. Identifica muchas formas en las que afectan a la memoria, siendo las más comunes:
 
-- Hechos pasados corrigen impresiones en el futuro (1): recuerdos son vividos posteriormente, pero para encubrir ambiciones, pensamientos, impresiones, aspiraciones del presente. Lo que es recordado no es importante, si no un distractor asociativo.
-- El futuro resignifique el pasado (2): El futuro, le da un nuevo significado al recuerdo.
+- Hechos pasados corrigen impresiones en el futuro **(a)**: recuerdos son vividos posteriormente, pero para encubrir ambiciones, pensamientos, impresiones, aspiraciones del presente. Lo que es recordado no es importante, si no un distractor asociativo.
+- El futuro resignifique el pasado **(b)**: El futuro, le da un nuevo significado al recuerdo.
 
-Se sostiene también, que algunos recuerdos son seleccionados por sobre otros, con cierto criterio, están mas presentes, los recordamos por sobre otros.
+Se sostiene también que algunos recuerdos son seleccionados por sobre otros, con cierto criterio, están más presentes
 
-Los recuerdos cambian con el pasar del tiempo y solo en el último instante antes de la muerte vamos a poder saber el significado o que relación tuvo con la vida del individuo. La muerte se presenta como momento de integridad.
+Los recuerdos cambian con el pasar del tiempo y solo en el último instante antes de la muerte vamos a poder saber el significado o que relación tuvo con la vida del individuo. La muerte se presenta como momento de integridad. [\[4\]](#4-entonces-es-el-momento-antes-de-la-muerte-el-segundo-antes-de-que-la-conciencia-se-apague-el-que-establece-el-recuerdo-y-el-olvido-el-que-fija-el-rostro-definitivo-del-pasado)
 
-El hombre en vida en cambio, tiene un proyecto de memoria incompleto, nunca definido en su totalidad. Esta lanzado a la vida por delante, para continuamente resignificar recuerdos, buscando ser lo que aun no es, completar la falta, que a su vez, lo define.
+El hombre en vida en cambio, tiene un proyecto de memoria incompleto, nunca definido en su totalidad. Está lanzado a la vida por delante [\[5\]](#5-la-característica-más-peculiar-de-lo-humano-consistiría-en-que-su-ser-siempre-está-delante-suyo-como-si-nunca-estuviera-completo-sino-que-involucrado-en-las-cosas-siempre-estaría-lanzado-por-delante-de-sí-mismo) [\[7\]](#7-y-es-que-siendo-la-vida-humana-un-quehacer-orientado-hacia-delante-siendo-su-estructura-más-intima-temporal-ella-nunca-puede-fijar-el-significado-de-lo-que-le-ocurre-porque-siempre-esta-por-delante-suyo-una-totalidad-a-la-que-aspira-y-que-le-falta-y-cuyos-retazos-podrían-alguna-vez-reclamar-el-empleo-de-un-recuerdo-encubridor-o-un-olvido-sustitutivo-como-una-novela-cuyas-paginas-posteriores-obligaran-una-y-otra-vez-a-releer-las-anteriores-de-manera-que-estas-nunca-tendrían-un-sentido-fijo), para continuamente resignificar recuerdos, buscando ser lo que aun no es, completar la falta, que a su vez, lo define.
 
-En este contexto, casos en que los recuerdos operan sobre nuestra memoria ((1) o (2)), son intentos para llegar a cierta aspiración, que nos permite entonces sobrellevar la vida.
+En este contexto, casos en que los recuerdos operan sobre nuestra memoria (**(a)** o **(b)**), son intentos para lograr aspiraciones que apuntan la totalidad, y nos permiten sobrellevar la vida.
 
 <!--
 [REMOVER?]La temporalidad es una característica intrínsecamente humana, que nos permite tener memoria e historia. Demos paso al tiempo. -->
@@ -22,29 +22,41 @@ En este contexto, casos en que los recuerdos operan sobre nuestra memoria ((1) o
 
 #### Los diarios de Emilio Renzi (Ricardo Piglia)
 
-En este libro de Ricardo Piglia. Emilio Renzi, el principal personaje, recoge parte de los 327 cuadernos en los que desde muy joven anotó el transcurrir de sus días. Paginas que recopilan mas de viente mil días con acontecimientos, impresiones y hechos. Una crónica de sí mismo.
+En este libro de Ricardo Piglia. Emilio Renzi, el principal personaje, recoge parte de los 327 cuadernos en los que desde muy joven anotó el transcurrir de sus días. Páginas que recopilan más de viente mil días de acontecimientos, impresiones y hechos. Una crónica de sí mismo.
 
-El caso es que después de casi cincuenta años, Ricardo Piglia se sentó a revisar los cuadernos (registrado en el documental [327 cuadernos - trailer](https://vimeo.com/ondemand/327cuadernos), [ver online](https://www.youtube.com/watch?v=L55KICMfxbs)).
+Después de casi cincuenta años Ricardo Piglia se sentó a revisar los cuadernos ([327 cuadernos](https://www.youtube.com/watch?v=L55KICMfxbs)).
 
-En el documental, Piglia dice "hay episodios narrados en los cuadernos, de los que me he olvidado por completo", existen en el diario pero no en sus recuerdos. Y a su vez, hay recuerdos que tiene, pero no están en los diarios.
+En el documental, Piglia dice "hay episodios narrados en los cuadernos, de los que me he olvidado por completo", existen en el diario pero no en sus recuerdos. A su vez, hay recuerdos que tiene, pero no están en los diarios.
 
-Se reconoce una condición la discordancia entre lo que uno recuerda y lo que uno vive. \[1\]
+Se reconoce discordancia entre lo que uno recuerda y lo que uno vive. [\[1\]](#01-recuerdos-encubridores.md#1-lo-que-juzg%C3%B3-importante-mientras-lo-vivi%C3%B3-no-es-lo-que-juzgar%C3%A1-importante-a-la-hora-del-recuerdo)
 
 #### Freud y los campos amarillos
 
-Este es un ejemplo de recuerdo encubridor, de Freud.
+Ejemplo de un _recuerdo encubridor_, término definido por Freud.
 
-Freud se ve corriendo en su niñez del pasado, por un prado de flore amarillas, junto a una prima que lleva en sus manos un ramillete. El niño le arrebata las flores a la niña y esta se va llorando hasta una casa campesina, en donde, para consolarla le dan pan. El niño entonces arroja el ramo de flores y se van con la niña a comer el pan que huele exquisito y cuyo aroma y sabor aun recuerda.
+En un recuerdo de la niñez, Freud se ve corriendo por un prado de flores amarillas. Va junto a una prima que lleva en sus manos un ramillete. El niño se lo quita y ésta se va llorando a una casa campesina en donde, para consolarla, le dan pan. El niño entonces arroja el ramo de flores y se van con la niña a comer el pan que cuyo sabor y aroma exquisito aún recuerda.
 
-En este caso, lo recordado (olor, aroma) encubre la fantasía sexual de Freud con la prima.
+Cabe destacar que Freud vivio en el campo hasta los 3 anos de edad, después fue trasladado a la ciudad. Volvió después en dos ocasiones:
+- 17 años, en unas vacaciones escolares. Se enamora de una chica del lugar.
+- 20 años, visita a la casa de su tio. Se reencuentra con aquellos primos del recuerdo.
+
+Cuando recuerda esto y mira hacia atrás; lo analiza y saca a la superficie el trauma que supuso para él haber tenido que adoptar la vida tranquila de campo por una existencia de inquietudes en la cuidad de Viena. La inquietud de tener que "ganarse el pan" es asociada a lo que perdura del recuerdo.
+
+Por otro lado, el quitarle las flores a su prima se lee como desflorar en el sentido de hacerla su esposa y prosperar en el campo.
+
+Lo que más perdura del recuerdo gira en torno a la fantasía de matrimonio con la mujer del campo de los 17 años y no es lo más importante:
+- El color amarillo (de las flores y el vestido).
+- El sabroso pan.
+
+Por esto, es un recuerdo encubridor.
 
 #### Freud y los tipos de recuerdo
 
-En sus trabajos _"Psicopatología de la vida cotidiana"_ y _"La interpretación de Suenos"_, Freud tipifica los recuerdos en base a la relación temporal entre dos momentos de la vida rememorados:
+En sus trabajos _"Psicopatología de la vida cotidiana"_ y _"La interpretación de Sueños"_, Freud tipifica los recuerdos en base a la relación temporal entre dos momentos de la vida rememorados:
 
-- Adelantador: un hecho indiferente se retiene para ocultar un hecho ocurrido en eun tiempo anterior. Un hecho presente oculta uno pasado
-- Simultaneo: el recuerdo ocultado y el encubrido pertenecen al mismo tiempo
-- Retrocedente: encubre un hecho que sobreviene en un tiempo posterior. Un incidente que se disfraza con el pasado y asi se oculta en el tiempo que ya fue
+- Adelantador: un hecho indiferente se retiene para ocultar un hecho ocurrido en un tiempo anterior. Uno presente oculta uno pasado
+- Simultáneo: el recuerdo ocultado y el encubrido pertenecen al mismo tiempo
+- Retrocedente: encubre un hecho de un tiempo posterior. Un incidente que se disfraza con el pasado y así se oculta en el tiempo que ya fue
 
 #### Nombres sustitutivos
 
@@ -64,44 +76,53 @@ Las citas sin autor especificado son del autor del libro: Carlos Peña.
 
 <!-- p25 -->
 
-#### [1] "Lo que juzgo importante mientras lo vivió no es lo que juzgara importante a la hora del recuerdo"
+> #### [1] _"Lo que juzgó importante mientras lo vivió no es lo que juzgará importante a la hora del recuerdo"_.
 
 <!-- p26 -->
 
-> #### [2] "El pasado retornaría no para ser revivido, sino que para que un acontecimiento posterior permaneciera enterrado".
+> #### [2] _"El pasado retornaría no para ser revivido, sino que para que un acontecimiento posterior permaneciera enterrado"_.
 >
-> Sigmud Freud, en una caso de "Recuerdos Encubridores" en donde el pasado encubre y disfraza al presente.
+> Sigmud Freud, acerca de un caso de "recuerdos *encubridores*", donde el pasado encubre y disfraza al presente.
 
 <!-- p31 -->
 
-> #### [3] "Así, el transcurrir de la existencia va cambiando, hasta cierto punto, el pasado".
+> #### [3] _"Así, el transcurrir de la existencia va cambiando, hasta cierto punto, el pasado"_.
 
 <!-- p31-32 -->
 
-> #### [4] "Entonces, es el momento antes de la muerte, el segundo antes de que la conciencia se apague, el que establece el recuerdo y el olvido, el que fija el rostro definitivo del pasado"
+> #### [4] _"Entonces, es el momento antes de la muerte, el segundo antes de que la conciencia se apague, el que establece el recuerdo y el olvido, el que fija el rostro definitivo del pasado"_.
 
 <!-- p32 -->
 
-> #### [5] "La característica mas peculiar de lo huma consistiría en que su ser siempre esta delante suyo, como si nunca estuviera completo sino que, involucrado en las cosas, siempre estaría lanzado por delante de sí mismo.
+> #### [5] _"La característica más peculiar de lo humano consistiría en que su ser siempre está delante suyo, como si nunca estuviera completo sino que, involucrado en las cosas, siempre estaría lanzado por delante de sí mismo_.
 
 <!-- p33 -->
 
-> #### [6] "La realidad humana es perpetuo trascender hacia una coincidencia consigo misma que no se da jamas".
+> #### [6] _"La realidad humana es perpetuo trascender hacia una coincidencia consigo misma que no se da jamás"_.
 >
 > Jean-Paul Sartre, de su trabajo _"El ser y la nada"_.
 
 <!-- p33-34 -->
 
-> #### [7] "Y es que siendo la vida humana un quehacer orientado hacia delante, siendo su estructura mas intima temporal, ella nunca puede fijar el significado de lo que le ocurre porque siempre esta por delante suyo una totalidad a la que aspira y que le falta, y cuyos retazos podrían alguna vez reclamar el empleo de un recuerdo encubridor o un olvido sustitutivo. Como una novela cuyas paginas posteriores obligaran una y otra vez a releer las anteriores, de manera que estas nunca tendrían un sentido fijo".
+> #### [7] _"Y es que siendo la vida humana un quehacer orientado hacia delante, siendo su estructura más intima temporal, ella nunca puede fijar el significado de lo que le ocurre porque siempre esta por delante suyo una totalidad a la que aspira y que le falta, y cuyos retazos podrían alguna vez reclamar el empleo de un recuerdo encubridor o un olvido sustitutivo. Como una novela cuyas paginas posteriores obligaran una y otra vez a releer las anteriores, de manera que estas nunca tendrían un sentido fijo"_.
 
 <!-- p34 -->
 
-> #### [8] "En otras palabras, es la temporalidad, el transcurrir que nos constituye lo que impide encarcelar el pasado. El impide que seamos rehenes de lo que alguna ves ocurrió. Y de esa forma hace posible la historia y la memoria"
+> #### [8] _"En otras palabras, es la temporalidad, el transcurrir que nos constituye lo que impide encarcelar el pasado. El impide que seamos rehenes de lo que alguna ves ocurrió. Y de esa forma hace posible la historia y la memoria"_.
 
-## Personajes (WIP)
+## Personajes
 
 - Ricardo Piglia, Escritor.
 - Sigmud Freud, Psicoanalista.
-- Martin Heidegger, Filosofo.
-- Jose Ortega y Gasset, Filosofo.
-- Jean-Paul Sartre, Filosofo.
+- Martin Heidegger, Filósofo.
+- Jose Ortega y Gasset, Filósofo.
+- Jean-Paul Sartre, Filósofo.
+
+## Índice
+
+- 01-recuerdos-encubridores
+- [02-la-provisionalidad-del-pasado](./02-la-provisionalidad-del-pasado.md)
+- [03-recuerdos-en-el-divan](./03-recuerdos-en-el-divan.md)
+- [04-como-un-ladron-en-la-noche](./04-como-un-ladron-en-la-noche.md)
+- [05-experimentar-el-tiempo](./05-experimentar-el-tiempo.md)
+- [06-hay-una-historia](./06-hay-una-historia.md)
