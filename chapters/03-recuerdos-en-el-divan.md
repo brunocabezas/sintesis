@@ -6,28 +6,28 @@ Los registros de los días pasados (memoria) se van modificando en base a lo viv
 
 Freud inicialmente tenía una tesis [\[2\]](#2-en-otras-palabras-freud-entonces-pensó-que-si-el-pasado-se-recuperaba-y-se-traía-a-la-conciencia-si-el-hecho-traumático-se-rememoraba-con-cierta-fidelidad-entonces-podría-quedar-despojado-de-su-componente-destructivo) con respecto a la neurosis (o neurótica), como llamaba a los traumas psicológicos que trataba. La tesis planteaba que cuando el pasado se recuperaba y se traía a la conciencia con cierta fidelidad, el hecho traumático quedaba despojado de su componente destructivo.
 
-Pero luego, cambió de parecer [\[6\]](#6-por-eso-uno-de-los-principios-del-análisis-es-despojarse-de-toda-pretensión-de-autenticidad-o-de-fidelidad-a-los-hechos-puesto-que-lo-que-el-analista-solicita-al-paciente-es-decir-todo-lo-que-se-venta-a-su-mente): la verdad del sujeto no estaba en la historia o los hechos del recuerdo, si no en la ficción. Lo que causa la neurosis es la ficción sobre la cual se despliega la verdad del sujeto. Esto queda retratado en el caso que analiza de [Leonardo da Vinci](#freud-y-el-sue%c3%b1o-de-leonardo).
+Pero luego, cambió de parecer [\[5\]](#5-por-eso-uno-de-los-principios-del-análisis-es-despojarse-de-toda-pretensión-de-autenticidad-o-de-fidelidad-a-los-hechos-puesto-que-lo-que-el-analista-solicita-al-paciente-es-decir-todo-lo-que-se-venta-a-su-mente): la verdad del sujeto no estaba en la historia o los hechos del recuerdo, si no en la ficción. Lo que causa la neurosis es la ficción sobre la cual se despliega la verdad del sujeto. Esto queda retratado en el caso que analiza de [Leonardo da Vinci](#freud-y-el-sue%c3%b1o-de-leonardo).
 
 Esto significa un realce de lo simbólico por sobre lo histórico, de los significados por sobre los hechos.
 
-Los traumas, para varios filósofos de entonces, son una noción sumamente ambigua, con una dimensión fantástica infinitamente más importante que su dimensión fáctica.
+Los traumas, para varios filósofos de entonces, son una noción sumamente ambigua, con una dimensión fantástica infinitamente más importante que su dimensión fáctica. [\[3\]](#3-incluso-si-existe-una-agresión-sexual-real-por-parte-de-un-adulto-dijo-freud-esa-agresión-nunca-pervive-en-la-memoria-como-tal-sino-que-siempre-aacba-envuelta-en-construcciones-fantásmaticas-que-desde-el-inconsciente-acaba-dirigiéndonos)
 
 La condición humana se caracteriza por envolver la realidad en una red interpretativa, que sostiene al humano a cierta distancia de ella. Esta se narra en parte por un componente de ficción que se organiza desde las páginas que vienen, desde la próxima a escribir. El inconsciente se organiza desde el futuro.
 
-Carl Jung confirma también la importancia del futuro; pero plantea algo diferente, el inconsciente tiene dos dimensiones [\[7\]]:
+Carl Jung confirma también la importancia del futuro; pero plantea algo diferente, el inconsciente tiene dos dimensiones [\[6\]](#6-por-esta-razón-a-menudo-es-muy-difícil-decidir-si-una-determinada-manifestación-autónoma-de-lo-inconsciente-ha-de-entenderse-sobre-todo-como-efecto-y-por-tanto-en-sentido-histórico-o-como-finalidad-y-por-tanto-en-sentido-anticipatorio):
 
 - Histórica: Remite a lo histórico, lo instintivo (recuerdos).
 - Futuro: Prefigura un futuro instintivamente en base a la experiencia (dimensión histórica). Tiene que ver con una finalidad, un sentido anticipatorio.
 
-La importancia del futuro también la subrayó Lacan. El trauma, dice, siempre se producirá en un tiempo posterior a los hechos. Extendiendo esto hasta la historia del individuo humano que, se plantea, esta configurada por el futuro anterior, lo que [_"habrá-sido"_](#lacan-y-el-habr%c3%a1-sido). (explicar aun mas esto)
+La importancia del futuro también la subrayó Lacan. El trauma, dice, siempre se producirá en un tiempo posterior a los hechos. Extendiendo esto hasta la historia del individuo humano que, se plantea, esta configurada por el futuro anterior, lo que [_"habrá-sido"_](#lacan-y-el-habr%c3%a1-sido). Este futuro es anterior a lo que alguien _"habrá-sido"_ para llegar a ser lo que es y esta siempre abierto. Es como abrir un abanico de posibilidades a el como uno llego a ser lo que es.
 
 ## Destacados
 
 #### Freud y el sueño de Leonardo
 
-Freud ha analizado extensamente a Leonardo Da Vinci en distintos ámbitos. En _"Un recuerdo infantil de Leonardo Da Vinci"_, el texto gira en torno un recuerdo de la niñez de Leonardo, donde es visitado por milano (ave rapaz, parecida a un cuervo) que golpea con su cola, repetidamente, la boca del niño.
+Freud ha analizado extensamente a Leonardo Da Vinci en distintos ámbitos. En _"Un recuerdo infantil de Leonardo Da Vinci"_, el texto gira en torno un recuerdo de la niñez de Leonardo, donde es visitado por un milano (ave rapaz, parecida a un cuervo) que golpea con su cola, repetidamente, la boca del niño.
 
-Freud dice que el recuerdo de Leonardo esta hecho de ficción. El ave debió haber sido un _cuervo_, no un _milano_. Dice que Leonardo se confundió de ave rapaz y que el _cuervo_ hace más sentido, por que tiene lazos simbólicos relacionado a la maternidad (en antiguo egipto) y empalma esto con su teoria de la fantasía [\[5\]](#5-la-fantasía-freudiana-o-si-se-prefiere-el-fantasma-no-encubre-la-realidad-sino-que-la-constituye-soporta-el-sentido-realidad-del-sujeto-que-cuando-se-despoja-de-la-fantasía-queda-a-al-intemperie-desorientado-asomado-al-horror-porque-este-es-finalmente-lo-que-queda-como-resto-cuando-la-fantasía-se-disuelve) y la ficción en los recuerdos.
+Freud dice que el recuerdo de Leonardo esta hecho de ficción. El ave debió haber sido un _cuervo_, no un _milano_. Dice que Leonardo se confundió de ave rapaz y que el _cuervo_ hace más sentido, por que tiene lazos simbólicos relacionado a la maternidad (en antiguo egipto) y empalma esto con su teoria de la fantasía [\[4\]](#4-la-fantasía-freudiana-o-si-se-prefiere-el-fantasma-no-encubre-la-realidad-sino-que-la-constituye-soporta-el-sentido-realidad-del-sujeto-que-cuando-se-despoja-de-la-fantasía-queda-a-al-intemperie-desorientado-asomado-al-horror-porque-este-es-finalmente-lo-que-queda-como-resto-cuando-la-fantasía-se-disuelve) y la ficción en los recuerdos.
 
 <!--
 Hay múltiples fundamentos, que hacen sentido con el estudio más amplio de Freud sobre Leonardo El problema es que en el recuerdo de Leonardo nunca hubo un buitre, si no un milano, que es otra ave rapaz.
@@ -40,7 +40,7 @@ Analizando los eventos traumáticos o perturbadores, Jacques Lacan sugiere que e
 
 Los eventos traumáticos ocurren en un momento pero se manifiestan en otros, futuros. Lacan llama a esta característica, algo que _habrá-sido_. Esta sugiere que lo que tiene más peso no es el pasado, si no un _"futuro anterior"_ o _"futuro perfecto"_.[\[8\]](#8-en-la-historia-del-individuo-sugiere-una-y-otra-vez-lo-que-tiene-más-peso-no-es-el-pasado-puesto-que-ya-fue-ni-tampoco-que-ha-sido-si-no-lo-que-habrá-sido)
 
-Para ahondar en este concepto de _"habrá-sido"_, podemos ver esta cita [\[9\]](#9-en-la-historia-del-individuo-sugiere-una-y-otra-vez-lo-que-tiene-más-peso-no-es-el-pasado-puesto-que-ya-fue-ni-tampoco-que-ha-sido-si-no-lo-que-habrá-sido), donde Lacan dice que el tiempo de la memoria y el presente se relacionan al _habrá-sido_: los recuerdos (de la memoria) nunca podrán ser recordados con precisión, puesto que están inconclusos y abiertos al presente.
+Para ahondar en este concepto de _"habrá-sido"_, podemos ver esta cita [\[9\]](#9-lo-que-se-realiza-en-mi-historia-no-es-el-pretérito-definido-de-lo-que-fue-puesto-que-ya-no-es-ni-siquiera-el-perfecto-de-lo-que-ha-sido--si-no-el-futuro-anterior-de-lo-que-yo-habré-sido-para-lo-que-estoy-llegando-a-ser), donde Lacan dice que el tiempo de la memoria y el presente se relacionan al _habrá-sido_: los recuerdos (de la memoria) nunca podrán ser recordados con precisión, puesto que están inconclusos y abiertos al presente.
 
 Esta incompletitud, es opuesta a lo que imaginaba el filosofo alemán Hegel: un presente pleno en el que todo el pasado está realizado, fijado.
 
@@ -64,43 +64,43 @@ Las citas sin autor especificado son del autor del libro: Carlos Peña.
 
 > #### [2] *"En otras palabras, Freud entonces pensó que si el pasado se recuperaba y se traía a la conciencia, si el hecho traumático se rememoraba con cierta fidelidad, entonces podría quedar despojado de su componente destructivo"*.
 >
-> El autor sobre la teoría inicial de Freud.
+<!-- > El autor sobre la teoría inicial de Freud sobre los traumas.
 
 <!-- p57.1 -->
 
-> #### [3] *"La verdad del sujeto no estaba en lo histórico, sino en la ficción"*.
+<!-- > #### [3] *"La verdad del sujeto no estaba en lo histórico, sino en la ficción"*. --> -->
 
 <!-- p57.2 -->
 
-> #### [4] *"Incluso si existe una agresión sexual real por parte de un adulto, dijo Freud, esa agresión nunca pervive en la memoria como tal, sino que siempre aacba envuelta en construcciones fantásmaticas que, desde el inconsciente acaba dirigiéndonos"*.
+> #### [3] *"Incluso si existe una agresión sexual real por parte de un adulto, dijo Freud, esa agresión nunca pervive en la memoria como tal, sino que siempre acaba envuelta en construcciones fantásmaticas que, desde el inconsciente acaban dirigiéndonos"*.
 
 <!-- p58 -->
 
-> #### [5] *"La fantasía Freudiana, o si se prefiere el fantasma, no encubre la realidad sino que la constituye, soporta el sentido realidad del sujeto que, cuando se despoja de la fantasía, queda a al intemperie, desorientado, asomado al horror porque este es finalmente lo que queda como resto cuando la fantasía se disuelve"*.
+> #### [4] *"La fantasía Freudiana, o si se prefiere el fantasma, no encubre la realidad sino que la constituye, soporta el sentido realidad del sujeto que, cuando se despoja de la fantasía, queda al intemperie, desorientado, asomado al horror porque este es finalmente lo que queda como resto cuando la fantasía se disuelve"*.
 
 <!-- p59  -->
 
-> #### [6] *"Por eso uno de los principios del análisis es despojarse de toda pretensión de autenticidad o de fidelidad a los hechos, puesto que lo que el analista solicita al paciente es decir todo lo que se venta a su mente"*.
+> #### [5] *"Por eso uno de los principios del análisis es despojarse de toda pretensión de autenticidad o de fidelidad a los hechos, puesto que lo que el analista solicita al paciente es decir todo lo que se venta a su mente"*.
 >
 > El autor analizando la base del psicoanálisis después de que halla cambiado la teoría de la _neurótica_ de Freud.
 
 <!-- p60.1 -->
 
-> #### [7] *"Por esta razón a menudo es muy difícil decidir si una determinada manifestación autónoma de lo inconsciente ha de entenderse sobre todo como efecto (y, por tanto, en sentido histórico) o como finalidad (y, por tanto, en sentido anticipatorio)"*.
+> #### [6] *"Por esta razón a menudo es muy difícil decidir si una determinada manifestación autónoma de lo inconsciente ha de entenderse sobre todo como efecto (y, por tanto, en sentido histórico) o como finalidad (y, por tanto, en sentido anticipatorio)"*.
 >  
 > Carl Jung, en *"Conciencia, Inconsciente e Individuación"*, hablando del inconsciente y sus dimensiones.
 
 <!-- p60.2 -->
 
-> #### [8] *"La preeminencia del futuro en la configuración de la propia memoria, o en otros términos, el hecho de que la apertura a lo que viene obliga a resignificar lo que paso"*.
+> #### [7] *"La preeminencia del futuro en la configuración de la propia memoria, o en otros términos, el hecho de que la apertura a lo que viene obliga a resignificar lo que paso"*.
 
 <!-- p61 -->
 
-> #### [9] *"En la historia del individuo, sugiere una y otra vez, lo que tiene más peso no es el pasado, puesto que ya fue, ni tampoco que ha sido, si no lo que _habrá sido_"*.
+> #### [8] *"En la historia del individuo, sugiere una y otra vez, lo que tiene más peso no es el pasado, puesto que ya fue, ni tampoco que ha sido, si no lo que _habrá sido_"*.
 
 <!-- p62 -->
 
-> #### [10] *"Lo que se realiza en mi historia no es el pretérito definido de lo que fue, puesto que ya no es, ni siquiera el perfecto de lo que ha sido (..) si no el futuro anterior de lo que yo habré sido para lo que estoy llegando a ser"*.
+> #### [9] *"Lo que se realiza en mi historia no es el pretérito definido de lo que fue, puesto que ya no es, ni siquiera el perfecto de lo que ha sido (..) si no el futuro anterior de lo que yo habré sido para lo que estoy llegando a ser"*.
 >
 > Jacques Lacan
 

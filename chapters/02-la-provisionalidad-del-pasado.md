@@ -3,13 +3,13 @@
 La temporalidad es esencial para la memoria, vale la pena entonces describir uno de los textos más importante acerca del tiempo: _Confesiones_ de San Agustín. En él, el autor formula preguntas y opiniones acerca del tiempo:
 
 - _"Si me preguntan el tiempo no lo sé, pero si no me lo preguntan lo sé"_ [\[1\]](#1-el-doctor-de-la-iglesia-señala-que-si-le-preguntan-que-es-el-tiempo-no-lo-sabe-pero-si-no-se-lo-preguntan-lo-sabe-el-tiempo-es-una-experiencia-indudable-aunque-parece-difícil-de-explicar)
-- _"El tiempo es una experiencia indudable, parece difícil de explicar"_
-- _"Si, pues, el presente, para ser tiempo, es preciso que pase a ser pretérito, como podemos decir de él que existe, si la razón por la que existe es que va a dejar de existir?"_
-- _"Como podemos decir que el pasado o futuro fue un tiempo largo o extenso? Fue asi mientras lo vivíamos?"_
+- _"El tiempo es una experiencia indudable, parece difícil de explicar"_  [\[1\]](#1-el-doctor-de-la-iglesia-señala-que-si-le-preguntan-que-es-el-tiempo-no-lo-sabe-pero-si-no-se-lo-preguntan-lo-sabe-el-tiempo-es-una-experiencia-indudable-aunque-parece-difícil-de-explicar)
+- _"Si, pues, el presente, para ser tiempo, es preciso que pase a ser pretérito, como podemos decir de él que existe, si la razón por la que existe es que va a dejar de existir?"_ 
+- _"Como podemos decir que el pasado o futuro fue un tiempo largo o extenso? Fue asi mientras lo vivíamos?"_ [\[2\]](#2-por-supuesto-que-no-podemos-decir-que-es-largo-porque-aun-no-existe-para-poder-ser-largo-lo-que-decimos-es-que-será-largo-entonces-cuándo-lo-será-por-si-también-entonces-seguirá-siendo-futuro-no-será-largo-por-que-todavía-no-existe-para-ser-largo-y-si-no-ha-de-ser-largo-en-el-momento-en-que-saliendo-del-futuro-que-todavía-no-tiene-existencia-pasa-a-tener-existencia-haciéndose-presente-para-poder-ser-largo-el-tiempo-presente-por-las-razones-apuntadas-proclama-que-no-puede-ser-largo)
 
 San Agustín encuentra la solución en la capacidad de _distenderse_: **preocuparse**, distraerse y/o sentirse ansioso. Es por esto, que podemos atender (en el presente), esperar (pensando en el futuro) y recordar (con el pasado), experimentando la temporalidad.
 
-Heidegger, usando de base el texto de San Agustín, empieza a trabajar con el concepto de tiempo. Definiendo que no es atribuible a las cosas, como los relojes, o a lo que pasa delante/afuera de uno. Él lo atribuye al ser humano mismo. Al como se involucra con lo que lo rodea.
+Heidegger, usando de base el texto de San Agustín, empieza a trabajar con el concepto de tiempo. Definiendo que no es atribuible a las cosas, como los relojes, o a lo que pasa delante/afuera de uno. Él lo atribuye al ser humano mismo. Al como se involucra con lo que lo rodea. [\[4\]](#4-no-es-entonces-observará-heidegger-en-sus-comentarios-que-el-tiempo-le-ocurra-a-las-cosas-delante-de-mi-cuando-se-mueven-o-transitan-o-a-los-astros-cuando-orbitan-o-al-reloj-cuando-marca-las-horas-el-tiempo-es-el-cómo-de-involucrarme-yo-mismo-con-las-cosas-y-la-forma-en-que-estoy-siendo-en-el-mundo-es-la-que-me-permite-experimentar-el-tiempo)
 
 <!--
 Por otro lado, lo que es percibido generalmente de _Las Confesiones de San Agustín_ es la idea del sujeto moderno, cuya individualidad descansa en la certeza de conciencia, que es dueña de si y concibe garantías de identidad y refugio. -->
@@ -18,17 +18,17 @@ Esta idea del hombre moderno, que se [percibe en _Confesiones_](#confesiones-de-
 
 En este sentido, Heidegger asocia al ser humano un desasosiego, inquietud permanente o ansiedad buscando reposo, que produce que el hombre esté lanzado a la realidad, involucrado con ella. Esto impediría alojar una conciencia acumuladora de hechos, con un repertorio de criterios y principios alcanzado desde que alcanzó la madurez.
 
-Sartre apoya la idea de Heidegger y dice que la conciencia es un ente que siempre va por delante de sí mismo, que se experimenta como una carencia y justo por eso, en vez de archivar los hechos tal cual como ocurren, los va transformando a medida que experimenta nuevas situaciones. La conciencia siempre juzga los hechos pasados a la luz del futuro que, imagina, se acerca.
+Sartre apoya la idea de Heidegger y dice que la conciencia es un ente que siempre va por delante de sí mismo, que se experimenta como una carencia y justo por eso, en vez de archivar los hechos tal cual como ocurren, los va transformando a medida que experimenta nuevas situaciones. [\[6\]](#6-la-conciencia-siempre-juzga-lo-que-ocurrió-a-luz-del-futuro-que-imagina-se-acerca)
 
-Volviendo a Heidegger, en su trabajo _"Ser y Tiempo"_ (1927), [describe al ser humano](#heidegger-y-el-dasein) como _"Cuidado"_. Plantea que para el ser humano, su propia existencia es un asunto del cual no puede escapar, un enigma que nunca se va a resolver. El hombre est[a condenado a modelarse de acorde a un plan mientras viva, su vida siendo la ejecución de este plan. El acto de intentar comprenderse es presentado como lo más intrínsecamente humano.
+Volviendo a Heidegger, en su trabajo _"Ser y Tiempo"_ (1927), [describe al ser humano](#heidegger-y-el-dasein) como _"Cuidado"_. Plantea que para el ser humano, su propia existencia es un asunto del cual no puede escapar, un enigma que nunca se va a resolver. El hombre est[a condenado a modelarse de acorde a un plan mientras viva, su vida siendo la ejecución de este plan. El acto de intentar comprenderse es presentado como lo más intrínsecamente humano.  [\[5\]](#5-si-el-ser-humano-esta-inevitablemente-involucrado-con-las-cosas-entreverado-con-ellas-de-ahí-se-sigue-que-lo-que-ocurrió-en-el-pasado-sigue-en-algún-sentido-ocurriendo-en-el-presente-puesto-que-la-conciencia-en-vez-de-recoger-simplemente-lo-que-sucedió-se-dejó-modelar-por-esos-hecho-que-a-su-vez-al-estar-acogidos-por-una-conciencia-abierta-al-futuro-también-se-modificaron) [\[8\]](#8-el-ser-humano-estaría-sugirió-puesto-ante-la-tarea-inevitable-de-comprenderse-a-sí-mismo-modelándose-en-esa-comprensión-pero-no-como-si-el-estuviera-previamente-constituido-como-si-fuera-un-enigma-o-un-puzzle-esperando-ser-resuelto-si-no-que-ese-esfuerzo-de-comprenderse-sería-el-ser-humano-en-sí-mismo)
 
 Una tarea como modelarse a sí mismo es solo posible gracias a la temporalidad. El _"Dasein"_ no es en el tiempo, si no que es el tiempo mismo. La temporalidad humana, bajo los ojos de Heidegger, no es una línea continua entre pasado y futuro; es una línea que parte desde el último acontecimiento y luego se dispersa hacia atrás, ya que el humano esta volcado al futuro.
 
-La vida como espera, volcado al futuro, con un pasado provisional o temporal. Este pasado es siempre revocable, amenazado por la resignificación en el presente o futuro. Lo que permite por ejemplo superar un trauma: un acontecimiento doloroso, o pasional, que cuando recordado pero desprovisto de los aspectos destructivos o enajenantes, es comprendido y superado.
+La vida como espera [\[11\]](#11-es-posible---literal-y-formalmente-posible---un-humano-vivir-que-no-sea-un-esperar-no-es-la-función-primaria-y-más-esencial-de-la-vida-la-expectativa-y-su-más-visceral-órgano-la-esperanza), volcado al futuro, con un pasado provisional o temporal. Este pasado es siempre revocable [\[13\]](#13-el-pasado-sería-así-permanentemente-revocable-estaría-siempre-amenazado-por-un-significado-que-viniendo-desde-el-futuro-podría-dibujar-su-contenido-de-nuevo), amenazado por la resignificación en el presente o futuro. Lo que permite por ejemplo superar un trauma: un acontecimiento doloroso, o pasional, que cuando recordado pero desprovisto de los aspectos destructivos o enajenantes, es comprendido y superado.
 
 Siendo extremos, sería ingenuo pensar que alguien puede rehacer su pasado constantemente y es dueño y autor de su historia de vida; ninguno de nosotros escogió el mundo, país o el horizonte de significados constituidos en los que nacemos. Se propone al ser humano como mezcla de facticidad y autonomía, con una trama temporal.
 
-La existencia entonces adquirirá su significado a la luz del proyecto que el sujeto ha logrado forjar comprendiéndose a sí mismo.
+La existencia entonces adquirirá su significado a la luz del proyecto que el sujeto ha logrado forjar comprendiéndose a sí mismo. [\[14\]](#14-con-razón-sartre-observó-que-no-importan-tanto-lo-que-han-hecho-del-hombre-lo-que-importa-es-lo-que-el-hace-con-lo-que-han-hecho-de-él)
 
 <!-- Dar paso a la historia -->
 
@@ -68,7 +68,7 @@ Las citas sin autor especificado son del autor del libro: Carlos Peña.
 
 > #### [1] *"El doctor de la Iglesia señala que si le preguntan que es el tiempo no lo sabe; pero si no se lo preguntan lo sabe. El tiempo es una experiencia indudable, aunque parece difícil de explicar"*.
 >
-> El autor hablando de _"Confesiones"_.
+> El autor hablando de San Agustín en _"Confesiones"_.
 
 <!-- [2] p35.2 -->
 <!-- Already in main text -->
@@ -115,8 +115,9 @@ Las citas sin autor especificado son del autor del libro: Carlos Peña.
 
 <!-- p45 -->
 
-> #### [9] *"El hecho de que la existencia humana es el entre el nacimiento y la muerte, dos hechos que nos son negados como experiencia"*.
-
+> #### [9] *"El hecho de que la existencia humana es el <<entre>> el nacimiento y la muerte, dos hechos que nos son negados como experiencia"*.
+>
+> El autor hablando de Heidegger interpretando la consternación cristiana.
 <!-- p46 -->
 
 > #### [10] *"Al modo de la fábula, él esta condenado a modelarse, sin que nunca pueda, por decirlo así, descansar en el mismo. Pero esta no es una carga o tarea que, entre otras, posea el ser humano de la que pueda desprenderse, sino que él es esa carga"*.
