@@ -8,7 +8,7 @@ Algunos estudios de Heidegger averiguan de qué esta hecha esta estructura origi
 
 Estudiando la condición humana tal cual aparece en una experiencia cotidiana, Heidegger ve al ser humano volcado en la realidad, en las cosas, lanzado delante suyo, pre-ocupado. Además recalca, que el ser humano no está abandonado sólo con su conciencia, hay una realidad que lo rodea. El _"ser"_ es un _ser-en-el-mundo_.
 
-El mundo, circunstancia o situación, otorga sentido a lo que nos rodea. La vida humana es entonces un quehacer entreverado, mezclado con las cosas alrededor. No es que la conciencia se separe de la realidad, si no que está inmersa en ella. No hay conciencia en términos de un fenómeno estrictamente interno, por que está dotada de un horizonte de sentido que viene definido desde afuera.
+El mundo, circunstancia o situación, otorga sentido a lo que nos rodea. La vida humana es entonces un quehacer mezclado con las cosas alrededor. No es que la conciencia se separe de la realidad, si no que está inmersa en ella. No hay conciencia en términos de un fenómeno estrictamente interno, por que está dotada de un horizonte de sentido que viene definido desde afuera. [\[1\]](#1-y-es-que-el-ser-humano-que-cada-uno-es-en-opinión-de-heidegger-no-es-un-puñado-de-propiedades-que-puedan-enumerarse-sino-un-cierto-quehacer-que-se-ha-ido-configurando-a-sí-mismo-a-partir-de-una-red-interpretativa-que-estaba-allí) [\[2\]] (#2-y-es-que-la-vida-humana-es-un-quehacer-entreverado-mezclado-con-las-cosas-en-derredor-y-orientado-por-un-horizonte-de-sentido-en-cuyo-interior-aparece-para-sí-misma)
 
 Heidegger le dice *mundo*, Ortega y Gasset *circunstancia* y Sartre *situación*. Todos nombres usados para el mismo concepto.
 
@@ -16,7 +16,7 @@ Heidegger a su vez, plantea que la vida no se encuentra en la historia, si no qu
 
 <!-- Estudios de Dilthey -->
 
-Dilthey, a comienzos del año 1.800, se había empeñado en dotar de autonomía a las *ciencias del espíritu*: la historiografía, el derecho y la literatura. Sugiriendo que estas poseen la particularidad de que el sujeto y el objeto estudiados son el mismo. Cuando el hombre reflexiona, está intentando dilucidar su propia condición, la que se ve afectada por el mismo intento de esclarecerla. [\[4\]](#)
+Dilthey, a comienzos del año 1.800, se había empeñado en dotar de autonomía a las *ciencias del espíritu*: la historiografía, el derecho y la literatura. Sugiriendo que éstas tienen la particularidad de que el sujeto y el objeto estudiados son el mismo. Cuando el hombre reflexiona, está intentando dilucidar su propia condición, la que se ve afectada por el mismo intento de esclarecerla. [\[4\]](#4-las-ciencias-del-espíritu-observa-son-esfuerzo-reflexivo-de-la-vida-humana-por-esclarecerse-a-sí-mismas-y-en-la-medida-que-ella-se-desenvuelve-en-la-historia-envuelta-en-el-tiempo-y-en-circunstancias-que-no-elige-la-tarea-de-fundar-ese-tipo-de-ciencias-exige-llevar-adelante-una-critica-de-la-razón-histórica)
 
 Los grandes historiadores de la época, en cambio, tenían apegos empiristas y una fe idealista en ideas básicas para comprender la historia. Que ésta pueda ser recopilada en un texto interpretable, con hechos o fenómenos históricos tal cual como fueron, y que estos, a su vez, portaban un significado que debía ser descifrado.
 
@@ -24,11 +24,11 @@ Dilthey entonces se pregunta como alguien puede comprender su pasado, y plantea 
 
 Con respecto a la conciencia, Dilthey explica que en la componente interna de la razón humana no hay una conciencia cerrada en sí misma, si no, una conciencia que se objetiviza con expresiones externas y compartidas; a las que se podría acceder mediante comprensión empática.
 
-En correspondencias con el Conde de Yorck, ambos comparten esta noción histórica de la cultura y sus problemas con la modernidad y el progreso. Dilthey y el Conde pensaban que la racionalización le quita importancia a la compresión empática. Realzan la historicidad como algo inmerso en la base de la condición humana.
+En correspondencias con el Conde de Yorck, ambos comparten esta noción histórica de la cultura y sus problemas con la modernidad y el progreso. Dilthey y el Conde pensaban que la racionalización le quita importancia a la compresión empática. Realzan la historicidad como algo inmerso en la base de la condición humana.  [\[5\]](#5-vida-es-la-noción-que-abarca-la-experiencia-y-la-reapropiación-de-la-experiencia-mediante-la-comprensión-si-esto-se-olvida-hay-alguno-del-espíritu-humano-que-se-escapa) [\[6\]](#6-la-unidad-de-la-razón-humana-en-la-cooperación-de-las-ciencias-su-carácter-de-validez-general-y-basado-en-el-el-progreso-del-espíritu-humano-encaminado-al-control-de-la-naturaleza-y-la-sociedad-esta-fue-la-generalización-alcanzada-en-el-siglo-xviii-1700-pero-esta-racionalización-del-universo-también-significa-un-empobrecimiento-del-espíritu-humano
+)
+Preguntas como ¿Qué es la historicidad?, ¿Que estructura constitutiva del ser humano la permite? parecen validad en este contexto.
 
-Preguntas obvias vinieron, ¿Qué es la historicidad?, ¿Que estructura constitutiva del ser humano la permite?
-
-Heidegger llegó a algo parecido, pero por el lado de la religión. Analizando las cartas de Pablo a los *tesalonienses*, donde respondía sus preguntas. Una pregunta hacía referencia a cuando vendrá "El Salvador" y Pablo responde que no importa *cuando* vendrá, sino el *como* de la espera [\[9\]](#). La respuesta da un enfoque existencial en vez de uno basado en el conocimiento (en este caso, *saber* la fecha de cuando vendrá "El Salvador"). Entonces, Pablo dice que hay que vivir preferentemente de manera sobria y atenta, sin eludir el mundo. Remitiendo a la espera como modo de existencia.
+Heidegger llegó a algo parecido, pero por el lado de la religión. Analizando las cartas de Pablo a los *tesalonienses*, donde respondía sus preguntas. Una pregunta hacía referencia a cuando vendrá "El Salvador" y Pablo responde que no importa *cuando* vendrá, sino el *como* de la espera [\[7\]](#7-quienes-viven-de-esa-forma-en-medio-de-esa-espera-atenta-y-hasta-cierto-punto-perturbada-pero-al-mismo-tiempo-involucrados-en-el-mundo-son-los-hijos-de-la-luz-quienes-en-cambio-viven-creyendo-estar-en-medio-de-la-paz-y-la-seguridad-son-hijos-de-la-oscuridad). La respuesta da un enfoque existencial en vez de uno basado en el conocimiento (en este caso, *saber* la fecha de cuando vendrá el "*Salvador*"). Entonces, Pablo dice que hay que vivir preferentemente de manera sobria y atenta, sin eludir el mundo. Remitiendo a la espera como modo de existencia.
 
 La espera de lo que vendrá es la forma de vida cristiana, una vida que se organiza en torno a ese futuro que se acerca. En el reino de dios, el futuro determina al hombre en su presente; siendo por eso mismo un futuro verdadero, no algo que se producirá eventualmente, algo que viene hacia el hombre y lo sitúa ante la decisión.
 
@@ -73,6 +73,8 @@ Las citas sin autor especificado son del autor del libro: Carlos Peña.
 <!-- p69.2 -->
 
 > #### [4] *"Las ciencias del espíritu, observa, son esfuerzo reflexivo de la vida humana por esclarecerse a sí mismas y en la medida que ella se desenvuelve en la historia, envuelta en el tiempo y en circunstancias que no elige, la tarea de fundar ese tipo de ciencias exige llevar adelante una critica de la razón histórica"*.
+> 
+> El autor hablando de Wilhem Dilthey 
 
 <!-- p71.1 -->
 
@@ -90,13 +92,13 @@ Las citas sin autor especificado son del autor del libro: Carlos Peña.
 
 <!-- p74.2 -->
 
-> #### [9] *"Quienes viven de esa forma, en medio de esa espera atenta y hasta cierto punto perturbada, pero al mismo tiempo involucrados en el mundo, son los hijos de la luz; quienes, en cambio, viven creyendo estar en medio de la paz y la seguridad son hijos de la oscuridad"*.
+> #### [7] *"Quienes viven de esa forma, en medio de esa espera atenta y hasta cierto punto perturbada, pero al mismo tiempo involucrados en el mundo, son los hijos de la luz; quienes, en cambio, viven creyendo estar en medio de la paz y la seguridad son hijos de la oscuridad"*.
 
 <!-- p76 " -->
-
-> #### [10] *"Ello, no obstante, este futuro determina al hombre en su presente; siendo por eso mismo futuro verdadero, no algo que se producirá alguna vez en alguna parte, sino lo que viene hacia el hombre y lo sitúa ante la decisión"*.
+<!-- 
+> #### [8] *"Ello, no obstante, este futuro determina al hombre en su presente; siendo por eso mismo futuro verdadero, no algo que se producirá alguna vez en alguna parte, sino lo que viene hacia el hombre y lo sitúa ante la decisión"*.
 >
-> Rudolf Bultmann
+> Rudolf Bultmann -->
 
 ### Personajes
 

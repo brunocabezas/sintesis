@@ -2,7 +2,7 @@
 
 Como **facticidad**, podemos entender el hecho de que el humano se desenvuelve en la vida con un pie forzado, con un contexto o mundo ya hecho.
 
-Una condición un tanto dramática, porque cada uno vive en medio de una circunstancia, pero así y todo tiene que elegir su _ser_ [ACLARAR] sin guión ni ensayo previo. Lo anterior permite que el ser humano también sea una **proyección**, organizándose desde un futuro que adelanta.
+Una condición un tanto dramática, porque cada uno vive en medio de una circunstancia, pero así y todo tiene que elegir quien ser sin guión ni ensayo previo. Lo anterior permite que el ser humano también sea una **proyección**, organizándose desde un futuro que adelanta.  [\[2\]](#2-el-ser-humano-tiene-la-condición-única-en-todo-lo-que-existe-de-trazar-posibilidades-para-sí-de-vivir-por-decirlo-de-alguna-forma-un-paso-por-delante-de-sí-mismo)
 
 <!-- cuando quien vive la vida, mira hacia atrás, lo hace con una sombre de culpa o deuda., y es que sabe que cuando eligió algo, negó todas las otras posibilidades. Elegir es perder. Vivir consiste en arrastrar una culpa que no se puede pagar. -->
 
@@ -14,9 +14,9 @@ Apoyado, por los conceptos de arriba, Heidegger presenta el concepto de _"Cuidad
 
 El *"Cuidado"* se desarrolla con la temporalidad como telón de fondo. De ahí que el ser humano se temporaliza. Coincide con San Agustín, que pone el foco en que el tiempo es una experiencia.
 
-Antes que San Agustín, Aristóteles decía que el tiempo era un antes y un después, realzando el cambio. Heidegger re-interpreta esto y dice que, no obstante el cambio, habría cierta continuidad entre el antes y el después, cierta _distensión_. Ortega y Gasset, por otro lado, dice que la [_"distensión"_](#distensi%c3%b3n) define que el individuo humano no _esta_ en el tiempo, si no, que _es_ su tiempo: _su_ pasado, _su_ presente y _su_ futuro. El hombre entonces, no debiese tratar el tiempo como algo externo, un recurso o algo utilitario.
+Antes que San Agustín, Aristóteles decía que el tiempo era un antes y un después, realzando el cambio. Heidegger re-interpreta esto y dice que, no obstante el cambio, habría cierta continuidad entre el antes y el después, cierta _distensión_. Ortega y Gasset, por otro lado, dice que la [_"distensión"_](#distensi%c3%b3n) define que el individuo humano no _esta_ en el tiempo, si no, que _es_ su tiempo: _su_ pasado, _su_ presente y _su_ futuro. El hombre entonces, no debiese tratar el tiempo como algo externo, un recurso o algo utilitario. [\[6\]](#6-es-verdad-que-cuando-vive-en-su-cotidianidad-el-tiempo-aparece-como-una-sustancia-algo-objetivo-en-medio-de-lo-cual-su-quehacer-se-desenvuelve-pero-esa-es-una-experiencia-en-términos-de-heidegger-inauténtica-puesto-que-allí-el-individuo-humano-trata-el-tiempo-como-un-útil-un-recurso-a-su-disposición-con-el-que-se-relaciona-utilitariamente-olvidando-que-él-es-tiempo-es-un-transcurrir-que-se-distiende)
 
-Si vemos el énfasis de Heidegger en el futuro, al cual el hombre esta volcado; su identidad personal difícilmente podría ser precisada.
+Si vemos el énfasis de Heidegger en el futuro [\[7\]]#7-no-es-el-presente-o-el-pasado-lo-primero-que-vivimos-no-la-vida-es-una-actividad-que-se-ejecuta-hacia-delante-y-el-presente-o-el-pasado-se-descubre-después-en-relación-con-el-futuro), al cual el hombre esta volcado; su identidad personal difícilmente podría ser precisada.
 
 ¿Cómo se forma la estabilidad necesaria para formular un quién de la existencia? una identidad personal en medio del acontecer.
 
@@ -35,7 +35,7 @@ Las citas sin autor especificado son del autor del libro: Carlos Peña.
 
 <!-- p80.2 -->
 
-> #### [2] *"A cambio de eso, el ser humano tiene la condición única en todo lo que existe, de trazar posibilidades para sí, de vivir, por decirlo de alguna forma, un paso por delante de sí mismo"*.
+> #### [2] *"El ser humano tiene la condición única en todo lo que existe, de trazar posibilidades para sí, de vivir, por decirlo de alguna forma, un paso por delante de sí mismo"*.
 
 <!-- p81.1 -->
 
@@ -49,7 +49,9 @@ Las citas sin autor especificado son del autor del libro: Carlos Peña.
 
 <!-- p86.1 -->
 
-  > #### [5] *"Mi futuro, pues, me hace descubrir mi pasado para realizarse. El pasado es ahora real porque lo revivo, y, cuando encuentro en mi pasado los medios para realizar mi futuro es cuando descubro mi presente. Y todo esto acontece en un instante; en cada instante la vida se dilata en las tres dimensiones del tiempo real interior. El futuro me rebota hacia el pasado, este hacia el presente, de aquí voy otra vez al futuro que me arroja al pasado, y este es otro presente, en un eterno girar"*.
+> #### [5] *"Mi futuro, pues, me hace descubrir mi pasado para realizarse. El pasado es ahora real porque lo revivo, y, cuando encuentro en mi pasado los medios para realizar mi futuro es cuando descubro mi presente. Y todo esto acontece en un instante; en cada instante la vida se dilata en las tres dimensiones del tiempo real interior. El futuro me rebota hacia el pasado, este hacia el presente, de aquí voy otra vez al futuro que me arroja al pasado, y este es otro presente, en un eterno girar"*.
+> 
+> Jose Ortega y Gasset hablando de la distensión. 
 
 <!-- p86.2 -->
 
@@ -61,7 +63,7 @@ Las citas sin autor especificado son del autor del libro: Carlos Peña.
 
 > #### [7] *"No es el presente o el pasado lo primero que vivimos, no, la vida es una actividad que se ejecuta hacia delante, y el presente o el pasado se descubre después en relación con el futuro"*.
 >
-> Martin Heidegger
+> Martin Heidegger, enfatizando el futuro.
 
 ## Personajes
 

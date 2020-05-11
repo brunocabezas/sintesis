@@ -128,7 +128,7 @@ Las citas sin autor especificado son del autor del libro: Carlos Peña.
 >
 > Jose Ortega y Gasset.
 
-<!-- p48.2 -->****
+<!-- p48.2 -->
 
 > #### [12] *"Y es que el pasado de cada cual obtiene su significado de la proyección hacia el futuro"*.
 
