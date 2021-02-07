@@ -52,7 +52,7 @@ Hume llega a esta conclusión basado en la _impresión_, concepto que explica el
 
 <!-- barco de Teseo -->
 
-<!-- ## Citas
+## Citas
 <!-- Las citas sin autor especificado son del autor del libro: Carlos Peña. -->
 
 <!-- p94 -->
