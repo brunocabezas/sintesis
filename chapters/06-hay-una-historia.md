@@ -1,8 +1,7 @@
 # Hay una historia?
 
 <!-- de la historia del barco de Tese y  -->
-Con los cuestionamientos que surgen del [caso de Emilio Renzi](#emilio-renzi-en-%22respiracion-artificial%22) en torno a la continuidad material y el cambio, se plantean preguntas como 
- ¿Cómo algo puede ser reconocible después de que cambia materialmente?, Se cuestiona de que algo no es lo mismo que era a simple vista. 
+Con los cuestionamientos que surgen del [caso de Emilio Renzi](#emilio-renzi-en-%22respiracion-artificial%22) en torno a la continuidad material y el cambio, se plantean preguntas como ¿Cómo algo puede ser reconocible después de que cambia materialmente?. Se cuestiona entonces, algo no es lo mismo que era a simple vista. 
 
 Aristóteles propone una [verdad conceptual](#verdad-conceptual): existe un _sustrato_, sustancia o soporte entre el antes y después de un objeto, que se mantiene íntegro desde un inicio y hace que el individuo sea único. No debe ser necesariamente visible, pero subyace a estos extremos.
 
