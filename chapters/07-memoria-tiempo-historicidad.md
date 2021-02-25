@@ -191,14 +191,14 @@ Algo parecido ocurre con la historiografía aristrocrática de Alberto Edwards, 
 
 ## Personajes
 
-- Martin Heidegger, filósofo Alemán.
-- Fredrich Nietzsche, filósofo Alemán.
-- Georg Wilhelm Friedrich Hegel, filósofo Alemán.
+- Martin Heidegger, filósofo alemán.
+- Fredrich Nietzsche, filósofo alemán.
+- Georg Wilhelm Friedrich Hegel, filósofo alemán.
 - Karl Barth, Teólogo.
-- Jorge Luis Borges, escritor Argentino.
-- José Ortega y Gasset, filósofo Español.
-- Polibio, historiador Griego.
-- Diego Barros Arana, historiador Chileno.
+- Jorge Luis Borges, escritor argentino.
+- José Ortega y Gasset, filósofo español.
+- Polibio, historiador griego.
+- Diego Barros Arana, historiador chileno.
 
 ## Índice
 
