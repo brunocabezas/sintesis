@@ -1,44 +1,43 @@
 # La memoria cultural 
 
-Walter Benjamin dice que la narración constituye a la experiencia como algo común. Experiencia en común que tiende a disolverse en el hombre moderno y se construye sobre la comunicación. Así, la narración se convierte en algo en común.
+Según Walter Benjamin, la experiencia se torna común al momento de narrarla. La narración constituye a la experiencia como algo común [\[1\]](). Ademas plantea que la experiencia-común comienza a disolverse en el hombre moderno.
 
-Siguiendo con Benjamin, quien decía que la aparición de la novela en la modernidad (y entonces, sustitución de la audiencia compartida por el acto solitario de leer) es una forma de disolución de la experiencia y también de la memoria.
+Benjamin daba como ejemplo la aparición de la novela en la modernidad, que implica la sustitución de la audiencia compartida por el acto solitario de leer, es una forma de disolución de la experiencia y también de la memoria.
 
-En la modernindad, argumenta, la experiencia es fragmentada, desligada del contexto que le subyace y esto conduciría a deteriorar la comprensión y vivencia de comunidad [\[2\]]().
+En la modernidad, argumenta, la experiencia es fragmentada, desligada del contexto que le subyace y esto conduciría a deteriorar la comprensión y vivencia de comunidad [\[2\]]().
 
-La narración realza entonces como un tejido oculto de la vida social, donde la memoria colectiva subyace. 
+La narración se muestra entonces como un tejido oculto de la vida social, donde la memoria colectiva subyace. 
 
-Maurice Halbwachs subraya que la memoria individual es de alguna manera una cuestión social, tejido por un lenguaje que obedece a estigmas, prejuicios y símbolos. El lenguaje forma parte importante en la construcción social de la memoria e identidad [\[3\]]() [\[4\]](). 
+Por otro lado, Maurice Halbwachs subraya que la memoria individual es de alguna manera una cuestión social, tejido por un lenguaje que obedece a estigmas, prejuicios y símbolos. Este lenguaje forma parte importante en la construcción social de la memoria e identidad [\[3\]]() [\[4\]](). 
 
 El lenguaje permite conectar la memoria individual con la colectiva y desde ese punto de vista posibilita la ampliación de la memoria y, al mismo tiempo, la constituye normativamente.
 
-Las experiencias personales se constituyen como tal al momento de compartirlas con otros o situarlas dentro de un contexto social o cultural específico.
-
+Las experiencias personales (memoria individual) se constituyen como tal al momento de compartirlas con otros o situarlas dentro de un contexto social o cultural específico.
 
 Capaz sea mas exacto referirse a memoria comunicativa que memoria colectiva, memoria cuya forma es narrativa.
 
-tres formas de memoria
-memoria individual
-memoria comunicacional
-memoria cultural
+La memoria cultural, que provee de ritos, archivos, lugares, es la única con carácter inmemorable, que apunta a fijarse en el horizonte. La memoria individual esta inscrita en un cuerpo, una persona. La memoria comunicacional, que define usos y prácticas lingüísticas, cambia de generación en generación y depende de las interacciones.
 
-La memoria cultural es la única con carácter inmemorable, que apunta a fijarse en el horizonte. La memoria individual depende de una persona y la memoria comunicacional de la comunicación, que cambia de generación en generación.
-
-La cultura y la memoria son el esfuerzo por sustituir una ausencia de un piso desde donde pararse. Sin este esfuerzo por construir un origen, ni las sociedades ni los individuos poseerán una identidad, un yo o un nosotros que unificara y narrara sus vivencias en el torrente del tiempo
+La cultura y la memoria son el esfuerzo por sustituir una ausencia de un piso desde donde pararse. Sin este esfuerzo por construir un origen, ni las sociedades ni los individuos tendrían una identidad, un yo o un nosotros que unificara y narrara sus vivencias en el torrente del tiempo.
 
 Sin la memoria cultural, la identidad estaría desdibujada. Las comunidades se sostendrían de la memoria comunicativa, que languidece por el cambio generacional. Entonces las identidades sería fijadas en un punto especifíco del tiempo y durarían dos o tres generaciones a lo más.
 [\[6\]](#6-nadie-es-plenamente-origina-porque-incluso-la-originalidad-que-logra-alcanzar-es-el-fruto-de-unas-formas-simb%C3%B3licas-heredadas-por-eso-observa-ricoeur-cada-uno-puede-ser-el-narrador-de-su-propia-vida-pero-ninguno-es-el-autor-completo-de-ella-las-m%C3%A1scaras-que-con-que-cada-uno-se-reinterpreta-nunca-son-el-fruto-de-su-propia-creaci%C3%B3n).
 
 La memoria cultural, que también es sujeta a una historia (memoria e historia no son excluyentes), se constituye de hitos significativos que ordenan el tiempo y le dan una identidad y que tal como la memoria, cambia poco a poco a la luz del futuro.
 
-Los estado nación son un ejemplo de la transición de memoria comunicativa a cultural. Estos procesos generan un memoria comunicacional que dura dos o tres generaciones y luego transforma en memoria cultural [\[13\]]()[\[14\]](). También el [caso de Moisés](), donde se hace relevante el hecho de la deliberación forme parte del proceso para crear una memoria cultural y da pie a las políticas de la memoria.
+En algunos casos, los usos y prácticas de la memoria comunicacional terminan en la memoria cultural. Los estado nación son un ejemplo de transición de memoria comunicativa a cultural. Donde hay un proceso de definir y aceptar símbolos que dura dos o tres generaciones y luego transforma en memoria cultural [\[13\]]()[\[14\]](). También esta el [caso de Moisés](#caso-de-%C3%A9xito-de-una-memoria-cultural), donde se hace relevante el hecho de que la deliberación forme parte del proceso para crear una memoria cultural y da pie a las políticas de la memoria.
 
 Las políticas de la memoria son un esfuerzo por disciplinar recuerdos, confiando en una memoria no totalmente involuntaria. Un esfuerzo por seguir una huella que también dibuja.
+
+[..explicar involutario]
 
 ## Destacados
 
 <!-- pág.152 -->
 ### El objeto fuera de contexto
+En el contexto de analizar distintas características de la memoria, la el contexto y materialidad asoman como parte importante de esta. Cuando alguien ve un objeto antiguo, extraño, y no sabe para que fue usado, la extrañeza producida no proviene del objeto en si, si no por que toda la malla de significados que lo comprendía ya no está.
+
+Las cosas antiguas nos importan porque vienen de un mundo que ya no esta. Asi ese mundo ahora objetivado interactúa nosotros y ees como el espectro de un mundo que no existe, que la memoria comunicacional no mantuvo a flote. 
 
 <!-- pág.156 -->
 ### Caso de éxito de una memoria cultural
@@ -50,7 +49,9 @@ Está el caso de Moisés, que quería de alguna manera preservar el éxodo, que 
 ## Citas
 
 <!-- pág. 145 -->
-> #### [1] *"La narración se sumerge en la vida del rleatory así la comunica como experiencia"*
+> #### [1] *"La narración se sumerge en la vida del relator y así la comunica como experiencia"*
+> 
+> El autor acerca de la importancia de la narración en la experiencia compartida
 
 <!-- pág. 147 -->
 > #### [2] *"El proceso de deterioro de la narración que comenzó con la novela se acentuará, predice, cuando la comunicación sea sustituida por la mera información que no require interpretación ni reflexión."*
@@ -60,7 +61,7 @@ Está el caso de Moisés, que quería de alguna manera preservar el éxodo, que 
 <!-- pág. 148 -->
 > #### [3] *"No se puede recordad en soledad, concluía Halbwachs"*
 > 
-> El autor hablando de las conclusiones de Maurice Halbwachs acerca de una caso con una niña perdida
+> El autor hablando de las conclusiones de Maurice Halbwachs acerca de un caso con una niña perdida que lograba balbucear uno o dos recuerdos cuando le mostraban retazos del grupo al pertenecía
 
 <!-- pág. 148-149 -->
 > #### [4] *"Las memorias no son el producto de una mente individual, sino el resultado de la relación del yo con el mundo circundante que hasta cierto punto los constituye"*
@@ -90,10 +91,10 @@ Está el caso de Moisés, que quería de alguna manera preservar el éxodo, que 
 > #### [12] *"Despertándonos así de la ilusión de eternidad que inspira a todo esfuerzo humano"*
 
 <!-- pág. 156 -->
-> #### [13] *"Ortega y Rnnan, dijieron que un pueblo constituía una nación no cuando posee un pasado común, sino cuando tiene un futuro compartido"*
+> #### [13] *"Ortega y Renan, dijieron que un pueblo constituía una nación no cuando posee un pasado común, sino cuando tiene un futuro compartido"*
 
 <!-- pág. 156 -->
-> #### [14] *"Habría que agregar, como lo muestra la constitución de los Estados nacionales, que una vez que ese futuro se posee el pasado pasa a ser distinto: entonces la memoria comunicativa, ese diálogo que abarca dos o tres generaciones, comienza a transformarse explícitamente en el proyecto de una memoria cultural que origina ritos, monumentos, fiestas y prácticas en torno a las cuales el tiempo se reorganiza y la identidad adquiere una nueva fisionomía. Así la memoria cultural está casi siempre atada, como si fuera su revés, a la amnesia estructural, a la destrucción deliberada del soporte material o ideológico de esa otra memoria que se quiere desplazar"*
+> #### [14] *"Habría que agregar, como lo muestra la constitución de los Estados nacionales, que una vez que ese futuro se posee, el pasado pasa a ser distinto: entonces la memoria comunicativa, ese diálogo que abarca dos o tres generaciones, comienza a transformarse explícitamente en el proyecto de una memoria cultural que origina ritos, monumentos, fiestas y prácticas en torno a las cuales el tiempo se reorganiza y la identidad adquiere una nueva fisionomía. Así la memoria cultural está casi siempre atada, como si fuera su revés, a la amnesia estructural, a la destrucción deliberada del soporte material o ideológico de esa otra memoria que se quiere desplazar"*
 
 
 ## Personajes
