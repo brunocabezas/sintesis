@@ -23,7 +23,7 @@ Heidegger, en cambio, dice que la identidad deriva de la memoria apoyada por la 
 
 En _"De Trinitate"_, San Agustín analiza la siguiente pregunta: ¿Cómo puede afirmarse que el Padre, el Hijo y El Espíritu Santo son tres entidades que equivalen a un único dios?
 
-La idea era refutada por los _Arrianistas_, quienes creían que Jesús (el Hijo) era una creación de Dios (el Padre). Decian que el Padre era _ingénito_, a diferencia del Hijo que era _engendrado_ por alguien. Para los _Arrianistas_ ellos debían ser dos personas y no una.
+La idea era refutada por los _Arrianistas_, quienes creían que Jesús (el Hijo) era una creación de Dios (el Padre). Decían que el Padre era _ingénito_, a diferencia del Hijo que era _engendrado_ por alguien. Para los _Arrianistas_ ellos debían ser dos personas y no una.
 
 Para zanjar las dudas, San Agustín acude a la idea de _sustancia_ (o sustrato) y sugiere que los conceptos _ingénito_ y _engendrado_ se emplean en este caso para aludir a una relación y no en un plano _sustancial_. Menciona que _ingénito_ simplemente dice _no-hijo_. Es una negación de una relación.
 
