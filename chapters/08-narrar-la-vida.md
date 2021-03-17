@@ -66,10 +66,10 @@ lenguagje artificial que permitiera que las palabras coincidieran con la totalid
 
 ## Personajes
 
-- Javier Marías, novelista español.
+- Javier Marías, novelista español
 - Paul Ricœur, filósofo y antropólogo francés
-- Jean Paul Sartre, filósofo francés.
-- Ludwig Wittgenstein, filósofo alemán.
+- Jean Paul Sartre, filósofo francés
+- Ludwig Wittgenstein, filósofo alemán
 - Bertrand Russel, filósofo británico
 
 
