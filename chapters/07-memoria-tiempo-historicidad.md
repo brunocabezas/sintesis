@@ -5,9 +5,6 @@ Para Heidegger, podríamos definir el quién como un individuo siempre delante d
 - Puedes no tenerle miedo a la muerte y ser como la gente común
 - Puedes temerle y basar en ella tu existencia y prioridades
 
-
-https://github.com/brunocabezas/memoria-y-tiempo/blob/add_remaining_chapters/chapters/07-memoria-tiempo-historicidad.md#1-las-palabras-de-sartre-no-importa-tanto-lo-que-han-hecho-del-hombre-lo-que-importa-es-lo-que-%C3%A9l-hace-con-lo-que-han-hecho-de-%C3%A9l---explican-de-manera-inmejorable-esa-mezcla-de-legado-y-elecci%C3%B3n-con-que-se-constituye-toda-vida-humana
-
 Heidegger señala también que la muerte no sería la fuente de posibilidades o hechos que suceden en la trama de la vida, sino que, estas posibilidades son heredadas y corregidas [\[1\]](#1-las-palabras-de-sartre-no-importa-tanto-lo-que-han-hecho-del-hombre-lo-que-importa-es-lo-que-%C3%A9l-hace-con-lo-que-han-hecho-de-%C3%A9l---explican-de-manera-inmejorable-esa-mezcla-de-legado-y-elecci%C3%B3n-con-que-se-constituye-toda-vida-humana).
 
 Al mirar al futuro, hay un mar de posibilidades, y al encontrarse con la muerte, el individuo mira hacia lo que ha sido, el pasado, sabiendo que ese es el piso y horizonte de cualquier posibilidad [\[2\]](#2-porque-vivir-es-sentirse-disparado-hacia-el-futuro-rebotamos-en-%C3%A9l-como-en-un-herm%C3%A9tico-acantilado-y-vamos-a-caer-en-el-pasado-al-cual-nos-aferramos-hincando-en-%C3%A9l-los-talones-para-volver-con-%C3%A9l-desde-%C3%A9l-al-futuro-y-reanalizarlo-el-pasado-es-el-%C3%BAnico-arsenal-donde-encontramos-los-medios-para-hacer-efectivo-nuestro-futuro-no-recordamos-porque-s%C3%AD-recordamos-el-pasado-porque-eseperamos-el-futuro-y-en-vista-de-%C3%A9l). El pasado ayuda (en el presente) al individuo a enfrentarse de nuevo al futuro. 
@@ -64,7 +61,7 @@ En términos de sociedad, según Habermas, es importante recalcar la relación e
 
 Ortega dice que la vida, quehacer dedicado a rehacerse a sí mismo y piso en el que estamos situados, es una realidad radical, de la cual derivan todas las otras [\[10\]](#10-para-los-antiguos-realidad-ser-significaba-cosa-para-los-modernos-ser-significaba-intimidad-subjetividad-para-nostros-ser-significa-vivir-por-tanto-intidmidad-consigo-y-con-las-cosas-confirmamos-que-hemos-llegado-a-un-nivel-espiritual-m%C3%A1s-alto-porque-si-miramos-a-nuestros-pies-a-nuestros-punto-de-partida-el-vivir-hallamos-que-en-%C3%A9l-est%C3%A1n-conservadas-integradas-una-con-otra-y-superadas-la-antig%C3%B1uedad-y-la-modernidad-estamos-a-un-nivel-m%C3%A1s-alto-estamos-a-nuestro-nivel-estamos-a-la-altura-de-los-tiempos), Heidegger subraya que el tiempo futuro es imprescindible, habla que la vida humana es futurición [\[11\]](https://github.com/brunocabezas/memoria-y-tiempo/blob/add_remaining_chapters/chapters/07-memoria-tiempo-historicidad.md#11-si-nuestra-vida-consiste-en-decidir-lo-que-vamos-a-ser-quiere-decirse-que-en-la-ra%C3%ADz-misma-de-nuestra-vida-hay-un-atributo-temporal-decidir-lo-que-vamos-a-ser-por-tanto-el-futuro-y-sin-parar-recibimos-ahora-una-tras-otra-toda-una-f%C3%A9rtil-cosecha-de-averiguaciones-primera-que-nuestra-vida-es-ante-todo-toparse-con-el-futuro-he-aqu%C3%AD-otra-paradoja-no-es-el-presente-o-el-pasado-lo-primero-que-vivimos-no-la-vida-es-una-actividad-que-se-ejecuta-hacia-adelante-y-el-presente-o-el-pasado-se-descubre-despu%C3%A9s-en-relaci%C3%B3n-con-ese-futuro-la-vida-es-futurici%C3%B3n-lo-que-a%C3%BAn-no-es), lo que aún no es.
 
-Entonces, si la vida es móvil, una realidad radical, al momento de intentar entenderla, se hace imprescindible una razon narrativa o histórica, no para mirar lo que fue, sino para advertir lo que esta siendo. Ella siempre ocurre hacia el futuro, entonces la muerte como hecho futuro, según Heidegger, no permite fundar posibilidades sin el legado recibido desde el tiempo.
+Entonces, si la vida es móvil, una realidad radical, al momento de intentar entenderla, se hace imprescindible una razón narrativa o histórica, no para mirar lo que fue, sino para advertir lo que esta siendo. Ella siempre ocurre hacia el futuro, entonces la muerte como hecho futuro, según Heidegger, no permite fundar posibilidades sin el legado recibido desde el tiempo.
 
 El hombre como heredero hasta cierto punto.
 
@@ -191,14 +188,14 @@ Algo parecido ocurre con la historiografía aristocrática de Alberto Edwards, J
 
 ## Personajes
 
-- Martin Heidegger, filósofo alemán.
-- Fredrich Nietzsche, filósofo alemán.
-- Georg Wilhelm Friedrich Hegel, filósofo alemán.
-- Karl Barth, Teólogo.
-- Jorge Luis Borges, escritor argentino.
-- José Ortega y Gasset, filósofo español.
-- Polibio, historiador griego.
-- Diego Barros Arana, historiador chileno.
+- Martin Heidegger, filósofo alemán
+- Fredrich Nietzsche, filósofo alemán
+- Georg Wilhelm Friedrich Hegel, filósofo alemán
+- Karl Barth, teólogo suizo
+- Jorge Luis Borges, escritor argentino
+- José Ortega y Gasset, filósofo español
+- Polibio, historiador griego
+- Diego Barros Arana, historiador chileno
 
 ## Índice
 

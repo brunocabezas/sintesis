@@ -35,10 +35,10 @@ Podemos ver que hay diferencias entonces entre la narración y la vida vivida:
 
 La memoria también forma parte de este tejido de la vida, porque parte de memoria la es social o cultural.
 
-## Destacados
+<!-- ## Destacados -->
 
-### Bertrand Russel y el lenguaje artifical [WIP]
-lenguagje artificial que permitiera que las palabras coincidieran con la totalidad los hechos
+<!-- ### Bertrand Russel y el lenguaje artifical [WIP] -->
+<!-- lenguagje artificial que permitiera que las palabras coincidieran con la totalidad los hechos -->
 
 <!-- Las citas sin autor especificado son del autor del libro: Carlos Peña. -->
 ## Citas

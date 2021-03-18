@@ -3,18 +3,17 @@
 <!-- de la historia del barco de Tese y  -->
 Con los cuestionamientos que surgen del [caso de Emilio Renzi](#emilio-renzi-en-%22respiracion-artificial%22) en torno a la continuidad material y el cambio, se plantean preguntas como ¿Cómo algo puede ser reconocible después de que cambia materialmente?. Se cuestiona entonces, algo no es lo mismo que era a simple vista. 
 
-<!-- TODO propone? -->
-Aristóteles propone una [verdad conceptual](#verdad-conceptual): existe un _sustrato_, sustancia o soporte entre el antes y después de un objeto, que se mantiene íntegro desde un inicio y hace que el individuo sea único. No debe ser necesariamente visible, pero subyace a estos extremos.
+En este contexto, Aristóteles sugiere una [verdad conceptual](#verdad-conceptual): existe un _sustrato_, sustancia o soporte entre el antes y después de un objeto, que se mantiene íntegro desde un inicio y hace que el individuo sea único. No debe ser necesariamente visible, pero subyace a estos extremos.
 
 Luego, en la cultura medieval se asocia este _sustrato_ a la identidad individual. Con esto, se supuso algo que puede parecer obvio: si este _sustrato_ es común entre dos personas completamente distintas (una guagua y anciano), a pesar de las diferencias no habría varios individuos, solo uno, y este sería el mismo.
 
 Con el paso de los siglos, la identidad se fue asociando más a la memoria, a un tipo de recuerdo, que a lo anterior descrito.
 
-Alrededor de 1600, John Locke planteó el problema de la identidad narrativa, del sí mismo, en donde la identidad es posible no solo con la conciencia: es una mezcla de imaginación y memoria lo que va tejiendo la vida. Esto aleja a la identidad de estar atrapada en la materialidad, algo novedoso para esos años. <!-- TODO aclarar PORQUEEE? -->
+Alrededor de 1600, John Locke planteó el problema de la identidad narrativa, del sí mismo, en donde la identidad es posible no solo con la conciencia: es una mezcla de imaginación y memoria lo que va tejiendo la vida. Esto aleja a la identidad de estar atrapada en la materialidad, algo novedoso para esos años. <!-- TODO expandir -->
 
 También hubo otros intentos de definir la identidad, por ejemplo, David Hume y Derek Parfit la asociaron a [una ilusión](#david-hume-y-la-identidad-personal), en base al concepto de _"impresión"_.
 
-<!-- TODO año? -->
+<!-- TODO en que año? -->
 Heidegger, en cambio, dice que la identidad deriva de la memoria apoyada por la historicidad.
 
 ## Destacados
