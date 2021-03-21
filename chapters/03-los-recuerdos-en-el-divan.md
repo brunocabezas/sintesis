@@ -1,4 +1,4 @@
-# Recuerdos en el diván
+# Los recuerdos en el diván
 
 Dada de la naturaleza de como los recuerdos afectan nuestra memoria (descrita por Freud en capítulos anteriores), se desprende que para conocer la memoria de un individuo hay que conocer su biografía entera.
 
@@ -117,7 +117,7 @@ Las citas sin autor especificado son del autor del libro: Carlos Peña.
 
 - [01-recuerdos-encubridores](./01-recuerdos-encubridores.md)
 - [02-la-provisionalidad-del-pasado](./02-la-provisionalidad-del-pasado.md)
-- 03-recuerdos-en-el-divan
+- 03-los-recuerdos-en-el-divan
 - [04-como-un-ladron-en-la-noche](./04-como-un-ladron-en-la-noche.md)
 - [05-experimentar-el-tiempo](./05-experimentar-el-tiempo.md)
 - [06-hay-una-historia](./06-hay-una-historia.md)
