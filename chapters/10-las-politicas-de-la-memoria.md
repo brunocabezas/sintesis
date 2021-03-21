@@ -18,7 +18,7 @@ Ejemplos de
 - Políticas de olvido
   - La amnistía que se dicto en la constitución ateniense ordeno que "por las cosas pasadas nadie podría vengarse de nadie"
   - El edicto de nantes que puso in a la guerra entre católicos y protestantes prescribió que un conjunto de hechos fueran tratados como "cosa no sucedida"
-  - Ejemplos más contemporáneos como la Francia de la posguerra que suplantó el colaboracionismo del régimen de Vichy con el mito de la Francia resistente y unida que levantó De Gaulle; el de la Austria de Kurt Waldheim que se presentó así misma como una victima inocente de la agresión nazi; el de Polonia, cuyo primer ministro electo en cuarenta anios comenzó su mandato declarando que había que dibujar una linea entre "nosotros" y el pasado o el caso de la Alemania de Adenauer con sus sus esfuerzos de olvidar el pasado nazi
+  - Ejemplos más contemporáneos como la Francia de la posguerra que suplantó el colaboracionismo del régimen de Vichy con el mito de la Francia resistente y unida que levantó De Gaulle; el de la Austria de Kurt Waldheim que se presentó así misma como una victima inocente de la agresión nazi; el de Polonia, cuyo primer ministro electo en cuarenta años comenzó su mandato declarando que había que dibujar una linea entre "nosotros" y el pasado o el caso de la Alemania de Adenauer con sus sus esfuerzos de olvidar el pasado nazi
 
 Otro ejemplo puede ser encontrado en el siglo 19, donde la memoria cultural forma parte de la construcción de los modernos Estados nacionales.
 
@@ -72,24 +72,24 @@ Como nos acercamos al presente? Como si el todo lo justificara? Hay algunas otra
 Otra manera podría ser lo que señala Freud en 1914 de ["La elaboración del recuerdo"](#freud-y-la-elaboración-del-recuerdo). Donde la memoria, esa porfía de los hechos al volver a la cabeza, es un intento de compresión, un esfuerzo por el control simbólico de los hechos [\[11\]]().
 
 La política de la memoria que contribuye a la historia y su real simbolismo tiene poco de anticuario entonces y esta mas ligada a 
-la resignificacion de hechos [\[12\]]() [\[13\]]() [\[14\]](). Después de todo, quienes recuerda están vivos en el presente [\[15\]]().
+la resignificacion de hechos [\[12\]]() [\[13\]]() [\[14\]](). Después de todo, quienes recuerdan están vivos en el presente [\[15\]]().
 
 y cual es la deuda que la memoria debe solventar?
 
-hay momentos críticos de la historia, donde el eslabón que unía a los miembros de la comunidad, el reconocimiento mutuo que se tenían, la narrativa del nosotros, se ha roto. Por ejemplo antes los crímenes de una dictadura o los estropicios de una guerra, es entonces que la memoria entra en duelo y el recuerdo es usado para perdonar los inicios de un nuevo comienzo 
-
-[mencion a freud y lacan del duelo]
+Hay momentos críticos de la historia, donde el eslabón que unía a los miembros de la comunidad, el reconocimiento mutuo que se tenían, la narrativa del nosotros, se ha roto. Por ejemplo ante los crímenes de una dictadura o los estropicios de una guerra, es entonces que la memoria entra en [duelo](#freud-y-lacan-sobre-el-duelo) y el recuerdo es usado para perdonar los inicios de un nuevo comienzo.
 
 <!-- Perdon -->
-Pero que es y de donde viene el perdón? ese momento posterior al duelo y el dolor
+Pero que es y de donde viene el perdón? Ese momento posterior al duelo y el dolor.
 
-Arendt dice que gracias al perdón el hombre es posible de comenzar de nuevo, de traicionar al pasado, pero no negarlo, resistiéndose a que solo este defina el futuro. El principio del nuevo comienzo se puede efectuar mediante el perdón. El perdón como ejercicio de libertad.
+Hannah Arendt sostiene que gracias al perdón el hombre es posible de comenzar de nuevo [\[17\]](), de traicionar al pasado, pero no negarlo, resistiéndose a que solo este defina el futuro. El principio del nuevo comienzo se puede efectuar mediante el perdón. El perdón como ejercicio de libertad [\[20\]]().
 
-Derrida dice que el perdón es un evento sin justificación alguna, puramente gratuito, un lujo de la existencia que ejerce su libertad frente al dolor.
+El nacimiento entonces, no es solo un acontecimiento biológico, porque quien nace es un individuo que tendrá que vérselas con el mundo y reinterpretarlo [\[19\]]().
 
-si el perdón libera, el castigo da dignidad
+Por otro lado, Derrida dice que el perdón esta donde esta lo imperdonable, lo justifica en ese context y lo saca del orden del discurso y del intercambio, lo que se pierde cuando el perdón es concebido instrumentalmente como un paso reconciliador. Derrida sostiene que es un evento sin justificación alguna, puramente gratuito, un lujo de la existencia que ejerce su libertad frente al dolor.
 
-El perdón exige a esribir la memoria, en esa pizarra que Freud senalaba, es un herramienta para escribir el tiempo
+<!-- El perdon en lo penal, si el perdón libera, el castigo da dignidad -->
+
+Por uno u otro lado, el perdón exige a escribir la memoria, es un herramienta para escribir el tiempo.
 
 ## Destacados
 
@@ -107,17 +107,27 @@ Sin embargo, si vemos las bases de leyes que prohíben el negacionismo o condena
 
 Cuando Joaquin de Fiore lee los textos del viejo testamento e imagina en ellos la historia humana o profana, en la historia profana, dice, esta inscrito de manera inmanente lo que anuncia el texto.
 
-De Fiore traduce el texto de tal manera en que cada época de la historia (la del Padre, Hijo y del Espiritu Santo) prefigura y contiene a la que sigue. Lo original es el hecho que la consumación de tiempo (o presente) pertenece al tiempo historico.
+De Fiore traduce el texto de tal manera en que cada época de la historia (la del Padre, Hijo y del Espíritu Santo) prefigura y contiene a la que sigue. Lo original es el hecho que la consumación de tiempo (o presente) pertenece al tiempo historico.
 
 El pasado pasa a ser una etapa cuyo significado proviene del futuro. Adquiere importancia no por un origen que se repite, sino por un destino que en el se anuncia. [5]() El tiempo como futuricion.
 
 <!-- pag. 181 -->
 ### Freud y la elaboración del recuerdo 
-[\[10\]]()
 
+En *"Recuerdo, reelaboracion y repetición"*, un texto de 1914, Freud sugiere que cuanto acontecimiento es demasiado doloroso y por doloroso es reprimido, acaba retornando una y otra vez bajo la forma de un acto. En resumen, ejecutamos en acto lo que no podemos poner en el lenguaje [\[10\]](). 
 
-### Freud y lacan sobre el duelo
-[\[10\]]()
+En *"Mas allá del principio del placer"*, aparece otro ejemplo de evaporación del pasado. 
+
+Un niño solía jugar con un camión de madera atado a una cuerda al que arrojaba desde su cuna hacia afuera, hasta hacerlo desaparecer. Más tarde, el niño tiraba de la cuerda y hacia que el juguete estuviera de nuevo ante sus ojos. Así una y otra vez, el niño repetía escrupulosamente el juego. ¿Cual era el origen de esa compulsión?, se pregunta Freud. El niño sufre un momento doloroso, el abandono temporal de la madre y al escenificarlo una y otra vez lograba mediante el juego, aceptar poco a poco la situación y dominarla, como si, en vez de una pérdida, fuera el producto de su voluntad. El recuerdo del niño puesto en escena y repetido una y otra vez no era una vuelta al pasado, sino el intento de ajustar ese hecho con lo que ese niño sentía en el presente [\[11\]]() [\[17\]]().
+
+<!-- pag. 184 -->
+### Freud y Lacan sobre el duelo
+El duelo como perdida fue analizado por ambos Freud y Lacan, sugerían examinar no a quien perdió el sujeto del duelo (quien murió), si no *que* perdió. Cual fue esa parte suya que se extravió con la muerte del otro. La falta de algo o perdida es introducida por Lacan:
+
+"Solo estamos de duelo por alguien de quien podemos decirnos Yo era su falta"
+
+Ser la falta de alguien equivale a ser reconocido por el, a que el valor que el sujeto se asigna a si mismo haya sido acogido en una conciencia distinta a la suya y llegado de esa forma a ser verdad. Asi entonces el sujeto que esta en duelo ha perdido una parte de si, un eslabón de reconocimiento que completaba su subjetividad. 
+
 <!-- Las citas sin autor especificado son del autor del libro: Carlos Peña. -->
 
 ## Citas
@@ -209,33 +219,23 @@ El pasado pasa a ser una etapa cuyo significado proviene del futuro. Adquiere im
 > 
 > Kant en su obra *Metafísica de las costumbres*
 
-
 <!-- pág. 188-189 -->
 
 > #### [19] _"Porque el individuo humano es un inicio, un principiante por virtud del nacimiento"_
 > 
 > El autor acerca de como el actuar reside en el hombre
 
-
 <!-- pág. 189 -->
 
 > #### [20] _"El perdón es una rebelión frente a la facticidad del pasado, un ejercicio de libertad frente al victimario, aunque no frente al hecho del crimen que seguirá allí."_
-> 
->
-
 
 <!-- pág. 190 -->
 
 > #### [21] _"El perdón, insiste Derrida, es un evento que irrumpe en el mundo sin justificación alguna, y es un acto puramente gratuito, un lujo de la existencia que, al ejercer su libertad frente al dolor que anhela encadenarla, se toma revancha, por decirlo así, de sí misma."_
-> 
->
-
 
 <!-- pág. 191 -->
 
 > #### [22] _"El derecho, recuerda Benjamin, excluye no los fines sino ciertos medios y cuando estos últimos se emplean, la consecuencia es el castigo."_
-> 
->
 
 ## Personajes
 
@@ -243,13 +243,15 @@ El pasado pasa a ser una etapa cuyo significado proviene del futuro. Adquiere im
 - Martin Heidegger, filósofo alemán
 - Hermann Cohen, filósofo alemán
 - San Agustin (Agustin de Hipona), pensador del cristianismo en el imperio romano
-- Jose Ortega y Gasset, filósofo
-- Joaquin de Fiore
-- Kant
+- Jose Ortega y Gasset, filósofo español
+- Joaquin de Fiore, teólogo italiano
+- Imannuel kant, filósofo alemán
 - Sigmud Freud, psicoanalista alemán
-- Hannah Arendt
-- Lacan
-- 
+- Hannah Arendt, filósofo alemán
+- Jacques Lacan, psicoanalista y psiquiatra francés
+- Georg Wilhelm Friedrich Hegel, filósofo alemán
+
+
 ## Índice
 
 - [01-recuerdos-encubridores](./01-recuerdos-encubridores.md)
