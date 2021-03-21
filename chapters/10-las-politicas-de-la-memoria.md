@@ -2,7 +2,7 @@
 
 La memoria tiene un componente político porque en parte depende de nuestra relación con los otros y del entramado simbólico que hoy día nos constituye.
 
-Freud comparó la memoria con una pizarra [\[2\]]() para dar luces de como la política influye en la memoria. Esa imagen de Freud según la cual la memoria es como un bloc donde una mano escribe y la otra borra dejando sin embargo huellas de lo que estaba escrito, hasta formar un conjunto de significaciones que construyen un significado, simboliza la lucha por definir la memoria cultural. La política de la memoria es la que decide que páginas borrar y que escribir sobre ellas.
+Freud comparó la memoria con una pizarra [\[2\]](#2-se-trata-de-esa-pizarra-que-todav%C3%ADa-conocemos-en-la-que-se-escribe-sobre-una-lamina-pl%C3%A1stica-que-la-levantamos-borra-lo-que-estaba-escrito-dejando-apenas-una-huella-sobre-la-que-es-posible-escribir-de-nuevo-si-usted-imagina-que-mientras-una-mano-escribe-en-el-bloc-maravilloso-explica-freud-hay-otra-que-levanta-peri%C3%B3dicamente-la-cubierta-entonces-tendr%C3%A1-una-idea-de-la-forma-en-que-funciona-nuestra-memoria) para dar luces de como la política influye en la memoria. Esa imagen de Freud según la cual la memoria es como un bloc donde una mano escribe y la otra borra dejando sin embargo huellas de lo que estaba escrito, hasta formar un conjunto de significaciones que construyen un significado, simboliza la lucha por definir la memoria cultural. La política de la memoria es la que decide que páginas borrar y que escribir sobre ellas.
 
 El deber de la memoria no es recordarlo todo tal cual como ocurrió, sino, normativo y de índole moral. Así, a la base de cualquier política hay una decisión que traza una linea entre lo que de be ser recordado y olvidado, ademas de señalar como lo recordado debe ser recordado (revalidarlo o castigarlo).
 
@@ -31,13 +31,13 @@ Dentro del modernismo por ejemplo, hay distintas miradas sobre la historia y tie
 
 En general, los modernos y su visión de historia se basan en la visión judío-cristiana. Aquella que sienta las bases en el desarrollo y progreso. Esta larga tradición presenta a la historia como una linea, con inicio y final, en vez de circular (como lo veía Polibio). Al refutar a los paganos, San Agustín ya había explicado que la historia cíclica, donde no hay esperanza, no tiene sentido ¿Que sentido tendría esperar a sabiendas de que el tiempo no trae nada nuevo?
 
-Sin la profecía del viejo testamento, la idea de historia moderna no existiría [\[4\]]().
+Sin la profecía del viejo testamento, la idea de historia moderna no existiría [\[4\]](#4-la-idea-de-historia-es-una-creaci%C3%B3n-del-profetismo).
 
 Joaquin de Fiore lee el viejo testamento y propone el [tiempo como futuricion](#historia-profana-y-joaquin-de-fiore). Aunque es la misma palabra, es distinto a lo que propone Heidegger con este mismo concepto, donde insiste en el desasosiego permanente de la espera consciente por la finitud. La finitud no es un tiempo sin fin.
 
 <!-- La modernidad vs Heidegger -->
 
-La modernidad plantea al futuro como tiempo que esta por delante, de progreso indefinido, sin rostro y cuyo advenimiento depende del quehacer humano. Es justamente lo opuesto de la temporalidad autentica que Heidegger advierte en los hombres[\[6\]]().
+La modernidad plantea al futuro como tiempo que esta por delante, de progreso indefinido, sin rostro y cuyo advenimiento depende del quehacer humano. Es justamente lo opuesto de la temporalidad autentica que Heidegger advierte en los hombres[\[6\]](#6-mientras-la-espera-autentica-es-una-distensi%C3%B3n-hacia-el-futuro-la-idea-de-progreso----el-otro-nombre-moderno-del-futuro----es-una-una-etapa-del-tiempo-un-escal%C3%B3n-a-transitar-en-la-escala-del-ascenso-permanente-de-la-historia).
 
 Heidegger dice que el individuo humano es un ser escatologico (a la búsqueda de un destino final), y la existencia seria como una escatofagia sin "_escathon_"; por otro lado, en la modernidad la historia es vista como una escalera ascendente, concebida como una teodicea.
 
@@ -51,7 +51,7 @@ Si para Hegel el tiempo se organiza en torno al futuro que se acerca, cuya expec
 
 Como mencionamos antes, Benjamin ve un futuro sin rostro y el tiempo comienza a perder su configuración lineal orientada hacia el futuro que lo atrae y centrifuga y se vuelve lento desde el punto de vista de una experiencia que se demora en el pasado
 
-Benjamin, tal como lo hará Heidegger, llama la atención acerca de la forma en que una época técnica imantada hacia el futuro es, en verdad, un declive y evaporación del sentido. No es el futuro lo que nos oriente, sino las imágenes que surgen en el presente [\[9\]]().
+Benjamin, tal como lo hará Heidegger, llama la atención acerca de la forma en que una época técnica imantada hacia el futuro es, en verdad, un declive y evaporación del sentido. No es el futuro lo que nos oriente, sino las imágenes que surgen en el presente [\[9\]](#9-si-para-heidegger-la-idea-de-culpa-acompa%C3%B1a-a-la-existencia-aunque-mas-no-sea-por-el-hecho-de-que-al-optar-por-una-posibilidad-abierta-a-la-existencia-se-niegan-las-dem%C3%A1s-para-benjamin-siempre-el-presente-esta-en-deuda-con-el-pasado-puesto-que-rebaja-las-posibilidades-que-este-ofreci%C3%B3-en-su-momento-la-idea-que-inspira-la-relaci%C3%B3n-del-tiempo-de-hoy-con-el-pasado-es-la-del-presente-como-un-deudor-moroso).
 
 Benjamin no ve la historia como una suma de eslabones, sino como puntos con alguna relación con el presente.
 
@@ -69,10 +69,10 @@ Cual de las dos visiones es más cercana con nuestro presente:
 Como nos acercamos al presente? Como si el todo lo justificara? Hay algunas otras formas?
 
 <!-- La elaboración del recuerdo de Freud -->
-Otra manera podría ser lo que señala Freud en 1914 de ["La elaboración del recuerdo"](#freud-y-la-elaboración-del-recuerdo). Donde la memoria, esa porfía de los hechos al volver a la cabeza, es un intento de compresión, un esfuerzo por el control simbólico de los hechos [\[11\]]().
+Otra manera podría ser lo que señala Freud en 1914 de ["La elaboración del recuerdo"](#freud-y-la-elaboración-del-recuerdo). Donde la memoria, esa porfía de los hechos al volver a la cabeza, es un intento de compresión, un esfuerzo por el control simbólico de los hechos [\[11\]](#11-la-memoria-esa-porf%C3%ADa-de-los-hechos-por-volver-a-la-conciencia-una-y-otra-vez-es-un-intento-de-comprensi%C3%B3n-un-esfuerzo-por-el-control-simb%C3%B3lico-de-esos-recuerdos-ni-el-esfuerzo-por-que-el-futuro-anegue-el-pasado-ni-tampoco-por-que-el-pasado-ilumine-de-pronto-el-presente-con-alguna-posibilidad-negada-en-vez-de-eso-un-esfuerzo-por-narrar-el-presente-en-el-sentido-de-situarlo-en-una-trama-simb%C3%B3lica-que-ya-no-sea-capaz-de-da%C3%B1ar).
 
 La política de la memoria que contribuye a la historia y su real simbolismo tiene poco de anticuario entonces y esta mas ligada a 
-la resignificacion de hechos [\[12\]]() [\[13\]]() [\[14\]](). Después de todo, quienes recuerdan están vivos en el presente [\[15\]]().
+la resignificacion de hechos [\[12\]](#12-y-es-que-al-contrario-de-lo-que-nos-gusta-cree-la-historia-no-se-refiere-en-verdad-a-lo-que-ya-paso-y-que-hemos-dejado-atr%C3%A1s-definitivamente-sino-por-el-contrario-la-historia-se-refiere-a-lo-que-esta-ocurriendo-y-que-nos-acompa%C3%B1a-como-si-fuera-una-sombra) [\[13\]](#13-olvidan-que-los-bienes-culturales-como-el-recuerdo-forman-tambi%C3%A9n-parte-del-conflicto-de-hoy) [\[14\]](#14-nada-hay-de-resentimientos-como-suele-decirse-cuando-las-sociedades-se-ocupan-de-lo-que-paso-hace-treinta-a%C3%B1os-o-cuarenta-a%C3%B1os-al-hacerlo-en-verdad-se-ocupan-de-lo-que-hoy-dia-son-est%C3%A1n-por-decirlo-as%C3%AD-poniendo-sus-recuerdos-y-su-memoria-a-la-altura-de-las-convicciones-que-hoy-las-animan). Después de todo, quienes recuerdan están vivos en el presente [\[15\]](#15-a-fin-de-cuentas-cuando-un-hecho-ingresa-a-la-historia-o-a-la-memoria-siempre-lo-hace-a-titulo-p%C3%B3stumo-es-decir-gracias-a-un-acuerdo-o-a-una-significaci%C3%B3n-que-parece-relevante-hoy-en-el-presente).
 
 y cual es la deuda que la memoria debe solventar?
 
@@ -81,9 +81,9 @@ Hay momentos críticos de la historia, donde el eslabón que unía a los miembro
 <!-- Perdon -->
 Pero que es y de donde viene el perdón? Ese momento posterior al duelo y el dolor.
 
-Hannah Arendt sostiene que gracias al perdón el hombre es posible de comenzar de nuevo [\[17\]](), de traicionar al pasado, pero no negarlo, resistiéndose a que solo este defina el futuro. El principio del nuevo comienzo se puede efectuar mediante el perdón. El perdón como ejercicio de libertad [\[20\]]().
+Hannah Arendt sostiene que gracias al perdón el hombre es posible de comenzar de nuevo [\[17\]](#17-no-hay-memoria-posible-sin-hacer-el-esfuerzo-como-lo-hacia-ese-ni%C3%B1o-en-el-relato-de-freud-por-traer-a-la-conciencia-esas-escenas-traumatices-que-a-veces-preferir%C3%ADamos-olvidar-esa-es-la-%C3%BAnica-forma-de-someterlas-al-dialogo-juzgarlas-desde-el-horizonte-de-futuro-con-que-hoy-dia-contamos-y-asi-reelaborarlas-en-el-entendido-que-reelaborar-el-recuerdo-no-es-borrarlo-de-nuestra-memoria--sino-simplemente-privarlo-de-su-capacidad-destructora-solo-sobre-la-base-de-esa-elaboraci%C3%B3n-parece-posible-el-perd%C3%B3n-ese-nuevo-inicio-que-como-ense%C3%B1a-hannah-arendt-es-una-de-las-formas-m%C3%A1s-radicales-de-la-libertad-humana), de traicionar al pasado, pero no negarlo, resistiéndose a que solo este defina el futuro. El principio del nuevo comienzo se puede efectuar mediante el perdón. El perdón como ejercicio de libertad [\[20\]](#20-el-perd%C3%B3n-es-una-rebeli%C3%B3n-frente-a-la-facticidad-del-pasado-un-ejercicio-de-libertad-frente-al-victimario-aunque-no-frente-al-hecho-del-crimen-que-seguir%C3%A1-all%C3%AD).
 
-El nacimiento entonces, no es solo un acontecimiento biológico, porque quien nace es un individuo que tendrá que vérselas con el mundo y reinterpretarlo [\[19\]]().
+El nacimiento entonces, no es solo un acontecimiento biológico, porque quien nace es un individuo que tendrá que vérselas con el mundo y reinterpretarlo [\[19\]](#19-porque-el-individuo-humano-es-un-inicio-un-principiante-por-virtud-del-nacimiento).
 
 Por otro lado, Derrida dice que el perdón esta donde esta lo imperdonable, lo justifica en ese context y lo saca del orden del discurso y del intercambio, lo que se pierde cuando el perdón es concebido instrumentalmente como un paso reconciliador. Derrida sostiene que es un evento sin justificación alguna, puramente gratuito, un lujo de la existencia que ejerce su libertad frente al dolor.
 
@@ -109,16 +109,16 @@ Cuando Joaquin de Fiore lee los textos del viejo testamento e imagina en ellos l
 
 De Fiore traduce el texto de tal manera en que cada época de la historia (la del Padre, Hijo y del Espíritu Santo) prefigura y contiene a la que sigue. Lo original es el hecho que la consumación de tiempo (o presente) pertenece al tiempo historico.
 
-El pasado pasa a ser una etapa cuyo significado proviene del futuro. Adquiere importancia no por un origen que se repite, sino por un destino que en el se anuncia. [5]() El tiempo como futuricion.
+El pasado pasa a ser una etapa cuyo significado proviene del futuro. Adquiere importancia no por un origen que se repite, sino por un destino que en el se anuncia. [5](#5-el-pasado-adquiere-sentido-e-importancia-no-por-un-origen-que-se-repite-sino-por-un-destino-que-en-el-se-anuncia-y-que-se-realiza-plenamente-en-los-d%C3%ADas-que-vienen) El tiempo como futuricion.
 
 <!-- pag. 181 -->
 ### Freud y la elaboración del recuerdo 
 
-En *"Recuerdo, reelaboracion y repetición"*, un texto de 1914, Freud sugiere que cuanto acontecimiento es demasiado doloroso y por doloroso es reprimido, acaba retornando una y otra vez bajo la forma de un acto. En resumen, ejecutamos en acto lo que no podemos poner en el lenguaje [\[10\]](). 
+En *"Recuerdo, reelaboracion y repetición"*, un texto de 1914, Freud sugiere que cuanto acontecimiento es demasiado doloroso y por doloroso es reprimido, acaba retornando una y otra vez bajo la forma de un acto. En resumen, ejecutamos en acto lo que no podemos poner en el lenguaje [\[10\]](#10-es-lo-que-se%C3%B1ala-la-famosa-nota-de-george-santayana-quien-olvida-el-pasado-o-sea-en-t%C3%A9rminos-freudianos-quien-enmudece-frente-al-pasado-se-condena-a-repetirlo). 
 
 En *"Mas allá del principio del placer"*, aparece otro ejemplo de evaporación del pasado. 
 
-Un niño solía jugar con un camión de madera atado a una cuerda al que arrojaba desde su cuna hacia afuera, hasta hacerlo desaparecer. Más tarde, el niño tiraba de la cuerda y hacia que el juguete estuviera de nuevo ante sus ojos. Así una y otra vez, el niño repetía escrupulosamente el juego. ¿Cual era el origen de esa compulsión?, se pregunta Freud. El niño sufre un momento doloroso, el abandono temporal de la madre y al escenificarlo una y otra vez lograba mediante el juego, aceptar poco a poco la situación y dominarla, como si, en vez de una pérdida, fuera el producto de su voluntad. El recuerdo del niño puesto en escena y repetido una y otra vez no era una vuelta al pasado, sino el intento de ajustar ese hecho con lo que ese niño sentía en el presente [\[11\]]() [\[17\]]().
+Un niño solía jugar con un camión de madera atado a una cuerda al que arrojaba desde su cuna hacia afuera, hasta hacerlo desaparecer. Más tarde, el niño tiraba de la cuerda y hacia que el juguete estuviera de nuevo ante sus ojos. Así una y otra vez, el niño repetía escrupulosamente el juego. ¿Cual era el origen de esa compulsión?, se pregunta Freud. El niño sufre un momento doloroso, el abandono temporal de la madre y al escenificarlo una y otra vez lograba mediante el juego, aceptar poco a poco la situación y dominarla, como si, en vez de una pérdida, fuera el producto de su voluntad. El recuerdo del niño puesto en escena y repetido una y otra vez no era una vuelta al pasado, sino el intento de ajustar ese hecho con lo que ese niño sentía en el presente [\[11\]](#11-la-memoria-esa-porf%C3%ADa-de-los-hechos-por-volver-a-la-conciencia-una-y-otra-vez-es-un-intento-de-comprensi%C3%B3n-un-esfuerzo-por-el-control-simb%C3%B3lico-de-esos-recuerdos-ni-el-esfuerzo-por-que-el-futuro-anegue-el-pasado-ni-tampoco-por-que-el-pasado-ilumine-de-pronto-el-presente-con-alguna-posibilidad-negada-en-vez-de-eso-un-esfuerzo-por-narrar-el-presente-en-el-sentido-de-situarlo-en-una-trama-simb%C3%B3lica-que-ya-no-sea-capaz-de-da%C3%B1ar) [\[17\]](#17-no-hay-memoria-posible-sin-hacer-el-esfuerzo-como-lo-hacia-ese-ni%C3%B1o-en-el-relato-de-freud-por-traer-a-la-conciencia-esas-escenas-traumatices-que-a-veces-preferir%C3%ADamos-olvidar-esa-es-la-%C3%BAnica-forma-de-someterlas-al-dialogo-juzgarlas-desde-el-horizonte-de-futuro-con-que-hoy-dia-contamos-y-asi-reelaborarlas-en-el-entendido-que-reelaborar-el-recuerdo-no-es-borrarlo-de-nuestra-memoria--sino-simplemente-privarlo-de-su-capacidad-destructora-solo-sobre-la-base-de-esa-elaboraci%C3%B3n-parece-posible-el-perd%C3%B3n-ese-nuevo-inicio-que-como-ense%C3%B1a-hannah-arendt-es-una-de-las-formas-m%C3%A1s-radicales-de-la-libertad-humana).
 
 <!-- pag. 184 -->
 ### Freud y Lacan sobre el duelo
