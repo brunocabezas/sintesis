@@ -102,12 +102,12 @@ Las citas sin autor especificado son del autor del libro: Carlos Peña.
 
 ### Personajes
 
-- Sigmud Freud, Psicoanalista.
-- Wilhem Dilthey, Historiador.
-- Rudolf Bultmann, Teólogo.
-- Jose Ortega y Gasset, Filósofo.
-- Martin Heidegger, Filósofo. 
-- Jean-Paul Sartre, Filósofo.
+- Sigmud Freud, psicoanalista alemán
+- Wilhem Dilthey, historiador alemán
+- Rudolf Bultmann, teólogo alemán
+- Jose Ortega y Gasset, filósofo español
+- Martin Heidegger, filósofo alemán
+- Jean-Paul Sartre, filósofo francés
 
 
 ## Índice

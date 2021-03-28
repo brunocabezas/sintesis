@@ -26,7 +26,3 @@ Cada documento tiene las siguientes secciones:
 - [09-la-memoria-cultural](./09-la-memoria-cultural.md)
 - [10-las-politicas-de-la-memoria](./10-las-politicas-de-la-memoria.md)
 - [11-escribir-el-tiempo](./11-escribir-el-tiempo.md)
-
-## TODO
-- Formatear participantes
-- usar  "pág. 155" en vez de "p155"

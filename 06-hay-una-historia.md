@@ -63,7 +63,7 @@ Hume llega a esta conclusión basado en la _impresión_, concepto que explica el
 
 ## Personajes
 
-- Martin Heidegger, filósofo aleman
+- Martin Heidegger, filósofo alemán
 - San Agustin (Agustin de Hipona), pensador del cristianismo en el imperio romano
 - Derek Parfit, filósofo británico
 - David Hume, filósofo e historiador escocés

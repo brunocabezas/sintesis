@@ -67,11 +67,11 @@ Las citas sin autor especificado son del autor del libro: Carlos Peña.
 
 ## Personajes
 
-- Isaiah Berlin, Filósofo y teórico político. 
-- San Agustín, santo y padre de la iglesia católica.
-- Aristóteles, Filósofo.
-- Jose Ortega y Gasset, Filósofo.
-- Martin Heidegger, Filósofo. 
+- Isaiah Berlin, filósofo y teórico político británico
+- San Agustin (Agustin de Hipona), pensador del cristianismo en el imperio romano
+- Aristóteles, filósofo griego
+- Jose Ortega y Gasset, filósofo español
+- Martin Heidegger, filósofo alemán
 
 ## Índice
 
