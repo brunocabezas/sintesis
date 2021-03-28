@@ -205,3 +205,9 @@ Algo parecido ocurre con la historiografía aristocrática de Alberto Edwards, J
 - [04-como-un-ladron-en-la-noche](./04-como-un-ladron-en-la-noche.md)
 - [05-experimentar-el-tiempo](./05-experimentar-el-tiempo.md)
 - [06-hay-una-historia](./06-hay-una-historia.md)
+- 07-memoria-tiempo-historicidad
+- [08-narrar-la-vida](./08-narrar-la-vida.md)
+- [09-la-memoria-cultural](./09-la-memoria-cultural.md)
+- [10-las-politicas-de-la-memoria](./10-las-politicas-de-la-memoria.md)
+- [11-escribir-el-tiempo](./11-escribir-el-tiempo.md)
+

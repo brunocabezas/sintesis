@@ -4,7 +4,7 @@
 
 ## Capítulos
 
-Descripciones de capítulos del libro *"El tiempo de la memoria"* de Carlos Peña.
+Resumen del libro *"El tiempo de la memoria"* de Carlos Peña.
 
 Cada documento tiene las siguientes secciones:
 - Resumen del capítulo
@@ -29,8 +29,4 @@ Cada documento tiene las siguientes secciones:
 
 ## TODO
 - Formatear participantes
-- Agregar nuevos capitulos a indices
 - usar  "pág. 155" en vez de "p155"
-- renombar archivos como nombres de capitulo
-- renombrar repositorio a ""
-- agregar readme general
