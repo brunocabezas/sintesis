@@ -1,19 +1,19 @@
 # Recuerdo encubridores
 
-Recuerdos encubridores es el nombre de un trabajo de Sigmud Freud de 1899 basado en la premisa planteada por el [caso de Emilio Renzi](#los-diarios-de-emilio-renzi-ricardo-piglia) y sus diarios: la discordancia entre lo que uno recuerda y lo que uno vive [\[1\]](#1-lo-que-juzgó-importante-mientras-lo-vivió-no-es-lo-que-juzgará-importante-a-la-hora-del-recuerdo). El término es usado para representar a recuerdos con [ciertas características](#freud-y-los-campos-amarillos) [\[2\]](#2-el-pasado-retornar%C3%ADa-no-para-ser-revivido-sino-que-para-que-un-acontecimiento-posterior-permaneciera-enterrado).
+*"Recuerdos encubridores"* es un trabajo de Sigmud Freud en 1899.  basado en la premisa planteada por el [caso de Emilio Renzi](#los-diarios-de-emilio-renzi-ricardo-piglia) y sus diarios: la discordancia entre lo que uno recuerda y lo que uno vive [\[1\]](#1-lo-que-juzgó-importante-mientras-lo-vivió-no-es-lo-que-juzgará-importante-a-la-hora-del-recuerdo). El término es usado para representar a recuerdos que [encubren a otros](#freud-y-los-campos-amarillos) [\[2\]](#2-el-pasado-retornar%C3%ADa-no-para-ser-revivido-sino-que-para-que-un-acontecimiento-posterior-permaneciera-enterrado).
 
-Luego, Freud se interesa por los recuerdos e investiga como operan en nuestra memoria. Identifica muchas formas en las que afectan a la memoria, siendo las más comunes:
+Freud se interesa por los recuerdos e investiga como operan en nuestra memoria. Identifica muchas formas en las que éstos afectan a la memoria, siendo las más comunes:
 
-- Hechos pasados corrigen impresiones en el futuro **(a)**: recuerdos son vividos posteriormente, pero para encubrir ambiciones, pensamientos, impresiones, aspiraciones del presente. Lo que es recordado no es importante, si no un distractor asociativo.
-- El futuro resignifique el pasado **(b)**: El futuro, le da un nuevo significado al recuerdo.
+- **(a)** Hechos pasados corrigen impresiones en el futuro : recuerdos experimentados posteriormente para encubrir ambiciones, pensamientos, impresiones o aspiraciones del presente. Lo que es recordado no es importante, si no un distractor asociativo.
+- **(b)** El futuro resignifique el pasado : El futuro, le da un nuevo significado al recuerdo.
 
-Se sostiene también que algunos recuerdos son seleccionados por sobre otros, con cierto criterio, están más presentes.
+No esta demás agregar que algunos recuerdos son seleccionados por sobre otros, con cierto criterio, están más presentes.
 
 Los recuerdos cambian con el pasar del tiempo y sólo en el último instante antes de la muerte vamos a poder saber el significado o que relación tuvo con la vida del individuo. La muerte se presenta como momento de integridad. [\[4\]](#4-entonces-es-el-momento-antes-de-la-muerte-el-segundo-antes-de-que-la-conciencia-se-apague-el-que-establece-el-recuerdo-y-el-olvido-el-que-fija-el-rostro-definitivo-del-pasado)
 
-El hombre en vida en cambio, tiene un proyecto de memoria incompleto, nunca definido en su totalidad. Está lanzado a la vida por delante [\[5\]](#5-la-característica-más-peculiar-de-lo-humano-consistiría-en-que-su-ser-siempre-está-delante-suyo-como-si-nunca-estuviera-completo-sino-que-involucrado-en-las-cosas-siempre-estaría-lanzado-por-delante-de-sí-mismo) [\[7\]](#7-y-es-que-siendo-la-vida-humana-un-quehacer-orientado-hacia-delante-siendo-su-estructura-más-intima-temporal-ella-nunca-puede-fijar-el-significado-de-lo-que-le-ocurre-porque-siempre-esta-por-delante-suyo-una-totalidad-a-la-que-aspira-y-que-le-falta-y-cuyos-retazos-podrían-alguna-vez-reclamar-el-empleo-de-un-recuerdo-encubridor-o-un-olvido-sustitutivo-como-una-novela-cuyas-paginas-posteriores-obligaran-una-y-otra-vez-a-releer-las-anteriores-de-manera-que-estas-nunca-tendrían-un-sentido-fijo), para continuamente resignificar recuerdos, buscando ser lo que aun no es, completar la falta, que a su vez, lo define.
+El hombre en vida en cambio, tiene un proyecto de memoria incompleto, nunca definido en su totalidad. Está lanzado a la vida por delante [\[5\]](#5-la-característica-más-peculiar-de-lo-humano-consistiría-en-que-su-ser-siempre-está-delante-suyo-como-si-nunca-estuviera-completo-sino-que-involucrado-en-las-cosas-siempre-estaría-lanzado-por-delante-de-sí-mismo) [\[7\]](#7-y-es-que-siendo-la-vida-humana-un-quehacer-orientado-hacia-delante-siendo-su-estructura-más-intima-temporal-ella-nunca-puede-fijar-el-significado-de-lo-que-le-ocurre-porque-siempre-esta-por-delante-suyo-una-totalidad-a-la-que-aspira-y-que-le-falta-y-cuyos-retazos-podrían-alguna-vez-reclamar-el-empleo-de-un-recuerdo-encubridor-o-un-olvido-sustitutivo-como-una-novela-cuyas-paginas-posteriores-obligaran-una-y-otra-vez-a-releer-las-anteriores-de-manera-que-estas-nunca-tendrían-un-sentido-fijo), para continuamente resignificar recuerdos, buscando ser lo que aún no es, completar la falta, que a su vez, lo oriente y le da sentido.
 
-En este contexto, casos en que los recuerdos operan sobre nuestra memoria (**(a)** o **(b)**), son intentos para lograr aspiraciones que apuntan la totalidad, y nos permiten sobrellevar la vida.
+En este contexto, casos en que los recuerdos operan sobre nuestra memoria (**a** o **b**), son intentos para lograr aspiraciones que apuntan a una totalidad, y nos permiten sobrellevar la vida.
 
 <!--
 [REMOVER?]La temporalidad es una característica intrínsecamente humana, que nos permite tener memoria e historia. Demos paso al tiempo. -->
@@ -22,7 +22,7 @@ En este contexto, casos en que los recuerdos operan sobre nuestra memoria (**(a)
 
 #### Los diarios de Emilio Renzi (Ricardo Piglia)
 
-En este libro de Ricardo Piglia. Emilio Renzi, el principal personaje, recoge parte de los 327 cuadernos en los que desde muy joven anotó el transcurrir de sus días. Páginas que recopilan más de viente mil días de acontecimientos, impresiones y hechos. Una crónica de sí mismo.
+En este libro de Ricardo Piglia. Emilio Renzi, el personaje principal, recoge parte de los 327 cuadernos en los que desde muy joven anotó el transcurrir de sus días. Lee las páginas que recopilan más de viente mil días de acontecimientos, impresiones y hechos. Una crónica de sí mismo.
 
 Después de casi cincuenta años Ricardo Piglia se sentó a revisar los cuadernos ([327 cuadernos](https://www.youtube.com/watch?v=L55KICMfxbs)).
 
@@ -112,17 +112,22 @@ Las citas sin autor especificado son del autor del libro: Carlos Peña.
 
 ## Personajes
 
-- Ricardo Piglia, Escritor.
-- Sigmud Freud, Psicoanalista.
-- Martin Heidegger, Filósofo.
-- Jose Ortega y Gasset, Filósofo.
-- Jean-Paul Sartre, Filósofo.
+- Ricardo Piglia, escritor argentino
+- Sigmud Freud, psicoanalista alemán
+- Martin Heidegger, filósofo alemán
+- Jose Ortega y Gasset, filósofo español
+- Jean-Paul Sartre, filósofo francés
 
 ## Índice
 
 - 01-recuerdos-encubridores
 - [02-la-provisionalidad-del-pasado](./02-la-provisionalidad-del-pasado.md)
-- [03-recuerdos-en-el-divan](./03-recuerdos-en-el-divan.md)
+- [03-los-recuerdos-en-el-divan](./03-recuerdos-en-el-divan.md)
 - [04-como-un-ladron-en-la-noche](./04-como-un-ladron-en-la-noche.md)
 - [05-experimentar-el-tiempo](./05-experimentar-el-tiempo.md)
 - [06-hay-una-historia](./06-hay-una-historia.md)
+- [07-memoria-tiempo-historicidad](./07-memoria-tiempo-historicidad.md)
+- [08-narrar-la-vida](./08-narrar-la-vida.md)
+- [09-la-memoria-cultural](./09-la-memoria-cultural.md)
+- [10-las-politicas-de-la-memoria](./10-las-politicas-de-la-memoria.md)
+- [11-escribir-el-tiempo](./11-escribir-el-tiempo.md)

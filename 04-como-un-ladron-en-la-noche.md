@@ -102,19 +102,24 @@ Las citas sin autor especificado son del autor del libro: Carlos Peña.
 
 ### Personajes
 
-- Sigmud Freud, Psicoanalista.
-- Wilhem Dilthey, Historiador.
-- Rudolf Bultmann, Teólogo.
-- Jose Ortega y Gasset, Filósofo.
-- Martin Heidegger, Filósofo. 
-- Jean-Paul Sartre, Filósofo.
+- Sigmud Freud, psicoanalista alemán
+- Wilhem Dilthey, historiador alemán
+- Rudolf Bultmann, teólogo alemán
+- Jose Ortega y Gasset, filósofo español
+- Martin Heidegger, filósofo alemán
+- Jean-Paul Sartre, filósofo francés
 
 
 ## Índice
-
 - [01-recuerdos-encubridores](./01-recuerdos-encubridores.md)
 - [02-la-provisionalidad-del-pasado](./02-la-provisionalidad-del-pasado.md)
-- [03-recuerdos-en-el-divan](./03-recuerdos-en-el-divan.md)
+- [03-los-recuerdos-en-el-divan](./03-recuerdos-en-el-divan.md)
 - 04-como-un-ladron-en-la-noche
 - [05-experimentar-el-tiempo](./05-experimentar-el-tiempo.md)
 - [06-hay-una-historia](./06-hay-una-historia.md)
+- [07-memoria-tiempo-historicidad](./07-memoria-tiempo-historicidad.md)
+- [08-narrar-la-vida](./08-narrar-la-vida.md)
+- [09-la-memoria-cultural](./09-la-memoria-cultural.md)
+- [10-las-politicas-de-la-memoria](./10-las-politicas-de-la-memoria.md)
+- [11-escribir-el-tiempo](./11-escribir-el-tiempo.md)
+

@@ -1,4 +1,4 @@
-# Recuerdos en el diván
+# Los recuerdos en el diván
 
 Dada de la naturaleza de como los recuerdos afectan nuestra memoria (descrita por Freud en capítulos anteriores), se desprende que para conocer la memoria de un individuo hay que conocer su biografía entera.
 
@@ -68,7 +68,7 @@ Las citas sin autor especificado son del autor del libro: Carlos Peña.
 
 <!-- p57.1 -->
 
-<!-- > #### [3] *"La verdad del sujeto no estaba en lo histórico, sino en la ficción"*. --> -->
+<!-- > #### [3] *"La verdad del sujeto no estaba en lo histórico, sino en la ficción"*. -->
 
 <!-- p57.2 -->
 
@@ -106,18 +106,23 @@ Las citas sin autor especificado son del autor del libro: Carlos Peña.
 
 ## Personajes
 
-- Carl Jung, Psiquiatra y psicólogo.
-- Jacques Lacan, Psiquiatra y psicoanalista.
-- Sigmud Freud, Psicoanalista.
-- Georg Wilhelm Friedrich Hegel, Filosofo idealista.
-- Leonardo Da Vinci, polímata florentino del renacimiento.
+- Carl Jung, psiquiatra y psicólogo suizo
+- Jacques Lacan, psiquiatra y psicoanalista francés
+- Sigmud Freud, psicoanalista alemán
+- Georg Wilhelm Friedrich Hegel, filosofo idealista alemán
+- Leonardo Da Vinci, polímata florentino del renacimiento
 
 
 ## Índice
 
 - [01-recuerdos-encubridores](./01-recuerdos-encubridores.md)
 - [02-la-provisionalidad-del-pasado](./02-la-provisionalidad-del-pasado.md)
-- 03-recuerdos-en-el-divan
+- 03-los-recuerdos-en-el-divan
 - [04-como-un-ladron-en-la-noche](./04-como-un-ladron-en-la-noche.md)
 - [05-experimentar-el-tiempo](./05-experimentar-el-tiempo.md)
 - [06-hay-una-historia](./06-hay-una-historia.md)
+- [07-memoria-tiempo-historicidad](./07-memoria-tiempo-historicidad.md)
+- [08-narrar-la-vida](./08-narrar-la-vida.md)
+- [09-la-memoria-cultural](./09-la-memoria-cultural.md)
+- [10-las-politicas-de-la-memoria](./10-las-politicas-de-la-memoria.md)
+- [11-escribir-el-tiempo](./11-escribir-el-tiempo.md)
