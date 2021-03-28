@@ -245,7 +245,7 @@ Ser la falta de alguien equivale a ser reconocido por el, a que el valor que el 
 - San Agustin (Agustin de Hipona), pensador del cristianismo en el imperio romano
 - Jose Ortega y Gasset, filósofo español
 - Joaquin de Fiore, teólogo italiano
-- Imannuel kant, filósofo alemán
+- Imannuel Kant, filósofo alemán
 - Sigmud Freud, psicoanalista alemán
 - Hannah Arendt, filósofo alemán
 - Jacques Lacan, psicoanalista y psiquiatra francés

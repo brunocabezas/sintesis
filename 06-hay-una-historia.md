@@ -57,18 +57,18 @@ Hume llega a esta conclusión basado en la _impresión_, concepto que explica el
 
 <!-- p94 -->
 
-> #### [1] *"Y La razón es que en ambos casos la identidad deriva no del material de que están hechos el caballo o el hombre, si no, observa Locke, de la _organización_ que posee es materia cambiante y variado"*.
+> #### [1] *"Y La razón es que en ambos casos la identidad deriva no del material de que están hechos el caballo o el hombre, si no, observa Locke, de la _organización_ que posee es materia wcambiante y variado"*.
 >
 > El autor citando las observaciones de John Locke acerca del cambio material de un caballo entre un caballo gordo y otro flaco. -->
 
 ## Personajes
 
-- Martin Heidegger, Filósofo.
-- San Agustín, santo y padre de la iglesia católica.
-- Derek Parfit, Filósofo.
-- David Hume, Filósofo
-- John Locke, Físico y Filósofo.
-- Ricardo Piglia, Escritor.
+- Martin Heidegger, filósofo aleman
+- San Agustin (Agustin de Hipona), pensador del cristianismo en el imperio romano
+- Derek Parfit, filósofo británico
+- David Hume, filósofo e historiador escocés
+- John Locke, físico y filósofo inglés
+- Ricardo Piglia, escritor argentino
 
 ## Índice
 

@@ -20,7 +20,7 @@ En este sentido, Heidegger asocia al ser humano un desasosiego, inquietud perman
 
 Sartre apoya la idea de Heidegger y dice que la conciencia es un ente que siempre va por delante de sí mismo, que se experimenta como una carencia y justo por eso, en vez de archivar los hechos tal cual como ocurren, los va transformando a medida que experimenta nuevas situaciones. [\[6\]](#6-la-conciencia-siempre-juzga-lo-que-ocurrió-a-luz-del-futuro-que-imagina-se-acerca)
 
-Volviendo a Heidegger, en su trabajo _"Ser y Tiempo"_ (1927), [describe al ser humano](#heidegger-y-el-dasein) como _"Cuidado"_. Plantea que para el ser humano, su propia existencia es un asunto del cual no puede escapar, un enigma que nunca se va a resolver. El hombre est[a condenado a modelarse de acorde a un plan mientras viva, su vida siendo la ejecución de este plan. El acto de intentar comprenderse es presentado como lo más intrínsecamente humano.  [\[5\]](#5-si-el-ser-humano-esta-inevitablemente-involucrado-con-las-cosas-entreverado-con-ellas-de-ahí-se-sigue-que-lo-que-ocurrió-en-el-pasado-sigue-en-algún-sentido-ocurriendo-en-el-presente-puesto-que-la-conciencia-en-vez-de-recoger-simplemente-lo-que-sucedió-se-dejó-modelar-por-esos-hecho-que-a-su-vez-al-estar-acogidos-por-una-conciencia-abierta-al-futuro-también-se-modificaron) [\[8\]](#8-el-ser-humano-estaría-sugirió-puesto-ante-la-tarea-inevitable-de-comprenderse-a-sí-mismo-modelándose-en-esa-comprensión-pero-no-como-si-el-estuviera-previamente-constituido-como-si-fuera-un-enigma-o-un-puzzle-esperando-ser-resuelto-si-no-que-ese-esfuerzo-de-comprenderse-sería-el-ser-humano-en-sí-mismo)
+Volviendo a Heidegger, en su trabajo _"Ser y Tiempo"_ (1927), [describe al ser humano](#heidegger-y-el-dasein) como _"Cuidado"_. Plantea que para el ser humano, su propia existencia es un asunto del cual no puede escapar, un enigma que nunca se va a resolver. El hombre esta condenado a modelarse de acorde a un plan mientras viva, su vida siendo la ejecución de este plan. El acto de intentar comprenderse es presentado como lo más intrínsecamente humano.  [\[5\]](#5-si-el-ser-humano-esta-inevitablemente-involucrado-con-las-cosas-entreverado-con-ellas-de-ahí-se-sigue-que-lo-que-ocurrió-en-el-pasado-sigue-en-algún-sentido-ocurriendo-en-el-presente-puesto-que-la-conciencia-en-vez-de-recoger-simplemente-lo-que-sucedió-se-dejó-modelar-por-esos-hecho-que-a-su-vez-al-estar-acogidos-por-una-conciencia-abierta-al-futuro-también-se-modificaron) [\[8\]](#8-el-ser-humano-estaría-sugirió-puesto-ante-la-tarea-inevitable-de-comprenderse-a-sí-mismo-modelándose-en-esa-comprensión-pero-no-como-si-el-estuviera-previamente-constituido-como-si-fuera-un-enigma-o-un-puzzle-esperando-ser-resuelto-si-no-que-ese-esfuerzo-de-comprenderse-sería-el-ser-humano-en-sí-mismo)
 
 Una tarea como modelarse a sí mismo es solo posible gracias a la temporalidad. El _"Dasein"_ no es en el tiempo, si no que es el tiempo mismo. La temporalidad humana, bajo los ojos de Heidegger, no es una línea continua entre pasado y futuro; es una línea que parte desde el último acontecimiento y luego se dispersa hacia atrás, ya que el humano esta volcado al futuro.
 
@@ -142,11 +142,11 @@ Las citas sin autor especificado son del autor del libro: Carlos Peña.
 
 ## Personajes
 
-- San Agustín, santo y padre de la iglesia católica.
-- Martin Heidegger, Filósofo.
-- Jean-Paul Sartre, Filósofo.
-- Sigmud Freud, Psicoanalista.
-- Jose Ortega y Gasset, Filósofo.
+- San Agustin (Agustin de Hipona), pensador del cristianismo en el imperio romano
+- Martin Heidegger, filósofo alemán
+- Jean-Paul Sartre, filósofo francés
+- Sigmud Freud, psicoanalista alemán
+- Jose Ortega y Gasset, filósofo español
 
 ## Índice
 

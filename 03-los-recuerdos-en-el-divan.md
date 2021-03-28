@@ -68,7 +68,7 @@ Las citas sin autor especificado son del autor del libro: Carlos Peña.
 
 <!-- p57.1 -->
 
-<!-- > #### [3] *"La verdad del sujeto no estaba en lo histórico, sino en la ficción"*. --> -->
+<!-- > #### [3] *"La verdad del sujeto no estaba en lo histórico, sino en la ficción"*. -->
 
 <!-- p57.2 -->
 
@@ -106,11 +106,11 @@ Las citas sin autor especificado son del autor del libro: Carlos Peña.
 
 ## Personajes
 
-- Carl Jung, Psiquiatra y psicólogo.
-- Jacques Lacan, Psiquiatra y psicoanalista.
-- Sigmud Freud, Psicoanalista.
-- Georg Wilhelm Friedrich Hegel, Filosofo idealista.
-- Leonardo Da Vinci, polímata florentino del renacimiento.
+- Carl Jung, psiquiatra y psicólogo suizo
+- Jacques Lacan, psiquiatra y psicoanalista francés
+- Sigmud Freud, psicoanalista alemán
+- Georg Wilhelm Friedrich Hegel, filosofo idealista alemán
+- Leonardo Da Vinci, polímata florentino del renacimiento
 
 
 ## Índice
