@@ -1,12 +1,12 @@
 # El tiempo de la memoria
 
+Resumen del libro *"El tiempo de la memoria"* de Carlos Peña.
+
 ![Portada Libro](./el-tiempo-de-la-memoria.png)
 
 ## Capítulos
 
-Resumen del libro *"El tiempo de la memoria"* de Carlos Peña.
-
-Cada documento tiene las siguientes secciones:
+Cada capítulo contiene las siguientes secciones:
 - Resumen del capítulo
 - Destacados: Temas puntuales abordados en el capítulo
 - Citas: Citas textuales del libro
