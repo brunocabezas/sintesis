@@ -1,12 +1,12 @@
-# Porque importa la filosofia
+# Porqué importa la filosofía
 
-Resumen del libro *"Porque importa la filosofia"* de Carlos Peña.
+Resumen del libro *"Porque importa la filosofía"* de Carlos Peña.
 
 ![Portada Libro](./book_cover.png)
 
 ## Capítulos
 
-Cada capitulo contiene, incluida la introduccion, las siguientes secciones:
+Cada capitulo contiene, incluida la introducción, las siguientes secciones:
 - Resumen del capítulo
 - Destacados: Temas puntuales abordados en el capítulo
 - Citas: Citas textuales del libro
@@ -15,7 +15,7 @@ Cada capitulo contiene, incluida la introduccion, las siguientes secciones:
 
 ## Índice
 
-- [01-introduccion]()
+- [01-introduccion](./01-introduccion.md)
 - [02-una famosa anectoda]()
 - [03-el quehacer mas propio del hombre]()
 - [04-que significa ser humano]()
