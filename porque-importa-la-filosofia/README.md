@@ -16,7 +16,7 @@ Cada capitulo contiene, incluida la introducción, las siguientes secciones:
 ## Índice
 
 - [01-introduccion](./01-introduccion.md)
-- [02-una famosa anectoda]()
+- [02-una famosa anectoda](./02-una-famosa-anecdota.md)
 - [03-el quehacer mas propio del hombre]()
 - [04-que significa ser humano]()
 - [05-lenguaje y comprension]()
