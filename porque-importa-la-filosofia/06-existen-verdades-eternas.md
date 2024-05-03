@@ -40,7 +40,7 @@ Hay quienes quienes sugieren que Heidegger llego a un callejo sin salida porque 
 
 Volveremos a esto después de asomarnos a la manera en que Heidegger y Weber caracterizan la modernidad
 
-# Destacados
+## Destacados
 
 #### Sexo como cualidad performativa
 
@@ -54,8 +54,6 @@ Butler sugiere que el sexo es una cualidad performativa, un adscripción constru
 ## Citas
 
 Las citas sin autor especificado son del autor del libro: Carlos Peña.
-
-#### citas
 
 <!-- p81 -->
 > #### [1] _"La universalidad se vive siempre desde una particularidad"_.

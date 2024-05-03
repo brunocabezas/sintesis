@@ -37,7 +37,7 @@ Como gran parte de nuestro vivir depende de nuestro entramado de significados o 
 
 Es realmente así?
 
-# Destacados
+## Destacados
 
 #### Ortega y Gasset y el habla
 
@@ -48,8 +48,6 @@ La palabra, insiste Ortega, se enuncia gracias a circunstancias no lingüística
 ## Citas
 
 Las citas sin autor especificado son del autor del libro: Carlos Peña.
-
-#### citas
 
 <!-- p68 -->
 > #### [1] _"De lo que no se puede hablar es mejor guardar silencio"_.

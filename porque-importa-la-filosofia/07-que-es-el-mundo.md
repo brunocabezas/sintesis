@@ -30,9 +30,9 @@ La filosofía entonces, se ocupa de dilucidar lo que hace posible al mundo, esa 
 
 Entonces es sencillo comprender la incomodidad actual de la filosofía porque lo que caracteriza a la cultura de la modernidad es lo que Max Weber llamó la "*racionalización del mundo*". Y es que lo que caracteriza a la modernidad comprende tropiezos para la filosofía.
 
-# Destacados
+## Destacados
 
-### Weber y la neutralidad de la ciencia
+#### Weber y la neutralidad de la ciencia
 En 1919, en la conferencia llamada "La ciencia como vocación", Max Weber decía que el sentido de la propia ciencia era algo que cada uno debía escoger. La modernidad ofrece muchas miradas y la razón nos deja solos en el proceso de escoger. 
 
 La ciencia entonces, debería ser axiológicamente neutra. No par que el científico enmudeciera, si no, para que su voluntad se pronunciara.
@@ -43,8 +43,6 @@ Heidegger radicaliza este pensamiento y dice que la filosofía es, en efecto, ne
 ## Citas
 
 Las citas sin autor especificado son del autor del libro: Carlos Peña.
-
-#### citas
 
 <!-- p94 -->
 > #### [1] _"Los seres humanos sabríamos primero como estar en el mundo, estaríamos entre las cosas y envueltos en un mundo, y solo después sabríamos qué es el caso. El mundo en el que soy sería la suma de aquello de lo que me ocupo, en lo que estoy envuelto"_.
