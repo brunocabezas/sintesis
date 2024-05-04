@@ -32,7 +32,7 @@ Heidegger piensa que la filosofía se dejó hipnotizar por las concepciones de m
 
 Wittgenstein decía algo similar, para el, la experiencia ética más básica era asistir a la maravilla de la existencia del mundo. Por eso decía que si alguien escribiera un libro de ética que de veras fuera de ética, el libro destruía los otros libros del mundo, porque, ese libro revelaría el misterio de la maravilla del mundo y luego de eso nada mas importaría. Una vez que la pregunta final tuviera una respuesta cabal, todos nuestros acercamientos a lo que existe perderían sentido. El secreto habría sido develado.
 
-Lo mas probable es que Heidegger estaría de acuerdo con Wittgenstein, puesto que el sentido de la filosofía es la búsqueda de sentido.  [\[3\]]() Entonces la filosofía dilucida nuestra capacidad de hacer preguntas "finales", sin que le sea dada la respuesta.
+Lo mas probable es que Heidegger estaría de acuerdo con Wittgenstein, puesto que el sentido de la filosofía es la búsqueda de sentido. [\[3\]]() Entonces la filosofía dilucida nuestra capacidad de hacer preguntas "finales", sin que le sea dada la respuesta.
 
 Esa la forma de concebir el trabajo filosófico no cumple las expectativas de sentido que la cultura humana parece anhelar. [\[4\]]()
 

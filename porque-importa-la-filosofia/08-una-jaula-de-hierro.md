@@ -28,7 +28,7 @@ Según Weber, entre el ascetismo y la orientación a la acción y el capitalismo
 
 Los bienes exteriores también juegan parte importante de la hipnosis mencionada. El fondo de un mundo petrificado por la técnica esta listo. El desencantamiento del mundo podría ver su origen así en la búsqueda de sentido por medio de la religión, búsqueda que pierde su objetivo.
 
-Este diagnóstico de Weber tiene cierta paradoja. La cultura humana inspirada en la permanente búsqueda de sentido acababa en la perdido de el.
+Este diagnóstico de Weber tiene cierta paradoja. La cultura humana inspirada en la permanente búsqueda de sentido acababa en la perdido de el. La imagen del mundo del protestantismo que Weber describe, habría acabado en la época de la imagen del mundo de la que Heidegger llama la atención. 
 
 ## Destacados
 
