@@ -2,7 +2,7 @@
 
 Intentando de dar con el problema de la filosofía en la modernidad (justificar el sentido de su existencia en el mundo contemporáneo), Heidegger plantea algo parecido a lo que Weber describe como *desencantamiento del mundo*. 
 
-En una clase de 1919, Heidegger quiere dar motivos para resaltar la inutilidad de la filosofía en la vida actual. Para ello recurre a la pregunta que ocurre cuando para una persona el horizonte se apaga y hay una especie de shock. Esto sería posible por ejemplo en circunstancias limite, de vida o muerte. Entonces preguntas como ¿Por qué pasan las cosas?, ¿Por qué hay algo y no mas bien nada?, surgen en la cabeza. 
+En una clase de 1919, Heidegger quiere dar motivos para resaltar la inutilidad de la filosofía en la vida actual. Para ello recurre a la pregunta que ocurre cuando para una persona el horizonte se apaga y hay una especie de shock. Esto sería posible por ejemplo en circunstancias limite, de vida o muerte. Entonces preguntas como ¿Por qué pasan las cosas?, ¿Por qué hay algo y no más bien nada?, surgen en la cabeza. 
 
 Estas preguntas son las que Hans Blumberg define como [metáforas absolutas](#las-metáforas-absolutas) [\[1\]](#1-ese-tipo-de-preguntas-que-asoman-en-las-grietas-de-la-angustia-o-la-más-profunda-alegría-que-es-cuando-el-mundo-muestra-su-contingencia-es-lo-que-da-origen-según-hans-blumenberg-a-las-metáforas-absolutas), además de adjudicarles una *verdad histórica*. Sucede que en estas preguntas basales, aparte de vincular al yo de quien pregunta, hay generalidad, un yo genérico. Esta generalidad abre una nueva rama en su análisis.
 

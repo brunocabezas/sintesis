@@ -24,6 +24,6 @@ Cada capitulo contiene, incluida la introducción, las siguientes secciones:
 - [07-que es el mundo](./07-que-es-el-mundo.md)
 - [08-una jaula de hierro](./08-una-jaula-de-hierro.md)
 - [09-metaforas mundo e historia](./09-metaforas-mundo-historia.md)
-- [10-la filosofia y la epoca moderna]()
+- [10-la filosofia y la epoca moderna](./10-la-filosofia-y-la-epoca-moderna.md)
 - [11-el palacio de cristal]()
 - [12-porque-importal-la-filosofia]()
