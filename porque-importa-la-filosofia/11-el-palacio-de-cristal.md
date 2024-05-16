@@ -2,7 +2,7 @@
 
 Llegamos a este punto, donde sabemos que la sociedad moderna considera al mundo como una imagen. Vamos a analizar ahora la relación entre la filosofía y las concepciones de mundo, esas formas que en un momento dado se utilizan y a veces perduran por siglos.
 
-Según Ortega y Gasset, las creencias son la base de la vida previsible [1]() y cuando en ellas surge la duda la filosofía va al rescate [2](). El problema de la modernidad entonces es que las creencias olvidaron su origen, removieron las inseguridades y de paso la filosofía ya no es necesaria. 
+Según Ortega y Gasset, las creencias son la base de la vida previsible [\[1\]](#1-la-confianza-que-a-veces-solemos-creer-es-una-confianza-en-las-personas-es-en-verdad-como-sugiere-la-sociología-contemporánea-un-resultado-de-nuestras-creencias-y-una-fe-en-los-procedimientos-y-en-la-descripción-experta-del-mundo) y cuando en ellas surge la duda la filosofía va al rescate [\[2\]](#2-la-filosofía-es-ortopedia-de-la-creencia-fracturada). El problema de la modernidad entonces es que las creencias olvidaron su origen, removieron las inseguridades y de paso la filosofía ya no es necesaria. 
 
 La descripción anterior es similar a la que formula Heidegger en una obra posterior a *Ser y tiempo*, su principal trabajo. En *Aportes a la filosofía*, escrito en 1936 vuelve a examinar el mismo problema de 1919. 
 
@@ -12,7 +12,7 @@ Pero en 1936 el añade que las concepciones del mundo son, sobre todo, una excre
 
 La modernidad es nuestra concepción contingente y una obra de olvido. Es ciega para su fundamento y su propia creación. 
 
-Lo que la metafísica moderna ha olvidado es que somos seres-en-el-mundo. Que nuestra naturaleza no es vivir circunscrito al mundo circundante, sino abierto al mundo que esta afuera de él [4]. 
+Lo que la metafísica moderna ha olvidado es que somos seres-en-el-mundo. Que nuestra naturaleza no es vivir circunscrito al mundo circundante, sino abierto al mundo que esta afuera de él [\[4\]](#4-el-ser-humano-no-puede-sino-vivir-en-un-mundo-que-lo-circunda-pero-el-lo-excede-y-en-el-fondo-de-su-estructura-por-decirlo-asi-habita-un-mundo-deslimitado). 
 
 Si lo anterior es cierto, lo que pasa en la modernidad es que el mundo circundante es solo eso y nada más. Es como un palacio de cristal, que atrae a todos a su interior y da la ilusión de estar abierto al exterior, pero no. 
 
@@ -28,7 +28,7 @@ Los zapatos en la obra de Van Gogh se despojan de su significación común, se m
 
 Todo el proyecto de Heidegger parece consistir en ver de que forma el ser humano podría recuperar la capacidad de abrir nuevos mundos que la modernidad ha oscurecido. La filosofía cumple un papel principal. 
 
-Por otro lado, Weber parece hablar de un problema similar en su conferencia *La ciencia como vocación*. Piensa en dar con alguna solución para salir del "estado de caída". Afirma que la ciencia es incapaz de responder las preguntas del sentido, y que entonces, es una cosa de actitud personal ante la vida [5]()
+Por otro lado, Weber parece hablar de un problema similar en su conferencia *La ciencia como vocación*. Piensa en dar con alguna solución para salir del "estado de caída". Afirma que la ciencia es incapaz de responder las preguntas del sentido, y que entonces, es una cosa de actitud personal ante la vida [5](#5-el-inocultable-aristocratismo-de-weber-influido-por-nietzsche-sitúa-en-el-individuo-la-resolución-del-problema)
 
 No fue esa la respuesta de Heidegger, ni tampoco la de Sloterdijk. Ambos no vinculan al ser humano en la revolución que permita salir de este estado. 
 
@@ -54,7 +54,7 @@ Solo ayudados por la filosofía podrían las moscas salir de una botella, solo p
 #### Época moderna e ilegítima
 Una teoría esbozada por Karl Lowith, alumno de Heidegger, que sugiere que las grandes ideologías modernas eran sustitutos, sucedáneos de las grandes teodiceas que iluminaron la Edad Media. La historia moderna sería un sustituto de la historia sagrada. Sería "ilegítima" porque no es capaz de generar sentido. 
 
-Esto tiene resonancia con lo que Heidegger piensa que es el la tarea de la filosofía: descubrir falsificaciones de las viejas fuentes de sentido hechas por la modernidad *indigente*. [7]
+Esto tiene resonancia con lo que Heidegger piensa que es el la tarea de la filosofía: descubrir falsificaciones de las viejas fuentes de sentido hechas por la modernidad *indigente*. [\[7\]](#7-la-modernidad-sería-así-un-tiempo-indigente)
 
 
 ## Citas
@@ -71,32 +71,26 @@ Las citas sin autor especificado son del autor del libro: Carlos Peña.
 >
 > Ortega y Gasset
 
->
-> Ortega y Gasset, señalando que los filósofos "no creen" para cumplir su función
-
 <!-- p159 -->
 > #### [3] _"el filósofo puede ser quien no cree y por eso necesita agenciarse algo así como una creencia. La filosofía es ortopedia de la creencia fracturada."_.
 >
 > Ortega y Gasset, señalando que los filósofos "no creen" para cumplir su función
 
 <!-- p161 -->
-> #### [4] _"El ser humano no puede sino vivir en un mundo que lo circunda, pero el lo excede y en el fondo de su estructura, por decirlo asi, habita un mundo deslimitado"_.
+> #### [4] _"El ser humano no puede sino vivir en un mundo que lo circunda, pero el lo excede y en el fondo de su estructura, por decirlo así, habita un mundo deslimitado"_.
 
 <!-- p166 -->
 > #### [5] _"El inocultable aristocratismo de Weber, influido por Nietzsche, sitúa en el individuo la resolución del problema"_.
-
 
 <!-- p171 -->
 > #### [6] _"donde cada conducta se justifica por su mera ejecución"_.
 >
 > Heidegger hablando del mundo técnico, donde todo tiene su fin en sí mismo.
 
-
 <!-- p171 -->
 > #### [7] _"La modernidad sería, así, un tiempo indigente"_.
 >
 > Karl Lowith hablando de la modernidad como un tiempo que los dioses viejos abandonaron, donde los nuevos dioses aún no llegan.
-
 
 
 ## Personajes

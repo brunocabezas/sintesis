@@ -1,26 +1,26 @@
 # Una jaula de hierro
 
-Max Weber presenta el concepto de "racionalización del mundo" en su trabajo sobre fenómenos culturales *La ética protestante y el espíritu del capitalismo*. Racionalización como tendencia a concebir el mundo como una suma de recursos a disposición. Algo similar podemos encontrar en Heidegger, con "el pensar calculante". 
+Max Weber presenta el concepto de "racionalización del mundo" en su trabajo sobre fenómenos culturales *La ética protestante y el espíritu del capitalismo*. Racionalización como tendencia a concebir el mundo como una suma de recursos a disposición. Algo similar podemos encontrar en Heidegger, con el "pensar calculante". 
 
-Weber hace énfasis en que esta manera de ver el mundo es mas fuerte en Occidente, donde la racionalización sería el esfuerzo por manejar el acontecer entendiéndolo como un [medio para llegar un fin](#fenómenos-culturales-occidentales-vs-orientales). Al resultado de esto, Weber lo llama "desencantamiento del mundo".
+Weber hace énfasis en que esta manera de ver el mundo es más fuerte en Occidente, donde la racionalización sería el esfuerzo por manejar el acontecer entendiéndolo como un [medio para llegar un fin](#fenómenos-culturales-occidentales-vs-orientales). Al resultado de esto, Weber lo llama "desencantamiento del mundo".
 
 #### Desencantamiento del mundo
 
-El término lo muestra en una conferencia de 1919 llamada *La ciencia como vocación*. En ella se pregunta si la ciencia tiene algún sentido que develar, mas allá de lo práctico, a lo que [inspirado por Schiller](#friedrich-schiller-y-la-inspiración-de-weber) responde [que no](#ciencia-y-sentido) citando a Tolstoi (que influye a Wittgenstein a concluir algo parecido). 
+El término lo muestra en una conferencia de 1919 llamada *La ciencia como vocación*. En ella se pregunta si la ciencia tiene algún sentido que develar, más allá de lo práctico, a lo que [inspirado por Schiller](#friedrich-schiller-y-la-inspiración-de-weber) responde [que no](#ciencia-y-sentido). citando a Tolstoi (que influye a Wittgenstein a concluir algo parecido). 
 
-El progreso moderno no puede responder las preguntas mas importantes acerca del sentido de la existencia, ya que conferir sentido es un asunto de voluntad. 
+El progreso moderno no puede responder las preguntas más importantes acerca del sentido de la existencia, ya que conferir sentido es un asunto de voluntad. 
 
-El problema es entonces que el mundo racionalizado o tecnificado (ciencia) invade la realidad social y nosotros empezamos a operar socialmente en la lógica del intercambio de mercancías. Dar algo por algo, solo hacer algo con un fin en particular, si no, no vale la pena. Esta restricción promueve lo contrario a ser generoso y dar cosas sin esperar nada a cambio.
+El problema es entonces que el mundo racionalizado o tecnificado (ciencia) invade la realidad social y nosotros empezamos a operar socialmente en la lógica del intercambio de mercancías. Dar algo por algo, solo hacer algo con un fin en particular, si no, no vale la pena. Algo contrario a esta restricción sería ser generoso y dar cosas sin esperar nada a cambio.
 
 #### La religión
 
-Weber cree que en la modernidad la religión ataja la falta de sentido. Sin la religión dice, no habría orden posible. Los inalcanzables ideales religiosos, son tan distantes de lo cotidiano que son capaces de conferir sentido y orientar la vida, dan significado a acciones cotidianas en miras a un fin en particular. Weber va mas lejos y dice que el como de la vida (la forma de vivirla) no antecede al porque (al sentido) [\[\]]() [\[\]]() 
+Weber cree que en la modernidad la religión ataja la falta de sentido. Sin la religión dice, no habría orden posible. Los inalcanzables ideales religiosos, son tan distantes de lo cotidiano que son capaces de conferir sentido y orientar la vida, dan significado a acciones cotidianas en miras a un fin en particular. Weber señala también que el como de la vida (la forma de vivirla) no antecede al porque (al sentido) [\[\]]() [\[\]]() 
 
-Pero también en la modernidad es donde la religión ha perdido importancia, relevancia. La modernidad olvida su origen religioso. 
+Pero también en la modernidad es donde la religión ha perdido importancia y relevancia. La modernidad olvida su origen religioso. 
 
-Las creencias del judaísmo y cristianismo habrían dado origen a una idea sistemática. Estas [imágenes de mundo](#weber-intereses-materiales-e-imágenes-de-mundo) occidentales operan desde la exigencia de sentido, desde la idea de que la vida debe vivirse mediante un plan previsible, con reglas que dirigen la conducta y la orientan. 
+Las creencias occidentales del judaísmo y cristianismo habrían dado origen a una idea sistemática. Éstas [imágenes de mundo](#weber-intereses-materiales-e-imágenes-de-mundo) operan desde la exigencia de sentido, desde la idea de que la vida debe vivirse mediante un plan previsible, con reglas que dirigen la conducta y la orientan. 
 
-Este racionalismo religioso tuvo dos ramas con distintas inspiraciones originales acerca del bien de salvación. Uno creía que este tiene carácter místico, apartado de un carácter económico, como el budismo. En otro, la idea se origina del ascetismo. [El ascetismo](#ascetismo) se libera de cualquier concepción mágica de la existencia y se propone su transformación activa mediante el trabajo cotidiano. Ejemplos de esto son El calvinismo (todo gira alrededor de dios, no hay iglesia, no hay sacerdotes) y los Pilgrims, ambas ramas protestantes. 
+Este racionalismo religioso tuvo dos ramas con distintas inspiraciones originales acerca del bien de salvación. Uno creía que éste tiene carácter místico, apartado de un carácter económico (por ejemplo, el budismo). En otro, la idea se origina del ascetismo. [El ascetismo](#ascetismo) se libera de cualquier concepción mágica de la existencia y se propone su transformación activa mediante el trabajo cotidiano. Por ejemplo, el calvinismo (todo gira alrededor de dios, no hay iglesia, no hay sacerdotes) y los Pilgrims, ambas ramas protestantes. 
 
 #### Origen del desencantamiento
 
@@ -61,7 +61,7 @@ Agrega que la división del trabajo ha aumentado la especialización y bienestar
 Parecido a lo que dice Marx acerca de que el ser humano no reconocería su naturaleza social más que en la abstracción del intercambio de mercancías. 
 
 #### Weber, intereses materiales e imágenes de mundo
-Max Weber era similar a Marx al momento de comprender la importancia de los intereses materiales en la conducta humana. Sabía que los humanos se guían de manera inmediata por interese materiales y también sabía que sin imágenes del mundo que los trascendieran, ellos serian incapaces por si solos de conferir sentido a la acción.
+Max Weber era similar a Marx al momento de comprender la importancia de los intereses materiales en la conducta humana. Sabía que los humanos se guían de manera inmediata por intereses materiales y también sabía que sin imágenes del mundo que los trascendieran, ellos serían incapaces por sí solos de conferir sentido a la acción.
 
 Estas imágenes constituyen un mundo en el que las acciones inmediatas tengan sentido
 - Judaísmo: los seres humanos podían ser redimidos de la esclavitud y llevados a reino mesiánico
@@ -71,7 +71,7 @@ Estas imágenes constituyen un mundo en el que las acciones inmediatas tengan se
   
 #### Ascetismo
 
-El creyente se ve a si mismo como instrumento de Dios que solo alcanza su plenitud en la profesión cotidiana. El trabajo del día a día se prueba la gracia que de otra forma no tenia sentido
+El creyente se ve a sí mismo como instrumento de Dios que solo alcanza su plenitud en la profesión cotidiana. El trabajo del día a día se prueba la gracia que de otra forma no tenia sentido
 
 El ascetismo es un entrenamiento mental, basado en la austeridad y con fines individuales. La idea es estar preparado para las situaciones duras en la vida. Como la gente se prepara físicamente, también es importante hacer ejercicios mentales.
 

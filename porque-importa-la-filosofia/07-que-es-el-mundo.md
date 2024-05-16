@@ -10,15 +10,15 @@ Heidegger extrema todavía más esa particularidad y pregunta si la separación 
 
 Dice que la suma de objetos no hace la experiencia de ir a clases. No es que por tener una silla, un pupitre y un profesor experimentamos el estar en clase. Es el mundo el que le da significado a los objetos. Si un negro de una tribu africana ve la mesa puede pensar que es para cualquier otra cosa. Comparecemos ante un mundo que significamos. Esta significación es primaria, se da sin ningún rodeo intelectual.
 
-Entonces se llega a la definición de "mundo" de Heidegger: algo que le da sentido a las cosas, ese trasfondo inexplicable. CITA 5
+A esta significación, Heidegger la llama "mundo": algo que le da sentido a las cosas, ese trasfondo inexplicable. [\[2\]](#2-un-mundo-es-explica-algo-inobjetivo-que-le-da-sentido-a-las-cosas-ese-trasfondo-inexplicable-oculto-soterrado-que-confiere-la-manera-de-ser-a-nuestras-prácticas)
 
-Para Heidegger, la tarea fundamental de la filosofía sería la de caer en la cuenta de la *compresión del ser* como la particular manera en que los seres humanos abrimos un mundo delante de nosotros. En ese sentido, que el nuestro sea un mundo técnico quiere decir que todo aparece como útil, como un instrumento puesto a disposición de la voluntad de alguien. Esa comprensión del ser es producto de el mundo ya constituido, mundo el cual la filosofía no puede cambiar directamente, pero si mostrar su contingencia.
+Para Heidegger, la tarea fundamental de la filosofía sería en mirar la *compresión del ser* como una particular manera en que los seres humanos abrimos un mundo delante de nosotros. En ese sentido, nuestro mundo es técnico, lo que quiere decir que todo aparece como útil, como un instrumento puesto a disposición de la voluntad de alguien. Esa comprensión del ser es producto del mundo ya constituido, mundo el cual la filosofía no puede cambiar directamente, pero si mostrar su contingencia.
 
-Que sea contingente quiere decir que es una posibilidad entre otras. Fragiliza la realidad.
+Algo es contingente en el sentido que es una posibilidad entre muchas otras.
 
 ## Contingencia en la teoría de sistemas
 
-En la teoría de sistemas la contingencia se explica desde los sociológico. Los sistemas sociales se diferencian de su ambiente por seleccionar entre infinitas posibilidades solo algunas que constituyen su sentido, y del que depende su identidad. Pero ese sentido en si, es contingente y subsiste amenazado por aquellos que excluyo. 
+En la teoría de sistemas la contingencia se explica desde lo sociológico. Los sistemas sociales se diferencian de su ambiente por seleccionar entre infinitas posibilidades solo algunas que constituyen su sentido, y del que depende su identidad. Pero ese sentido en si, es contingente y subsiste amenazado por aquellos que excluyo. 
 
 Esta idea también está vinculada con la autopoiesis de Humberto Maturana y Francisco Varela. La noción de autopoiesis presenta la vida como un sistema que es capaz de producir los propios elementos que lo componen.
 
@@ -28,7 +28,7 @@ Hay poca diferencia entre un mundo y un sistema entonces.
 
 La filosofía entonces, se ocupa de dilucidar lo que hace posible al mundo, esa contingencia que se disfraza de eternidad, hasta que la filosofía la desenmascara.
 
-Entonces es sencillo comprender la incomodidad actual de la filosofía porque lo que caracteriza a la cultura de la modernidad es lo que Max Weber llamó la "*racionalización del mundo*". Y es que lo que caracteriza a la modernidad comprende tropiezos para la filosofía.
+Entonces es sencillo comprender la incomodidad actual de la filosofía porque lo que caracteriza a la cultura de la modernidad es lo que Max Weber llamó la "racionalización del mundo". Y es que lo que caracteriza a la modernidad comprende tropiezos para la filosofía.
 
 ## Destacados
 

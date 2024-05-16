@@ -2,11 +2,11 @@
 
 Siguiendo con el punto del capitulo anterior, ¿Es la filosofía una afirmación de lo que cada cultura tiene como lo existente o lo valioso? Afortunadamente no.
 
-La filosofía no es una crónica histórica de los intentos de interpretarse a sí mismos de los individuos. Mas allá del registro de estas respuestas, la filosofía quiere dilucidar o atrapar la estructura que hace posible que las preguntas surjan en nosotros. 
+La filosofía no es una crónica histórica de los intentos de interpretarse a sí mismos de los individuos. Más allá del registro de estas respuestas, la filosofía quiere dilucidar o atrapar la estructura que hace posible que las preguntas surjan en nosotros. 
 
 La filosofía se relaciona con la historicidad, en el sentido, de preguntarse aquello que hace posible que esa pregunta asome en el tiempo.
 
-Por supuesto, si cada ser humano vive en un mundo, en su propio mundo, los enunciados morales pueden ser adecuados o no al interior de ese mundo. Lo que puede dar luces de argumentar en favor de la relatividad. Pero es distinto. Cada mundo enuncia pretensiones de una validez universal. [\[1\]]()
+Por supuesto, si cada ser humano vive en un mundo, en su propio mundo, los enunciados morales pueden ser adecuados o no al interior de ese mundo. Lo que puede dar luces de argumentar en favor de la relatividad. Pero es distinto. Cada mundo enuncia pretensiones de una validez universal. [\[1\]](#1-la-universalidad-se-vive-siempre-desde-una-particularidad)
 
 La constatación de que vivimos envueltos en una malla de significados que constituimos y que paradójicamente nos constituyen no es relativismo, sino una simple constatación de la historicidad que nos constituye y del hecho que todo lo absoluto que pretendemos tiene que vérselas con el tiempo.
 
