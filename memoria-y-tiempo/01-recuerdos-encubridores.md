@@ -22,7 +22,7 @@ En este contexto, casos en que los recuerdos operan sobre nuestra memoria (**a**
 
 #### Los diarios de Emilio Renzi (Ricardo Piglia)
 
-En este libro de Ricardo Piglia. Emilio Renzi, el personaje principal, recoge parte de los 327 cuadernos en los que desde muy joven anotó el transcurrir de sus días. Lee las páginas que recopilan más de viente mil días de acontecimientos, impresiones y hechos. Una crónica de sí mismo.
+En este libro de Ricardo Piglia. Emilio Renzi, el personaje principal, recoge parte de los 327 cuadernos en los que desde muy joven anotó el transcurrir de sus días. Lee las páginas que recopilan más de veinte mil días de acontecimientos, impresiones y hechos. Una crónica de sí mismo.
 
 Después de casi cincuenta años Ricardo Piglia se sentó a revisar los cuadernos ([327 cuadernos](https://www.youtube.com/watch?v=L55KICMfxbs)).
 
@@ -36,9 +36,9 @@ Ejemplo de un _recuerdo encubridor_, término definido por Freud.
 
 En un recuerdo de la niñez, Freud se ve corriendo por un prado de flores amarillas. Va junto a una prima que lleva en sus manos un ramillete. El niño se lo quita y ésta se va llorando a una casa campesina en donde, para consolarla, le dan pan. El niño entonces arroja el ramo de flores y se van con la niña a comer el pan que cuyo sabor y aroma exquisito aún recuerda.
 
-Cabe destacar que Freud vivio en el campo hasta los 3 anos de edad, después fue trasladado a la ciudad. Volvió después en dos ocasiones:
+Cabe destacar que Freud vivió en el campo hasta los 3 anos de edad, después fue trasladado a la ciudad. Volvió después en dos ocasiones:
 - 17 años, en unas vacaciones escolares. Se enamora de una chica del lugar.
-- 20 años, visita a la casa de su tio. Se reencuentra con aquellos primos del recuerdo.
+- 20 años, visita a la casa de su tío. Se reencuentra con aquellos primos del recuerdo.
 
 Cuando recuerda esto y mira hacia atrás; lo analiza y saca a la superficie el trauma que supuso para él haber tenido que adoptar la vida tranquila de campo por una existencia de inquietudes en la cuidad de Viena. La inquietud de tener que "ganarse el pan" es asociada a lo que perdura del recuerdo.
 
@@ -55,7 +55,7 @@ Por esto, es un recuerdo encubridor.
 En sus trabajos _"Psicopatología de la vida cotidiana"_ y _"La interpretación de Sueños"_, Freud tipifica los recuerdos en base a la relación temporal entre dos momentos de la vida rememorados:
 
 - Adelantador: un hecho indiferente se retiene para ocultar un hecho ocurrido en un tiempo anterior. Uno presente oculta uno pasado
-- Simultáneo: el recuerdo ocultado y el encubrido pertenecen al mismo tiempo
+- Simultáneo: el recuerdo ocultado y el encubierto pertenecen al mismo tiempo
 - Retrocedente: encubre un hecho de un tiempo posterior. Un incidente que se disfraza con el pasado y así se oculta en el tiempo que ya fue
 
 #### Nombres sustitutivos

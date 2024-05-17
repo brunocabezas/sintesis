@@ -1,6 +1,6 @@
 # La memoria cultural 
 
-Según Walter Benjamin, la experiencia se torna común al momento de narrarla. La narración constituye a la experiencia como algo común [\[1\]](#1-la-narraci%C3%B3n-se-sumerge-en-la-vida-del-relator-y-as%C3%AD-la-comunica-como-experiencia). Ademas plantea que la experiencia-común comienza a disolverse en el hombre moderno.
+Según Walter Benjamin, la experiencia se torna común al momento de narrarla. La narración constituye a la experiencia como algo común [\[1\]](#1-la-narraci%C3%B3n-se-sumerge-en-la-vida-del-relator-y-as%C3%AD-la-comunica-como-experiencia). Además plantea que la experiencia-común comienza a disolverse en el hombre moderno.
 
 Benjamin daba como ejemplo la aparición de la novela en la modernidad, que implica la sustitución de la audiencia compartida por el acto solitario de leer, es una forma de disolución de la experiencia y también de la memoria.
 
@@ -14,13 +14,13 @@ El lenguaje permite conectar la memoria individual con la colectiva y desde ese 
 
 Las experiencias personales (memoria individual) se constituyen como tal al momento de compartirlas con otros o situarlas dentro de un contexto social o cultural específico.
 
-Capaz sea mas exacto referirse a memoria comunicativa que memoria colectiva, memoria cuya forma es narrativa.
+Capaz sea más exacto referirse a memoria comunicativa que memoria colectiva, memoria cuya forma es narrativa.
 
 La memoria cultural, que provee de ritos, archivos, lugares, es la única con carácter inmemorable, que apunta a fijarse en el horizonte [\[9\]](#9-y-la-memoria-cultural-es-un-esfuerzo-hasta-cierto-punto-deliberado-por-instaurar-una-balsa-a-bordo-de-la-cual-las-comunidades-puedan-sobrevivir-en-medio-de-la-tempestad-del-tiempo) [\[10\]](#10-el-sujeto-hist%C3%B3rico-no-es-pues-solo-aquel-a-quien-le-suceden-cosas-es-tambi%C3%A9n-quien-con-su-fantas%C3%ADa-y-con-su-deseo-las-envuelve-y-las-atesora-las-disfraza-y-las-tuerce). La memoria individual esta inscrita en un cuerpo, una persona. La memoria comunicacional, que define usos y prácticas lingüísticas, cambia de generación en generación y depende de las interacciones.
 
 La cultura y la memoria son el esfuerzo por sustituir una ausencia de un piso desde donde pararse. Sin este esfuerzo por construir un origen, ni las sociedades ni los individuos tendrían una identidad, un yo o un nosotros que unificara y narrara sus vivencias en el torrente del tiempo.
 
-Sin la memoria cultural, la identidad estaría desdibujada. Las comunidades se sostendrían de la memoria comunicativa, que languidece por el cambio generacional. Entonces las identidades sería fijadas en un punto especifíco del tiempo y durarían dos o tres generaciones a lo más.
+Sin la memoria cultural, la identidad estaría desdibujada. Las comunidades se sostendrían de la memoria comunicativa, que languidece por el cambio generacional. Entonces las identidades sería fijadas en un punto específico del tiempo y durarían dos o tres generaciones a lo más.
 [\[6\]](#6-el-ser-humano-observ%C3%B3-hegel-es-el-%C3%BAnico-que-puede-aprehenderse-en-la-abstracci%C3%B3n-de-un-yo-y-por-eso-tiene-el-privilegio-de-la-locura).
 
 La memoria cultural, que también es sujeta a una historia (memoria e historia no son excluyentes), se constituye de hitos significativos que ordenan el tiempo y le dan una identidad y que tal como la memoria, cambia poco a poco a la luz del futuro.
@@ -41,7 +41,7 @@ El seguimiento voluntario de esta huella es conocido como la *política de la me
 ### El objeto fuera de contexto
 En el contexto de analizar distintas características de la memoria, la el contexto y materialidad asoman como parte importante de esta. Cuando alguien ve un objeto antiguo, extraño, y no sabe para que fue usado, la extrañeza producida no proviene del objeto en si, si no por que toda la malla de significados que lo comprendía ya no está.
 
-Las cosas antiguas nos importan porque vienen de un mundo que ya no esta. Asi ese mundo ahora objetivado interactúa nosotros y ees como el espectro de un mundo que no existe, que la memoria comunicacional no mantuvo a flote. 
+Las cosas antiguas nos importan porque vienen de un mundo que ya no esta. Así ese mundo ahora objetivado interactúa nosotros y es como el espectro de un mundo que no existe, que la memoria comunicacional no mantuvo a flote. 
 
 <!-- pág.156 -->
 ### Caso de éxito de una memoria cultural
@@ -103,7 +103,7 @@ Está el caso de Moisés, que quería de alguna manera preservar el éxodo, que 
 > #### [11] *"Despertándonos así de la ilusión de eternidad que inspira a todo esfuerzo humano"*
 
 <!-- pág. 156 -->
-> #### [12] *"Ortega y Renan, dijieron que un pueblo constituía una nación no cuando posee un pasado común, sino cuando tiene un futuro compartido"*
+> #### [12] *"Ortega y Renan, dijeron que un pueblo constituía una nación no cuando posee un pasado común, sino cuando tiene un futuro compartido"*
 
 <!-- pág. 156 -->
 > #### [13] *"Habría que agregar, como lo muestra la constitución de los Estados nacionales, que una vez que ese futuro se posee, el pasado pasa a ser distinto: entonces la memoria comunicativa, ese diálogo que abarca dos o tres generaciones, comienza a transformarse explícitamente en el proyecto de una memoria cultural que origina ritos, monumentos, fiestas y prácticas en torno a las cuales el tiempo se reorganiza y la identidad adquiere una nueva fisionomía. Así la memoria cultural está casi siempre atada, como si fuera su revés, a la amnesia estructural, a la destrucción deliberada del soporte material o ideológico de esa otra memoria que se quiere desplazar"*

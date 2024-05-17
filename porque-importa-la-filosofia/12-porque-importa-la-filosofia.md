@@ -1,8 +1,8 @@
 # Porque importa la filosofía
 
-La filosofía esta mas cerca de lo que creemos. Basta ver temáticas como el aborto. Pero porqué puede importar acercarnos a ella.
+La filosofía esta más cerca de lo que creemos. Basta ver temáticas como el aborto. Pero porqué puede importar acercarnos a ella.
 
-Isaiah Berlin sostiene que hay tipos de preguntas, las empíricas, relativas a los hechos (¿Qué día naciste?, ¿Qué dijiste?) y las formales, que son puramente conceptuales (¿Cuánto es uno mas uno?, ¿Cuánto significa esta palabra?)
+Isaiah Berlin sostiene que hay tipos de preguntas, las empíricas, relativas a los hechos (¿Qué día naciste?, ¿Qué dijiste?) y las formales, que son puramente conceptuales (¿Cuánto es uno más uno?, ¿Cuánto significa esta palabra?)
 
 Berlin afirmaría añadiría también que hay un tercer tipo de preguntas que no son ni empíricas, ni formales. Son preguntas generales que corresponden a la filosofía, preguntas centrales para la condición humana
 
@@ -10,7 +10,7 @@ En un mundo como el de la universidad, donde todo se somete a un fin utilitario.
 
 Porque importa la filosofía y para que existe. Su sobreviven, hasta cierto punto, depende de nuestra capacidad para responder estas preguntas difíciles. 
 
-Una forma habitual de concebir su fin es el fundamentalismo, la idea de que esta nos provee de un piso firme para las creencias que orientan nuestro existir cotidiano. Pero como dijo David Hume, somo seres humanos antes que filósofos, nuestra existencia no requiere ese tipo de fundamentos. Vivimos antes de requerir filosofía, mas bien, es la filosofía la que recurre a la experiencia cotidiana para elaborar resultados.
+Una forma habitual de concebir su fin es el fundamentalismo, la idea de que esta nos provee de un piso firme para las creencias que orientan nuestro existir cotidiano. Pero como dijo David Hume, somo seres humanos antes que filósofos, nuestra existencia no requiere ese tipo de fundamentos. Vivimos antes de requerir filosofía, más bien, es la filosofía la que recurre a la experiencia cotidiana para elaborar resultados.
 
 Por otro lado, Richard Rorty tiene una posición contraria al fundamentalismo. La realidad o el entorno, dice, no tiene sentido para decidir qué es correcto o no. Bernard Williams le dice *noción absoluta de la realidad*. La realidad es solo una descripción posible entre muchas, la filosofía no es necesaria en puntos de vista morales ni políticos porque no se requeriría de un piso firme. La democracia tendría prioridad sobre la filosofía.
 
@@ -26,7 +26,7 @@ Kant propone una suerte de balance entre las facultades superiores e inferiores 
 
 En la universidad contemporánea, entonces, la filosofía introduce un distancia reflexiva que permite mostrar su contingencia y evitar la imperancia sin contrapeso del saber técnico. No perder la confianza, ni la duda en la técnica, ambos son relevantes.
 
-De esta forma, la filosofía parece una de las pocas posibilidades creadores y autonomías de la existencia histórica, una posibilidad de interrogarnos acerca del mundo que damos por supuesto. La filosofía se esmera por pensar lo no pensado, al contrario de la ciencia que se erige sobre un concepción ya existente. Se comprende porque Heidegger dijo que lo no pensado es el mas alto regalo que puede entregar un pensar, algo solo al alcance la reflexión inútil y filosófica. [\[1\]](#1-con-la-filosofia-nada-puede-hacerse-aunque-acto-seguido-hay-que-preguntar-si-ella-podría-hacer-algo-con-nosotros)
+De esta forma, la filosofía parece una de las pocas posibilidades creadores y autonomías de la existencia histórica, una posibilidad de interrogarnos acerca del mundo que damos por supuesto. La filosofía se esmera por pensar lo no pensado, al contrario de la ciencia que se erige sobre un concepción ya existente. Se comprende porque Heidegger dijo que lo no pensado es el más alto regalo que puede entregar un pensar, algo solo al alcance la reflexión inútil y filosófica. [\[1\]](#1-con-la-filosofía-nada-puede-hacerse-aunque-acto-seguido-hay-que-preguntar-si-ella-podría-hacer-algo-con-nosotros)
 
 ## Destacados
 

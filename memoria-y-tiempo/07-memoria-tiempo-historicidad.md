@@ -17,9 +17,9 @@ Al mismo tiempo que Heidegger escribía, en la cultura alemana, la historia como
 
 Heidegger presentaba la historia como un relato de posibilidades asumidas y/o negadas.
 
-En el siglo 19, la visión del hombre se historizó y la fisionomía del humano era indiscernible del momento en el que surgía. El estudio la historia fue impulsado por los surgientes estados nación, que venían con el anhelo de poseer una identidad que los diferenciara y legitimara su existencia y que entonces, descansara en una trayectoria temporal (o historia) única.
+En el siglo 19, la visión del hombre se historizó y la fisionomía del humano era indiscernible del momento en el que surgía. El estudio la historia fue impulsado por los surgentes estados nación, que venían con el anhelo de poseer una identidad que los diferenciara y legitimara su existencia y que entonces, descansara en una trayectoria temporal (o historia) única.
 
-Los filósofos de la ilustración fueron contrarrestados por la importancia del contexto histórico. [cita al texto de destacados]. Se pensaba que la historia era la más segura de las ciencias. La historia no como fascinación del pasado, si no, un esfuerzo como inteligirlo. A este interés y estudios sobre la historia en el siglo 19 se le suele llamar "historicismo".
+Los filósofos de la ilustración fueron contrarrestados por la importancia del contexto histórico. [cita al texto de destacados]. Se pensaba que la historia era la más segura de las ciencias. La historia no como fascinación del pasado, si no, un esfuerzo como leerlo o entenderlo. A este interés y estudios sobre la historia en el siglo 19 se le suele llamar "historicismo".
 
 El historicismo fue impulsado por dos visiones algo paradigmáticas:
 - La historia muestra los acontecimientos en su único origen y forma. Proveniente tal vez de la visión judío-cristiana del tiempo como historia de salvación, en donde, el sujeto se encuentra en un punto especifico de la linea de la historia.
@@ -35,19 +35,19 @@ La modernidad propone historia en base a la visión judío-cristiana, es decir, 
 
 La crisis de la modernidad es la forma en que la historia afecta la realidad [\[3\]](#3-a-funes-imagin%C3%B3-borges-le-era-impsible-pensar-porque-pensar-dijo-era-olvidar-diferencias) menciona Heidegger, y propone que el pasado debe perder peso a favor del futuro para salir de los problemas de la historia.
 
-¿Como la pérdida de primacía del pasado se traduce a su vez en una más profunda comprensión de la historia y del propio pasado?
+¿Cómo la pérdida de primacía del pasado se traduce a su vez en una más profunda comprensión de la historia y del propio pasado?
 
 En la teología, una disciplina que gira en torno a reflexión racional sobre un acontecimiento y un texto específico, Karl Barth señala que el pasado es contemporáneo. Lleva la contra, rechaza la tarea historicista de reconstruir el contexto para entender situaciones históricas.
 
 En específico por ejemplo, con las "epístolas de Pablo". Textos los cuales Karl Barth dice que no deben ser comprendidos desde su contexto histórico, sino desde su situación teológica, donde Pablo es contemporáneo porque tiene problemas similares. 
 
-El caso de Barth, para Heidegger, sienta las bases para la crisis de la historicidad de la que habla. El malentendido que subyace a esta crisis es el entendimiento de lo histórico como objetos, asuntos o hechos pasados cuyas huellas están en documentos, registros o testimonios, mientras la realidad es que todo sujeto es historico en sí mismo.
+El caso de Barth, para Heidegger, sienta las bases para la crisis de la historicidad de la que habla. El malentendido que subyace a esta crisis es el entendimiento de lo histórico como objetos, asuntos o hechos pasados cuyas huellas están en documentos, registros o testimonios, mientras la realidad es que todo sujeto es histórico en sí mismo.
 
 El ser está envuelto en tiempo y es, por lo tanto, histórico [\[5\]](#5-si-el-individuo-humano-estuviera-simplemente-all%C3%AD-con-una-naturaleza-prefijada-que-durante-su-existencia-nada-m%C3%A1s-se-desplegara-sin-que-%C3%A9l-mismo-tuviera-en-ello-incidencia-alguna-si-los-seres-humanos-no-estuvieran-involucrados-consigo-mismos-si-no-fueran-una-cuesti%C3%B3n-o-un-problema-para-s%C3%AD-un-problema-que-habr%C3%A1n-de-resolver-sobre-el-fundo-ineludible-de-un-tiempo-finito-entonces-no-ser%C3%ADan-hist%C3%B3ricos-y-mirar%C3%ADan-su-propio-pasado-para-usar-la-expresion-de-nietzsche-como-un-anticuario-mira-sus-objetos-como-cosas-a-la-mano-adosadas-exteriormente-a-su-propia-existencia-o-en-cambio-como-pretendi%C3%B3-ranke-podr%C3%ADan-mirar-hacia-atr%C3%A1s-y-describir-las-cosas-tal-como-fueron-con-estricta-neutralidad-como-quien-mira-algo-que-le-es-del-todo-ajeno-un-simple-espectador-desde-fuera-de-la-escena). Media entre el nacimiento la finitud de la muerte. 
 
 Como decía Nietzsche, la vida requería de una conciencia no-histórica, subrayando con esto la carencia que constituye al ser humano y sumándola a la historia y a pesar de su nombre, que simboliza la conciencia no-histórica, sigue siendo histórica. La historia o pasado es una isla en un mar del tiempo lleno de posibilidades para la existencia.
 
-Si como piensan Nietzsche y Heidegger, la historia no tiene que ver con el pasado, sino mas bien con el futuro, ¿Que significa esto para la historia como disciplina?
+Si como piensan Nietzsche y Heidegger, la historia no tiene que ver con el pasado, sino mas bien con el futuro, ¿Qué significa esto para la historia como disciplina?
 
 Podemos decir que la historia entonces no es una fascinación por el pasado, si no por el presente y el futuro que este aloja. De ahí la importancia en contar o narrar lo que nos ha pasado. El recuerdo o los hechos están afectados por nuestro presente y por el olvido. 
 
@@ -57,7 +57,7 @@ Por otro lado, la historia es novelesca [\[9\]](#9-habitualmente-suponemos-que-e
 
 La contemporaneidad es el aspecto más sorprendente de la historia, puesto que solo los vivos pueden contarla, es por así decirlo, un reflejo de lo que esta ocurriendo. 
 
-En términos de sociedad, según Habermas, es importante recalcar la relación entre la auto-comprensión política y la conciencia histórica, o entre la manera en que nos concebimos hoy en dia como comunidad y el como comprendemos nuestro pasado. Se podría decir que lo que somos hoy en día determina nuestra conciencia histórica. Hay también [ejemplos en Chile](#historia-dotada-de-contempor%C3%A1neidad) de historia enrevesada en el presente.
+En términos de sociedad, según Habermas, es importante recalcar la relación entre la auto-comprensión política y la conciencia histórica, o entre la manera en que nos concebimos hoy en día como comunidad y el como comprendemos nuestro pasado. Se podría decir que lo que somos hoy en día determina nuestra conciencia histórica. Hay también [ejemplos en Chile](#historia-dotada-de-contempor%C3%A1neidad) de historia enrevesada en el presente.
 
 Ortega dice que la vida, quehacer dedicado a rehacerse a sí mismo y piso en el que estamos situados, es una realidad radical, de la cual derivan todas las otras [\[10\]](#10-para-los-antiguos-realidad-ser-significaba-cosa-para-los-modernos-ser-significaba-intimidad-subjetividad-para-nostros-ser-significa-vivir-por-tanto-intidmidad-consigo-y-con-las-cosas-confirmamos-que-hemos-llegado-a-un-nivel-espiritual-m%C3%A1s-alto-porque-si-miramos-a-nuestros-pies-a-nuestros-punto-de-partida-el-vivir-hallamos-que-en-%C3%A9l-est%C3%A1n-conservadas-integradas-una-con-otra-y-superadas-la-antig%C3%B1uedad-y-la-modernidad-estamos-a-un-nivel-m%C3%A1s-alto-estamos-a-nuestro-nivel-estamos-a-la-altura-de-los-tiempos), Heidegger subraya que el tiempo futuro es imprescindible, habla que la vida humana es futurición [\[11\]](https://github.com/brunocabezas/memoria-y-tiempo/blob/add_remaining_chapters/chapters/07-memoria-tiempo-historicidad.md#11-si-nuestra-vida-consiste-en-decidir-lo-que-vamos-a-ser-quiere-decirse-que-en-la-ra%C3%ADz-misma-de-nuestra-vida-hay-un-atributo-temporal-decidir-lo-que-vamos-a-ser-por-tanto-el-futuro-y-sin-parar-recibimos-ahora-una-tras-otra-toda-una-f%C3%A9rtil-cosecha-de-averiguaciones-primera-que-nuestra-vida-es-ante-todo-toparse-con-el-futuro-he-aqu%C3%AD-otra-paradoja-no-es-el-presente-o-el-pasado-lo-primero-que-vivimos-no-la-vida-es-una-actividad-que-se-ejecuta-hacia-adelante-y-el-presente-o-el-pasado-se-descubre-despu%C3%A9s-en-relaci%C3%B3n-con-ese-futuro-la-vida-es-futurici%C3%B3n-lo-que-a%C3%BAn-no-es), lo que aún no es.
 
@@ -71,7 +71,7 @@ El hombre como heredero hasta cierto punto.
 ### Heidegger y la estructura originaria del individuo
 
 Heideger arma su concepción del individuo usando distintos conceptos:
-- Sorge (o cuidado): Rasgo mas propio de la existencia del Dasein. Ansiedad o preocupación que afecta al ser humano por su caracteristica temporal
+- Sorge (o cuidado): Rasgo más propio de la existencia del Dasein. Ansiedad o preocupación que afecta al ser humano por su caracteristica temporal
 - Presente distendido: tiempo en el que humano se desenvuelve, distendido por la temporalidad del ser humano. La atención del espíritu es presente, a través de ella pasa lo futuro para hacerse pasado. 
 - Dasein: individuo o el ser-en-el-mundo
 
@@ -138,7 +138,7 @@ Algo parecido ocurre con la historiografía aristocrática de Alberto Edwards, J
 > El autor citando a Borges y la historia de Funes.
 
 <!-- p117 -->
-> #### [4] *"La crisis del historicismo es, pues, para Heidegger, la crisis de la modernidad, la crisis de la forma en que los modernos conciben la realidad ultima o, más precisamente la crisis del mundo moderno. Esa crisis solo puede ser superada en la medida que el pasado pierde primacía a favor del futuro y este último deja de estar concebido como plenitud. Y a pesar de las apariencias, este quiebre a favor del futuro en vez de ser un abandono de la historia constituye su mas profunda radicalización"*.
+> #### [4] *"La crisis del historicismo es, pues, para Heidegger, la crisis de la modernidad, la crisis de la forma en que los modernos conciben la realidad ultima o, más precisamente la crisis del mundo moderno. Esa crisis solo puede ser superada en la medida que el pasado pierde primacía a favor del futuro y este último deja de estar concebido como plenitud. Y a pesar de las apariencias, este quiebre a favor del futuro en vez de ser un abandono de la historia constituye su más profunda radicalización"*.
 >
 > El autor citando a Heidegger.
 

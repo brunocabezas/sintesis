@@ -12,7 +12,7 @@ Pero en 1936 el añade que las concepciones del mundo son, sobre todo, una excre
 
 La modernidad es nuestra concepción contingente y una obra de olvido. Es ciega para su fundamento y su propia creación. 
 
-Lo que la metafísica moderna ha olvidado es que somos seres-en-el-mundo. Que nuestra naturaleza no es vivir circunscrito al mundo circundante, sino abierto al mundo que esta afuera de él [\[4\]](#4-el-ser-humano-no-puede-sino-vivir-en-un-mundo-que-lo-circunda-pero-el-lo-excede-y-en-el-fondo-de-su-estructura-por-decirlo-asi-habita-un-mundo-deslimitado). 
+Lo que la metafísica moderna ha olvidado es que somos seres-en-el-mundo. Que nuestra naturaleza no es vivir circunscrito al mundo circundante, sino abierto al mundo que esta afuera de él [\[4\]](#4-el-ser-humano-no-puede-sino-vivir-en-un-mundo-que-lo-circunda-pero-el-lo-excede-y-en-el-fondo-de-su-estructura-por-decirlo-así-habita-un-mundo-deslimitado). 
 
 Si lo anterior es cierto, lo que pasa en la modernidad es que el mundo circundante es solo eso y nada más. Es como un palacio de cristal, que atrae a todos a su interior y da la ilusión de estar abierto al exterior, pero no. 
 
@@ -28,7 +28,7 @@ Los zapatos en la obra de Van Gogh se despojan de su significación común, se m
 
 Todo el proyecto de Heidegger parece consistir en ver de que forma el ser humano podría recuperar la capacidad de abrir nuevos mundos que la modernidad ha oscurecido. La filosofía cumple un papel principal. 
 
-Por otro lado, Weber parece hablar de un problema similar en su conferencia *La ciencia como vocación*. Piensa en dar con alguna solución para salir del "estado de caída". Afirma que la ciencia es incapaz de responder las preguntas del sentido, y que entonces, es una cosa de actitud personal ante la vida [5](#5-el-inocultable-aristocratismo-de-weber-influido-por-nietzsche-sitúa-en-el-individuo-la-resolución-del-problema)
+Por otro lado, Weber parece hablar de un problema similar en su conferencia *La ciencia como vocación*. Piensa en dar con alguna solución para salir del "estado de caída". Afirma que la ciencia es incapaz de responder las preguntas del sentido, y que entonces, es una cosa de actitud personal ante la vida [\[5\]](#5-el-inocultable-aristocratismo-de-weber-influido-por-nietzsche-sitúa-en-el-individuo-la-resolución-del-problema)
 
 No fue esa la respuesta de Heidegger, ni tampoco la de Sloterdijk. Ambos no vinculan al ser humano en la revolución que permita salir de este estado. 
 
