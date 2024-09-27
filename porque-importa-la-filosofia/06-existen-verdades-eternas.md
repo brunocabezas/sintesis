@@ -44,7 +44,7 @@ Volveremos a esto después de asomarnos a la manera en que Heidegger y Weber car
 
 #### Sexo como cualidad performativa
 
-La vida sería una performatividad permanente en el sentido de que la existencia humana tiene un saber que permite vérselas espontáneamente con el mundo: existir sería estar involucrado en las cosas, volcado a la interacción de un un mundo que se encuentra delante del ser y del que no es posible escapar.
+La vida sería una perfomatividad permanente en el sentido de que la existencia humana tiene un saber que permite vérselas espontáneamente con el mundo: existir sería estar involucrado en las cosas, volcado a la interacción de un un mundo que se encuentra delante del ser y del que no es posible escapar.
 
 La vida se produce mediante un conjunto sostenido de actos cotidianos, que ejecutan una trama interpretativa que guía y a la vez es el resultado de las acciones.
 
