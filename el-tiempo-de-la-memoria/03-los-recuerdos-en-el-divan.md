@@ -10,7 +10,7 @@ Pero luego, cambió de parecer [\[5\]](#5-por-eso-uno-de-los-principios-del-aná
 
 Esto significa un realce de lo simbólico por sobre lo histórico, de los significados por sobre los hechos.
 
-Los traumas, para varios filósofos de entonces, son una noción sumamente ambigua, con una dimensión fantástica infinitamente más importante que su dimensión fáctica. [\[3\]](#3-incluso-si-existe-una-agresión-sexual-real-por-parte-de-un-adulto-dijo-freud-esa-agresión-nunca-pervive-en-la-memoria-como-tal-sino-que-siempre-aacba-envuelta-en-construcciones-fantásmaticas-que-desde-el-inconsciente-acaba-dirigiéndonos)
+Los traumas, para varios filósofos de entonces, son una noción sumamente ambigua, con una dimensión fantástica infinitamente más importante que su dimensión fáctica. [\[3\]](#3-incluso-si-existe-una-agresión-sexual-real-por-parte-de-un-adulto-dijo-freud-esa-agresión-nunca-pervive-en-la-memoria-como-tal-sino-que-siempre-acaba-envuelta-en-construcciones-fantasmáticas-que-desde-el-inconsciente-acaban-dirigiéndonos)
 
 La condición humana se caracteriza por envolver la realidad en una red interpretativa, que sostiene al humano a cierta distancia de ella. Esta se narra en parte por un componente de ficción que se organiza desde las páginas que vienen, desde la próxima a escribir. El inconsciente se organiza desde el futuro.
 
@@ -27,7 +27,7 @@ La importancia del futuro también la subrayó Lacan. El trauma, dice, siempre s
 
 Freud ha analizado extensamente a Leonardo Da Vinci en distintos ámbitos. En _"Un recuerdo infantil de Leonardo Da Vinci"_, el texto gira en torno un recuerdo de la niñez de Leonardo, donde es visitado por un milano (ave rapaz, parecida a un cuervo) que golpea con su cola, repetidamente, la boca del niño.
 
-Freud dice que el recuerdo de Leonardo esta hecho de ficción. El ave debió haber sido un _cuervo_, no un _milano_. Dice que Leonardo se confundió de ave rapaz y que el _cuervo_ hace más sentido, por que tiene lazos simbólicos relacionado a la maternidad (en antiguo egipto) y empalma esto con su teoria de la fantasía [\[4\]](#4-la-fantasía-freudiana-o-si-se-prefiere-el-fantasma-no-encubre-la-realidad-sino-que-la-constituye-soporta-el-sentido-realidad-del-sujeto-que-cuando-se-despoja-de-la-fantasía-queda-a-al-intemperie-desorientado-asomado-al-horror-porque-este-es-finalmente-lo-que-queda-como-resto-cuando-la-fantasía-se-disuelve) y la ficción en los recuerdos.
+Freud dice que el recuerdo de Leonardo esta hecho de ficción. El ave debió haber sido un _cuervo_, no un _milano_. Dice que Leonardo se confundió de ave rapaz y que el _cuervo_ hace más sentido, por que tiene lazos simbólicos relacionado a la maternidad (en antiguo Egipto) y empalma esto con su teoría de la fantasía [\[4\]](#4-la-fantasía-freudiana-o-si-se-prefiere-el-fantasma-no-encubre-la-realidad-sino-que-la-constituye-soporta-el-sentido-realidad-del-sujeto-que-cuando-se-despoja-de-la-fantasía-queda-a-al-intemperie-desorientado-asomado-al-horror-porque-este-es-finalmente-lo-que-queda-como-resto-cuando-la-fantasía-se-disuelve) y la ficción en los recuerdos.
 
 <!--
 Hay múltiples fundamentos, que hacen sentido con el estudio más amplio de Freud sobre Leonardo El problema es que en el recuerdo de Leonardo nunca hubo un buitre, si no un milano, que es otra ave rapaz.
@@ -72,7 +72,7 @@ Las citas sin autor especificado son del autor del libro: Carlos Peña.
 
 <!-- p57.2 -->
 
-> #### [3] *"Incluso si existe una agresión sexual real por parte de un adulto, dijo Freud, esa agresión nunca pervive en la memoria como tal, sino que siempre acaba envuelta en construcciones fantásmaticas que, desde el inconsciente acaban dirigiéndonos"*.
+> #### [3] *"Incluso si existe una agresión sexual real por parte de un adulto, dijo Freud, esa agresión nunca pervive en la memoria como tal, sino que siempre acaba envuelta en construcciones fantasmáticas que, desde el inconsciente acaban dirigiéndonos"*.
 
 <!-- p58 -->
 

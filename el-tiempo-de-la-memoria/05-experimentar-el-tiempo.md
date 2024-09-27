@@ -51,7 +51,7 @@ Las citas sin autor especificado son del autor del libro: Carlos Peña.
 
 > #### [5] *"Mi futuro, pues, me hace descubrir mi pasado para realizarse. El pasado es ahora real porque lo revivo, y, cuando encuentro en mi pasado los medios para realizar mi futuro es cuando descubro mi presente. Y todo esto acontece en un instante; en cada instante la vida se dilata en las tres dimensiones del tiempo real interior. El futuro me rebota hacia el pasado, este hacia el presente, de aquí voy otra vez al futuro que me arroja al pasado, y este es otro presente, en un eterno girar"*.
 > 
-> Jose Ortega y Gasset hablando de la distensión. 
+> José Ortega y Gasset hablando de la distensión. 
 
 <!-- p86.2 -->
 
@@ -70,7 +70,7 @@ Las citas sin autor especificado son del autor del libro: Carlos Peña.
 - Isaiah Berlin, filósofo y teórico político británico
 - San Agustin (Agustin de Hipona), pensador del cristianismo en el imperio romano
 - Aristóteles, filósofo griego
-- Jose Ortega y Gasset, filósofo español
+- José Ortega y Gasset, filósofo español
 - Martin Heidegger, filósofo alemán
 
 ## Índice

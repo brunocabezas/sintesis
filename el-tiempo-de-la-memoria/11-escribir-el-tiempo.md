@@ -6,7 +6,7 @@ En el diálogo *"Teeteto"* de Platón, la memoria es presentada como una tablill
 
 Cicerón explica que así como la escritura consiste en signos y en el material sobre el cual esos signos están escritos, la memoria también contiene un espacio y signos sobre la cual esta construida. Añade también que la retención de la memoria es como a la escritura el acto de recordar como releer aquello que alguna vez se escribió [\[1\]](#1-los-que-conocen-las-letras-explica-ese-autor-desconocido-pueden-escrib%C3%AD-en-ellas-lo-que-se-les-dicta-y-leer-en-voz-alta-lo-que-han-escrito--de-la-misma-manera-los-que-han-aprendido-la-mnemotecnia-pueden-colocar-en-los-entornos-lo-que-escucharon-y-gracias-a-ello-recitarlos-de-memoria-en-efecto-los-entornos-son-como-las-tablillas-de-cera-o-los-papiros-las-im%C3%A1genes-son-como-las-letras--la-disposici%C3%B3n-y-localizaci%C3%B3n-de-las-im%C3%A1genes-son-como-la-escritura-y-pronunciar-el-discurso-como-la-lectura)
 
-¿Que consecuencias tiene esta relacion de memoria y escritura?
+¿Qué consecuencias tiene esta relaciona de memoria y escritura?
 
 <!-- Consecuencia 1, la escritura sobre-escribe la realidad y deja solo huellas-->
 
@@ -20,12 +20,12 @@ En la medida que la narración constituye a la experiencia desde el lenguaje (bi
 Esta facultad interpretativa sale a la vista en los diarios de Piglia, quien cae en cuenta que no recogió simplemente los hechos que le ocurrieron o de los que el participó, sino que en ellos estaba el horizonte de sentido que en el habitaba al escribirlos. Al relatarlos, transformarlos en experiencia, los revestía de sentido y los infectaba hasta cierto punto de ficción. Se concluye entonces que asistimos a la realidad desde cierta ficción, alcance parecido al de Freud en torno a la fantasía que habita en la memoria.
 
 <!-- Consecuencia 3, el lenguaje como herramienta y repertorio ya definido -->
-Dado el carácter narrativo o de escritura de la memoria, salta a la vista el lenguaje como una herramienta que constituye la memoria. Los prejuicios y palabras de la cultura hacen que la memoria esté construida con un lenguaje que no le pertenece al ser mismo, le es ajeno porque ya esta definido [\[5\]] (#5-la-memoria-esta-estructura-desde-un-otro), pero que permite conectarse con las generaciones posteriores y venideras.
+Dado el carácter narrativo o de escritura de la memoria, salta a la vista el lenguaje como una herramienta que constituye la memoria. Los prejuicios y palabras de la cultura hacen que la memoria esté construida con un lenguaje que no le pertenece al ser mismo, le es ajeno porque ya esta definido [\[5\]](#5-la-memoria-esta-estructura-desde-un-otro), pero que permite conectarse con las generaciones posteriores y venideras.
 
 Al recordar lo propio y personal, lo hacemos usando un lenguaje ni propio ni personal.
 
 <!-- Memoria y olvido -->
-Aparte de estos 3 puntos, hay mas particularidades de la memoria derivadas de su vinculación con la escritura. La memoria esta profundamente atada al olvido. Esto no es solo por que cada inscripción en la memoria recorta la realidad, sino porque para olvidar hay que recordar (memoria y olvido no son opuestos). Es la paradoja del olvido y el recuerdo. [\[6\]] (#6-y-por-eso-entonces-kant-cuando-se-desilusiono-de-su-viejo-sirviente-lampe-escribi%C3%B3-en-sus-notas-el-nombre-de-lampe-no-debe-ser-recordado-nunca-m%C3%A1s-la-paradoja-como-es-obvio-salta-a-la-vista-para-no-recordar-el-nombre-de-lampe-kant-deb%C3%ADa-recordarlo-una-y-otra-vez)
+Aparte de estos 3 puntos, hay más particularidades de la memoria derivadas de su vinculación con la escritura. La memoria esta profundamente atada al olvido. Esto no es solo por que cada inscripción en la memoria recorta la realidad, sino porque para olvidar hay que recordar (memoria y olvido no son opuestos). Es la paradoja del olvido y el recuerdo. [\[6\]](#6-y-por-eso-entonces-kant-cuando-se-desilusiono-de-su-viejo-sirviente-lampe-escribi%C3%B3-en-sus-notas-el-nombre-de-lampe-no-debe-ser-recordado-nunca-m%C3%A1s-la-paradoja-como-es-obvio-salta-a-la-vista-para-no-recordar-el-nombre-de-lampe-kant-deb%C3%ADa-recordarlo-una-y-otra-vez)
 
 Para olvidar algo hay que saberlo y luego lo suprimimos con "órdenes de olvido". La noción de órdenes de olvido como algo separado de lo que hay que olvidar es apropósito: el recuerdo olvidado puede perderse, pero no la orden que lo hizo posible no. Entonces podemos distinguir de una memoria voluntaria y otra involuntaria, separadas por estas "órdenes de olvido".
 
@@ -40,7 +40,7 @@ La memoria como mezcla de escritura, olvido y experiencia que constituyen al suj
 
 <!-- pág. 194 -->
 
-> #### [1] _"Los que conocen las letras, explica ese autor desconocido, pueden escribí en ellas lo que se les dicta y leer en voz alta lo que han escrito (...), de la misma manera, los que han aprendido la mnemotecnia pueden colocar en los entornos lo que escucharon y gracias a ello recitarlos de memoria. En efecto, los entornos son como las tablillas de cera o los papiros, las imágenes son como las letras , la disposición y localización de las imágenes son como la escritura y pronunciar el discurso como la lectura"_
+> #### [1] _"Los que conocen las letras, explica ese autor desconocido, pueden escribí en ellas lo que se les dicta y leer en voz alta lo que han escrito (..), de la misma manera, los que han aprendido la mnemotecnia pueden colocar en los entornos lo que escucharon y gracias a ello recitarlos de memoria. En efecto, los entornos son como las tablillas de cera o los papiros, las imágenes son como las letras , la disposición y localización de las imágenes son como la escritura y pronunciar el discurso como la lectura"_
 > 
 > El autor sobre Cicerón y la metáfora entre escritura y memoria  
 
@@ -59,14 +59,14 @@ La memoria como mezcla de escritura, olvido y experiencia que constituyen al suj
 
 > #### [4] _"Tuvimos la experiencia, pero perdimos su sentido; acercarse al sentido restaura la experiencia, "_
 > 
-> Epígrafe the T.S. Elliot en *"Respiración artificial"*
+> Epígrafe de T.S. Elliot en *"Respiración artificial"*
 
 
 <!-- pág. 198 -->
 
 > #### [5] _"La memoria esta estructura desde un Otro"_
 > 
->  El autor sobre Proust refiriendose a la memoria
+>  El autor sobre Proust refiriéndose a la memoria
 
 <!-- pág. 199 -->
 <!-- pág. 201 -->
